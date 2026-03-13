@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>How NYC Works</h1>
+<p class="intro">How NYC Works explains how NYC works. Summaries and transcripts of New York City Council hearings.</p>
+
+<section class="hearing-list">
+    {% for hearing in hearings %}
+    <article class="hearing-card">
+        <a href="/hearings/{{ hearing.slug }}/">
+            <h2>{{ hearing.title }}</h2>
+            <time datetime="{{ hearing.date }}">{{ hearing.date_display }}</time>
+        </a>
+    </article>
+    {% endfor %}
+</section>
+{% endblock %}

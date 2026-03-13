@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}How NYC Works{% endblock %}</title>
+    <link rel="stylesheet" href="{% block static_path %}/static/style.css{% endblock %}">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="/" class="site-title">How NYC Works</a>
+        </nav>
+    </header>
+    <main>
+        {% block content %}{% endblock %}
+    </main>
+    <footer>
+        <p>A project of the <a href="https://cbcny.org">Citizens Budget Commission</a></p>
+    </footer>
+</body>
+</html>
