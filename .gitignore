@@ -1,5 +1,5 @@
-# Build output
-site/output/
+# Build output is committed for Cloudflare Pages deployment
+# site/output/
 
 # Python
 __pycache__/
