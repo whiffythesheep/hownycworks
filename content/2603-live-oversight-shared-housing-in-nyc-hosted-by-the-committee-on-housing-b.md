@@ -5,54 +5,65 @@ slug: 2603-live-oversight-shared-housing-in-nyc-hosted-by-the-committee-on-housi
 youtube_url: ""
 ---
 
-# NYC Council Housing & Buildings Committee Meeting Summary
-**February 9, 2026 | Chair: Pierina Ana Sanchez**
+# NYC Council Committee on Housing and Buildings Meeting Summary
+**February 9, 2026 | Chair Pierina Ana Sanchez**
+
+## Meeting Overview
+The Housing and Buildings Committee held an oversight hearing on shared housing and reviewed six housing-related bills.
 
 ## Key Participants
-- **Council Members**: Pierina Ana Sanchez (Chair), Virginia Maloney (bill sponsor), Yusef Salaam, Susan Zhuang, Oswald Feliz
-- **HPD Officials**: Michael Sandler (Associate Commissioner), Lucy Joffe (Deputy Commissioner), Anne Marie Santiago (Deputy Commissioner), Emily Osgood (Commissioner)
-- **DOB Officials**: Gus Sarrakis (Deputy Commissioner), Keith Wenk (Assistant Commissioner)
+- **Chair Pierina Ana Sanchez** and committee members CM Virginia Maloney, CM Yusef Salaam, CM Susan Zhuang, CM Oswald Feliz
+- **HPD officials**: Michael Sandler (Associate Commissioner), Lucy Joffe, Anne Marie Santiago, Emily Osgood, Steven Erdman
+- **DOB officials**: Gus Sarrakis (Deputy Commissioner), Keith Wenk (Assistant Commissioner)
 - **Parks Department**: Matt Drury (Chief of Legislative Affairs)
 
 ## Discussion by Agenda Item
 
-### Int 0066-2026: Shared Housing Legalization (Maloney)
-**Key Points**: Bill would legalize shared housing (private bedrooms with shared kitchens/bathrooms) for new construction and office-to-residential conversions only. Currently ~40% of New Yorkers live in some form of shared housing, often illegally.
+**Int 0066-2026 (Shared Housing) - CM Maloney**
+- Legalizes shared housing arrangements where tenants rent individual rooms with shared common areas
+- Applies only to new construction or office-to-residential conversions, not existing apartment conversions
+- Administration supports bill, citing 40% of New Yorkers already live in shared arrangements
+- Would provide individual leases, right to counsel protections, and rent stabilization eligibility under certain programs
+- Addresses illegal SRO conversions by creating legal alternative
 
-**Administration Position**: Supportive. HPD sees this as addressing housing shortage for single adults, reducing pressure on family-sized apartments. Would not allow conversion of existing apartments to shared housing.
+**Int 0071-2026 (Sidewalk Sheds/Tree Protection) - DOB**
+- Requires permit holders to repair/replace city trees damaged by scaffolding within 6 months
+- DOB unveiled 6 new sidewalk shed designs in late 2025 to improve pedestrian experience
+- Current enforcement targets sheds in place over 5 years
 
-**Tenant Protections**: Residents would have individual leases, access to right to counsel, rent stabilization if built under certain tax incentives, and good cause eviction protections where applicable.
+**Int 0271-2026 (Vacate Order Services)**
+- Would require HPD to enhance tenant services and pursue Article 7-A proceedings for non-compliant owners
+- Administration opposes automatic 7-A requirement, preferring case-by-case approach
+- Discussion referenced recent Grand Avenue fire response coordination issues
 
-### Int 0071-2026: Tree Replacement for Sidewalk Sheds (DOB)
-**Key Points**: Would require permit holders to repair/replace city trees damaged by scaffolding within 6 months.
+**Int 0418-2026 (Housing Portal Assistance)**
+- Would require in-person Housing Connect assistance program
+- HPD currently works with 46 community housing ambassador organizations
+- Chair noted 6-month wait times for housing ambassador appointments
 
-**Administration Position**: Supportive of intent. DOB unveiled 6 new sidewalk shed designs in late 2025 to minimize tree damage and improve pedestrian experience. Current enforcement targets sheds up for 5+ years.
+**Int 0421-2026 (Cellar Dwelling Units)**
+- Technical cleanup allowing new construction of cellar units in 1-2 family homes
+- Corrects omission from previous City of Yes legislation
 
-### Int 0271-2026: Enhanced Tenant Services for Vacate Orders
-**Key Points**: Would require HPD to increase relocation services and initiate 7(a) proceedings (court-appointed property administrators) within short timeframes.
+**Int 0427-2026 (Re-rental Process)**
+- Addresses affordable housing unit re-rentals through Housing Connect
+- Current waiver expires April 2026; HPD reviewing stakeholder feedback for permanent solution
 
-**Administration Position**: Mixed. Supports enhanced services but opposes mandatory 7(a) proceedings, arguing they should be reserved for worst cases. HPD currently has 46 housing ambassador organizations providing assistance.
-
-### Other Bills
-- **Int 0418**: HPD prefers expanding existing housing ambassador programs over creating new in-person portal assistance
-- **Int 0421**: Technical cleanup allowing cellar apartments in new construction (inadvertently omitted from City of Yes)
-- **Int 0427**: HPD reviewing feedback on re-rental process; current waiver expires April 2026
-
-## Notable Facts & Figures
-- 40% of New Yorkers currently live in some form of shared housing
-- Small households grew 11% (2013-2023) while small units grew only 7%
-- Manhattan studio apartments average ~$4,000/month
-- Shared housing conversions show 40%+ reduction in development costs per bedroom vs. traditional apartments
-- ~670,000 street trees citywide; ~25,000 near sidewalk sheds at any time
+## Notable Facts and Figures
+- 40% of New Yorkers live in shared housing arrangements
+- Manhattan studio apartments average $4,000/month
+- Small households grew 11% (2013-2023) while small unit supply grew only 7%
+- Shared housing conversion shows 40% cost reduction per bedroom vs. traditional apartments
+- NYC has ~670,000 street trees; ~25,000 near sidewalk sheds at any time
 - 100-150 construction-related tree damage reports annually
-- Tree replacement costs several thousand dollars each
-- HPD has 46 community housing ambassador organizations
+- Tree replacement costs several thousand dollars
+- HPD works with 46 housing ambassador organizations
 
 ## Follow-up Commitments
 - HPD to clarify how shared housing units count toward good cause protection thresholds
-- DOB/Parks to provide more details on tree damage enforcement and business shade structure permitting
-- HPD to continue discussions on fire response communication protocols (referenced Grand Avenue fire incident)
-- Agencies to finalize new sidewalk shed designs through rulemaking process later in 2026
+- DOB to provide specific information on shed permitting and business compensation
+- Agencies to improve fire response coordination protocols
+- HPD to finalize re-rental process policy before April waiver expiration
 
 ## Full Transcript
 
@@ -60,133 +71,173 @@ youtube_url: ""
 
 
 
-Senior Legislative Counsel, Billy Eck, Senior Policy Analyst, Derek Spencer, Finance Analyst, Carla Naranjo, and Data Scientist, Rishi Duggal. Before I turn to my committee, I also just want to thank the agencies that are working the hardest. Thank you for everything that you're doing to respond to the heat complaints that I know have skyrocketed. We really appreciate all of the overtime. We are joined today by my— we are joined today by my committee members. Um, sorry, uh, sorry, Carolyn. Sorry, Carolyn. Sorry, babies. Sorry, always blame the babies. Poor babies. Always blame the babies, right? Councilmember Hudson, Councilmember Zhuang, and— oh my gosh, I'm sorry. Oh my gosh.
+Senior Legislative Counsel, Billy Eck, Senior Policy Analyst, Derek Spencer, Finance Analyst, Carla Naranjo, and Data Scientist, Rishi Duggal. Before I turn to my committee, I also just want to thank the agencies that are working the hardest. Thank you for everything that you are doing to respond to the heat complaints that I know have skyrocketed. We really appreciate all of the overtime. We are joined today by my committee members. Sorry, Carolyn. Sorry, babies. Always blame the babies, right? CM Hudson, CM Zhuang, and oh my gosh, I am sorry.
 
 **(00:00:59)**
 
 
 
-Councilmember Salam.
+CM Salaam.
 
 **(00:01:00)**
 
 
 
-He goes right before me on the—
+He goes right before me on the...
 
 **(00:01:01)**
 
 
 
-on the—
+on the...
 
 **(00:01:01)**
 
 
 
-he goes right before me. My apologies. I love you, colleagues. You are my apologies. I love you, colleagues. You are all the best. Before we turn to the administration's testimony, we're going to turn it to who is going to speak on her legislation. Who is going to speak on her legislation.
+he goes right before me. My apologies. I love you, colleagues. You are all the best. Before we turn to the administration's testimony, we are going to turn it to who is going to speak on her legislation.
 
 **(00:01:17)**
 
 
 
-Thank you. I'm proud to introduce this legislation. Introduce this legislation. Desperate need. New York is in desperate need of affordable housing and by our increasing our housing City Council can deliver on both. The City Council can deliver on both. Housing rules have not kept up with how New Yorkers actually live today, and this bill addresses a clear gap in our housing system. Right now, our codes effectively— right now, our codes effectively recognize only two options: full apartment or outdated SRO rules that no longer reflect modern safety standards. As a result, students, young workers, Students, young workers, and immigrants and small families are priced out of legal housing options. This legislation legalizes a form of housing that New Yorkers are already relying on. Today, roughly 40% of New Yorkers live in some form of shared housing, whether that's a dorm-style arrangement or apartments divided by multiple people. Ensuring that people who choose to live in this way can do so in a safe, comfortable, and regular comfortable and regular environment. By modernizing and legalizing shared housing, we are creating an out— for living environment than outdated SRO rules, and also creating an option that is more affordable than a studio apartment, which in Manhattan now averages closer to $4,000 a month, a price that people really cannot afford. This legislation also supports the conversion of office buildings to shared housing by allowing shared housing as part of office to residential conversions. The bill unlocks new opportunities to bring life back to struggling commercial corridors while rapidly expanding the supply of affordable housing. These conversions are uniquely situated for shared living layouts and can be delivered more quickly and at lower cost than traditional developments. Right now, shared housing largely exists in an unregulated and informal space. This bill changes that. This bill changes proper sprinkler system, requiring proper sprinkler system measures to code fire safety measures, bringing professional management, accountability, bringing transparency, accountability to a housing model that already exists. Most of all, this bill is about— most of all, this bill is about— New York City desperately needs more housing, and it needs housing that reflects the diversity. This model supports artists, students, young people trying to make it in the city, and older adults. All with housing that is done the right way, all with housing that is done the right way, safely, transparently, and affordably. Thank you.
+Thank you. I am proud to introduce this legislation. New York is in desperate need of affordable housing and by increasing our housing supply the City Council can deliver on both. Housing rules have not kept up with how New Yorkers actually live today, and this bill addresses a clear gap in our housing system. 
+
+Right now, our codes effectively recognize only two options: full apartment or outdated SRO rules that no longer reflect modern safety standards. As a result, students, young workers, and immigrants and small families are priced out of legal housing options. This legislation legalizes a form of housing that New Yorkers are already relying on. Today, roughly 40% of New Yorkers live in some form of shared housing, whether that is a dorm-style arrangement or apartments shared by multiple people. 
+
+By modernizing and legalizing shared housing, we are creating a safer living environment than outdated SRO rules, and also creating an option that is more affordable than a studio apartment, which in Manhattan now averages closer to $4,000 a month, a price that people really cannot afford. This legislation also supports the conversion of office buildings to shared housing by allowing shared housing as part of office to residential conversions. The bill unlocks new opportunities to bring life back to struggling commercial corridors while rapidly expanding the supply of affordable housing. These conversions are uniquely situated for shared living layouts and can be delivered more quickly and at lower cost than traditional developments. 
+
+Right now, shared housing largely exists in an unregulated and informal space. This bill changes that. This bill requires proper sprinkler systems, fire safety measures, bringing professional management, transparency, accountability to a housing model that already exists. Most of all, this bill is about... New York City desperately needs more housing, and it needs housing that reflects the diversity. This model supports artists, students, young people trying to make it in the city, and older adults. All with housing that is done the right way, safely, transparently, and affordably. Thank you.
 
 **(00:03:56)**
 
 
 
-Thank you, Councilmember Virginia. Thank you, Councilmember Virginia. Um, and with that, I want to turn it over to the administration to read us your testimony. But first, our council will administer the oath.
+Thank you, CM Virginia Maloney. And with that, I want to turn it over to the administration to read us your testimony. But first, our counsel will administer the oath.
 
 **(00:04:28)**
 
 
 
-Thank you. You may begin. Um, good morning, Chair Sanchez and members of— Good morning, Chair Sanchez and members of the Council Committee on Housing and Buildings. Uh, Council Committee on Housing and Buildings. My name is Michael Sandler. I'm the Associate Commissioner for the Office of Neighborhood Strategies. I'm joined by my colleagues Lucy Joffe, Deputy Commissioner of Housing and Strategy, as well as Anne Marie Santiago, Deputy Commissioner of Austin Neighborhood Services, Emily Osgood, Housing Commissioner Housing Opportunity and Placement Services, Steven Erdman, Assistant Commissioner Housing and Homeownership Opportunities and Preservation. We appreciate the opportunity to testify today and look forward to productive partnership with the Speaker, Chair, and all the partners that make affordable housing possible. Today I'm here to discuss a few of the critical issues and opportunities facing our state. Our testimony will focus primarily on shared housing, but we're also looking forward to discussing the issues tackled in the other bills being heard today. New Yorkers deserve choices, and our limited housing supply does not create that. Shortage means that we must aggressively work to expand housing choice for all New Yorkers. And learn from the past. Innovate and learn from the past. Reintroducing shared housing is an incredible opportunity to do just that. Shared housing, privately leased bedrooms, shared kitchens, bathrooms, and living spaces has a long history in New York City. For decades, models like boarding houses and SROs provided affordable options for immigrants, young workers,— and people navigating life. Mid-20th century policies intended to eliminate housing quality ultimately eliminated most of this housing. This change meant— meant to help New Yorkers— unintentionally— meant to help New Yorkers— unintentionally contributed to a shortage of low-cost options for single people. Between 2013 and 2023, the number of small households grew by more than 11%. The supply of small units grew only by 7%. Many single New Yorkers rely on roommates, often in illegally converted apartments. Tenant protection. Now we're seeing striking growth in formal and commercialized co-living options. There's a clear and strong demand for shared housing. And— Intro 66 responds directly to— Intro 66 responds directly to— This legislation builds on nearly a decade of research, testing, and interagency collaboration. HPD's shared housing roadmap released in November of last year draws on lessons from historic models. —pilot extensive engagement with tenants, operators, advocates, and other municipalities. Passage of City of Yes for Housing Opportunity removed key zoning barriers. Intro 666 now advances the remaining code changes needed to allow shared housing as of right and to regulate it as of right. Shared housing creates practical opportunities in today's market to lower costs in office-to-residential conversions and housing options in amenity-rich areas by safer, regulated alternatives— to illegal homeless. Existing programs across the city already demonstrate how shared housing can support students, young adults, new parents, and newcomers out being transitional or tied to the shelter system. We want to be clear, shared housing is not for everyone. Rather, it is one additional tool to address a severe shortage of low-cost housing options for seniors. At a time of historically low vacancy rates, addressing the housing crisis requires a multifaceted approach. Shared housing is one part of that strategy. After the original introduction of this bill, after the original introduction of this bill in November 2025. Feedback from state pollers has made it clear that the ratios of kitchens and bathrooms, as well as safety standards, are critically important. Look forward to hearing more detailed feedback today and working with the City Council to strengthen this legislation. Grateful for deep collaboration with former Councilmember Boscher and look forward to our continued collaboration with Councilmember Maloney and the Council to advance this legislation. Switching gears, we'd like to discuss emergency— Switching gears, we'd like to discuss needing to vacate your home because of an emergency. Needing to vacate your home because of an emergency is a nightmare for a few of us in the Bronx. But it is the reality for New Yorkers who are displaced from their homes due to fires or who have had to vacate due to unsafe housing conditions. Intro 271 addresses HPD services and enforcement following a city-issued vacate order. As you know, the American Red Cross currently responds to vacate orders and fires in partnership with the city and provides multiple onsite services to families in need, including informing displaced tenants of available resources, providing short-term emergency housing, and making referrals to HPD for temporary housing placement. Following displacement events such as fires, such as fires, recognize the importance of clear, direct communication to tenants, understand how the city is responding and what resources are available. We appreciate the council's leadership last session to pass Local Law 109 of 2023, strengthen interagency coordination in response to vacated properties, supported our efforts to assist displaced tenants. Administration is actively working on amending this bill to designate the Mayor's Office of Housing and Recovery Operations port for residents displaced by fires, natural disasters, or other residential emergencies, and facilitate communication with impacted tenants, property owners, and relevant city agencies. We look forward to continuing this work in partnership with the council. In addition to directly supporting displaced residents, HFD also works through its code enforcement team to monitor and support timely repair of vacated homes to home after many HPD's current enforcement and monitoring approach prioritizes responsiveness and a range of tools, working collaboratively with owners to achieve timely compliance and durable outcomes for residents. We are concerned that the bill's requirement that HPD initiate 7(a) proceedings, which are proceedings seeking the appointment of an administrator to manage the property instead of the property owner, within a short timeframe if corrections are not made, is not necessary. The 7(a) program is an important tool for addressing extremely distressed properties addressing extremely distressed properties and persisting owner non-compliance after other enforcement efforts have failed. Continuing the use of the 7A program for that purpose. We look forward to continuing to work with the council to address these concerns while advancing our shared goal of supporting displaced tenants and improving outcomes for residents of vacated buildings. Now I'm eager to dive into an extremely important part of this year's work. Connecting New Yorkers to affordable homes. Which would require HPD to create an in-person housing connection assistance program in coordination with other agencies would unintentionally make it harder to house new folks. We recognize the intent behind this bill in ensuring New Yorkers can get into affordable housing. Navigating the affordable housing process is something we as an agency deeply believe in. To highlight this priority, we have a number of existing relationships with community organizations for our housing and be announcing plans to We will be announcing plans to expand support for these organizations this year. Additionally, we recently launched a neighborhood-based initiative in partnership with the public libraries to provide the kind of in-person support we believe the council needs, from one-on-one digital guidance to multilingual application assistance. These programs are connecting New Yorkers to housing opportunities. We welcome the opportunity to discuss how we can work with the council on these challenges. Intro 427, which addresses how affordable housing units that become vacant also also known as second-generation units, through the Housing Connect, are re-rented through the Housing Connect, which is one of our highest priorities, touches one of our highest priorities for policy, process, and technology, from a robust variety of stakeholders, input from a robust variety of stakeholders, how actively rethinking how best to connect New Yorkers with these important— recently rolled out a new temporary— recently rolled out a new temporary update, the third update announced over the last few years, to improve prioritizing re-rental and a reprioritizing re-rental upgrades for our next phase of work on improvements to Housing Connect. Re-rentals will continue to be required. Rentals will continue to be required to be posted publicly and accessible and accessible, and it will not be necessary to send through HBS Messenger. Though many may continue to do so voluntarily. This added flexibility is one example of ways we're testing strategies to help fill units faster and reduce unnecessary waiting. We are currently incorporating feedback into our plan to rebuild re-rentals using insights from this pilot, housing advocates, New Yorkers, building owners, and our council, and recommendations from the council to guide that work. The deep partnership and collaboration with the council and stakeholders on this topic, and are hopeful that today's discussion continues to inform and advance our work. Finally, I'd like to transition to talking about— finally, I'd like to transition to talking about— 2021 is a cleanup bill that clarifies the city's housing maintenance code to explicitly allow new construction, including in cellars, of one and two-family homes. Local Laws 126 and 127, 2024, enable the legalization residences, and this bill corrects the omission of new lawful cellar residences from the statute. This technical fix will enable the city to make it as simple and straightforward as possible for homeowners to add safe ancillary dwelling units to their properties and to be able to rent their cellar units. Thank you for your continued partnership in expanding access to safe, affordable housing for New Yorkers. We look forward to working closely with Speaker Menin, Chair Sanchez, and the Council in this legislative session to deliver meaningful results for New Yorkers across the city.
+You may begin. Good morning, Chair Sanchez and members of the Council Committee on Housing and Buildings. My name is Michael Sandler. I am the Associate Commissioner for the Office of Neighborhood Strategies. I am joined by my colleagues Lucy Joffe, Deputy Commissioner of Housing and Strategy, as well as Anne Marie Santiago, Deputy Commissioner of Neighborhood Services, Emily Osgood, Deputy Commissioner of Housing Opportunity and Placement Services, Steven Erdman, Assistant Commissioner Housing and Homeownership Opportunities and Preservation. We appreciate the opportunity to testify today and look forward to productive partnership with the Speaker, Chair, and all the partners that make affordable housing possible. 
+
+Today I am here to discuss a few of the critical issues and opportunities facing our City. Our testimony will focus primarily on shared housing, but we are also looking forward to discussing the issues tackled in the other bills being heard today. New Yorkers deserve choices, and our limited housing supply does not create that. Housing shortage means that we must aggressively work to expand housing choice for all New Yorkers and learn from the past. Reintroducing shared housing is an incredible opportunity to do just that. 
+
+Shared housing, privately leased bedrooms with shared kitchens, bathrooms, and living spaces has a long history in New York City. For decades, models like boarding houses and SROs provided affordable options for immigrants, young workers, and people navigating life transitions. Mid-20th century policies intended to eliminate substandard housing quality ultimately eliminated most of this housing. This change, meant to help New Yorkers, unintentionally contributed to a shortage of low-cost options for single people. 
+
+Between 2013 and 2023, the number of small households grew by more than 11%. The supply of small units grew only by 7%. Many single New Yorkers rely on roommates, often in illegally converted apartments. Now we are seeing striking growth in formal and commercialized co-living options. There is a clear and strong demand for shared housing. Int 0066-2026 responds directly to this demand. 
+
+This legislation builds on nearly a decade of research, testing, and interagency collaboration. HPD's shared housing roadmap released in November of last year draws on lessons from historic models and extensive engagement with tenants, operators, advocates, and other municipalities. Passage of City of Yes for Housing Opportunity removed key zoning barriers. Int 0066-2026 now advances the remaining code changes needed to allow shared housing as of right and to regulate it properly. 
+
+Shared housing creates practical opportunities in today's market to lower costs in office-to-residential conversions and expand housing options in amenity-rich areas by providing safer, regulated alternatives to illegal housing. Existing programs across the city already demonstrate how shared housing can support students, young adults, new parents, and newcomers without being transitional or tied to the shelter system. We want to be clear, shared housing is not for everyone. Rather, it is one additional tool to address a severe shortage of low-cost housing options. At a time of historically low vacancy rates, addressing the housing crisis requires a multifaceted approach. Shared housing is one part of that strategy. 
+
+After the original introduction of this bill, feedback from stakeholders has made it clear that the ratios of kitchens and bathrooms, as well as safety standards, are critically important. We look forward to hearing more detailed feedback today and working with the City Council to strengthen this legislation. We are grateful for deep collaboration with former CM Bottcher and look forward to our continued collaboration with CM Maloney and the Council to advance this legislation. 
+
+Switching gears, we would like to discuss needing to vacate your home because of an emergency. Needing to vacate your home because of an emergency is a nightmare. It is the reality for New Yorkers who are displaced from their homes due to fires or who have had to vacate due to unsafe housing conditions. Int 0271-2026 addresses HPD services and enforcement following a city-issued vacate order. As you know, the American Red Cross currently responds to vacate orders and fires in partnership with the City and provides multiple onsite services to families in need, including informing displaced tenants of available resources, providing short-term emergency housing, and making referrals to HPD for temporary housing placement. 
+
+Following displacement events such as fires, we recognize the importance of clear, direct communication to tenants to help them understand how the City is responding and what resources are available. We appreciate the Council's leadership last session to pass Local Law 109 of 2023 to strengthen interagency coordination in response to vacated properties and support our efforts to assist displaced tenants. The administration is actively working on establishing the Mayor's Office of Housing and Recovery Operations as the primary coordination point for residents displaced by fires, natural disasters, or other residential emergencies, and to facilitate communication with impacted tenants, property owners, and relevant city agencies. We look forward to continuing this work in partnership with the Council. 
+
+In addition to directly supporting displaced residents, HPD also works through its code enforcement team to monitor and support timely repair of vacated properties so residents can return home safely. HPD's current enforcement and monitoring approach prioritizes responsiveness using a range of tools, working collaboratively with owners to achieve timely compliance and durable outcomes for residents. We are concerned that the bill's requirement that HPD initiate Article 7-A proceedings, which are proceedings seeking the appointment of an administrator to manage the property instead of the property owner, within a short timeframe if corrections are not made, is not always necessary. The Article 7-A program is an important tool for addressing extremely distressed properties and persistent owner non-compliance after other enforcement efforts have failed. We look forward to continuing to work with the Council to address these concerns while advancing our shared goal of supporting displaced tenants and improving outcomes for residents of vacated buildings. 
+
+Now I am eager to dive into an extremely important part of this year's work: connecting New Yorkers to affordable homes. Int 0418-2026, which would require HPD to create an in-person Housing Connect assistance program in coordination with other agencies, addresses challenges we as an agency deeply believe in addressing. To highlight this priority, we have a number of existing relationships with community organizations and will be announcing plans to expand support for these organizations this year. Additionally, we recently launched a neighborhood-based initiative in partnership with the public libraries to provide the kind of in-person support we believe the Council seeks, from one-on-one digital guidance to multilingual application assistance. These programs are connecting New Yorkers to housing opportunities. We welcome the opportunity to discuss how we can work with the Council on these challenges. 
+
+Int 0427-2026, which addresses how affordable housing units that subsequently become vacant, also known as second-generation units, are re-rented through Housing Connect, touches one of our highest priorities. Based on input from a robust variety of stakeholders, we are actively rethinking how best to connect New Yorkers with these important opportunities. We recently rolled out a new temporary update to improve re-rental processes and are prioritizing re-rental upgrades for our next phase of work on improvements to Housing Connect. Re-rentals will continue to be required to be posted publicly and remain accessible. This added flexibility is one example of ways we are testing strategies to help fill units faster and reduce unnecessary delays. We are currently incorporating feedback into our plan to rebuild re-rentals using insights from this pilot, input from housing advocates, New Yorkers, building owners, and recommendations from the Council to guide that work. We value the deep partnership and collaboration with the Council and stakeholders on this topic, and are hopeful that today's discussion continues to inform and advance our work. 
+
+Finally, I would like to transition to talking about Int 0421-2026. This is a cleanup bill that clarifies the City's Housing Maintenance Code to explicitly allow new construction of dwelling units in cellars of one and two-family homes. Local Laws 126 and 127 of 2024 enabled the legalization of existing cellar dwelling units, and this bill corrects the omission of new lawful cellar residences from the statute. This technical fix will enable the City to make it as simple and straightforward as possible for homeowners to add safe accessory dwelling units to their properties and to be able to rent their cellar units. 
+
+Thank you for your continued partnership in expanding access to safe, affordable housing for New Yorkers. We look forward to working closely with Speaker Adams, Chair Sanchez, and the Council in this legislative session to deliver meaningful results for New Yorkers across the City.
 
 **(00:14:04)**
 
 
 
-Thank you, and good morning, Chair Sanchez. Good morning, Chair Sanchez and members of the Committee on Housing and Buildings. I am Gus Sarrakis, Deputy Commissioner for Development and Technical Affairs at the New York City Department of Finance. And I'm joined by my colleague Keith Wenk, Assistant Commissioner for Code and Zoning Interpretation. I'm pleased to testify before the Committee regarding Intro 71. Intro 71 would require the permit holder responsible for installing a sidewalk shed or scaffolding to repair or replace within 6 months any tree outside the public right-of-way that is damaged as a result of such sidewalk shed or scaffolding. The department is supportive of the intent of this bill and the goal of protecting the city's urban tree canopy. We recognize the value trees add to New Yorkers' quality of life. We are coordinating with our colleagues at the Department of Parks and Recreation— to determine the most effective approach to that decision. To that end, the agencies are currently considering proactive measures to minimize the potential impact on city-owned trees. Additionally, the department engaged consulting services to reimagine sidewalk sheds and develop new designs that are a departure from the widely used sidewalk shed we currently see. The goal of this endeavor was to improve the pedestrian and building occupants' experience. The design criteria required the selected firm firms to account for a number of factors, including curb cuts, street furniture, and trees. The department unveiled 6 new designs in the latter part of 2025. The designs allow for a degree of flexibility and versatility to address New York City's unique environment. The department continues to work closely with the selected firms as we move towards implementation of the new sidewalk shed system. While the department remains committed to implementing strong pedestrian protections, it also recognizes the importance of recognizes the importance of reducing their visual impact on the urban environment and preventing temporary structures from remaining in place longer than needed. The Department of Parks looks forward to working with the City Council on this issue.
+Thank you, and good morning, Chair Sanchez and members of the Committee on Housing and Buildings. I am Gus Sarrakis, Deputy Commissioner for Development and Technical Affairs at the New York City Department of Buildings. I am joined by my colleague Keith Wenk, Assistant Commissioner for Code and Zoning Interpretation. I am pleased to testify before the Committee regarding Int 0071-2026. 
+
+Int 0071-2026 would require the permit holder responsible for installing a sidewalk shed or scaffolding to repair or replace within 6 months any tree on the public right-of-way that is damaged as a result of such sidewalk shed or scaffolding. The department is supportive of the intent of this bill and the goal of protecting the City's urban tree canopy. We recognize the value trees add to New Yorkers' quality of life. We are coordinating with our colleagues at the Department of Parks and Recreation to determine the most effective approach. To that end, the agencies are currently considering proactive measures to minimize the potential impact on city-owned trees. 
+
+Additionally, the department engaged consulting services to reimagine sidewalk sheds and develop new designs that are a departure from the widely used sidewalk shed we currently see. The goal of this endeavor was to improve the pedestrian and building occupants' experience. The design criteria required the selected firms to account for a number of factors, including curb cuts, street furniture, and trees. The department unveiled 6 new designs in the latter part of 2025. The designs allow for a degree of flexibility and versatility to address New York City's unique environment. The department continues to work closely with the selected firms as we move towards implementation of the new sidewalk shed system. 
+
+While the department remains committed to implementing strong pedestrian protections, it also recognizes the importance of reducing their visual impact on the urban environment and preventing temporary structures from remaining in place longer than needed. The Department of Buildings looks forward to working with the City Council on this issue.
 
 **(00:16:15)**
 
 
 
-Thank you very much. Thank you so much for your testimony. Thank you so much for your testimony. I'm going to begin with— turn to my colleagues and then turn to my colleagues before coming back. Starting with intro number 66 by Councilor Lomberget. The committee is committed to the protection of the allowing shared housing options could increase those protections. Could you walk us through exactly how these housing arrangements that legalized shared housing would replace or supplement?
+Thank you very much. Thank you so much for your testimony. I am going to begin with... turn to my colleagues before coming back. Starting with Int 0066-2026 by CM Maloney. The committee is committed to protecting tenants. I want to understand how allowing shared housing options could increase those protections. Could you walk us through exactly how these housing arrangements... how legalized shared housing would replace or supplement existing arrangements?
 
 **(00:16:50)**
 
 
 
-Sure. I think there's two main forms— Sure. I think there's two main forms of shared housing that we see today. So one would be a kind of professionalized co-living, which is a professional operator who's renting either an entire building or floor or renting renting out individual rooms and managing shared spaces within those. We also see landlords of multiple dwellings renting out individual rooms to tenants within those. And then I think there's also a third category, which I'll refer to as an illegal SRO, which often has kind of temporary walls that are put up kind of carving up an apartment into smaller apartments. So all three of these are illegal or quasi-legal? Are illegal or quasi-legal in New York City, depending on the exact arrangement within an apartment. Today, in an apartment in New York City today, there's a requirement that all the tenants maintain a common door. So putting a lock on a bedroom door sort of makes that de facto illegal. It can cause safety issues, especially if that bedroom door is an access point to a fire escape. Under Interest 66, new construction shared housing or adaptive reuse of commercial buildings, a new form of shared housing where tenants can rent individual rooms with dorm-style shared shared housing dwelling style. Shared housing dwelling. Each tenant will have an independent relationship with their landlord and enforceable lease.
+Sure. I think there are two main forms of shared housing that we see today. So one would be a kind of professionalized co-living, which is a professional operator who is renting either an entire building or floor and renting out individual rooms and managing shared spaces within those. We also see landlords of multiple dwellings renting out individual rooms to tenants within those. And then I think there is also a third category, which I will refer to as an illegal SRO, which often has temporary walls that are put up carving up an apartment into smaller units. 
+
+So all three of these are illegal or quasi-legal in New York City today, depending on the exact arrangement. In an apartment in New York City today, there is a requirement that all the tenants maintain a common lease. So putting a lock on a bedroom door sort of makes that arrangement illegal. It can cause safety issues, especially if that bedroom door blocks access to a fire escape. Under Int 0066-2026, we would allow new construction shared housing or adaptive reuse of commercial buildings to create a new form of shared housing where tenants can rent individual rooms with shared common areas in a shared housing dwelling. Each tenant will have an independent relationship with their landlord and an enforceable lease.
 
 **(00:18:17)**
 
 
 
-And how does HPD envision— how does HPD enforce against the sort of illegal activity that we see today, whether it's a landlord that is renting out centers within an apartment, etc.? Additional resources, needing additional resources, or you envision leading to more illegal activity, leading to more illegal activity.
+And how does HPD envision... how does HPD currently enforce against the sort of illegal activity that we see today, whether it is a landlord that is renting out rooms within an apartment? Do you anticipate needing additional resources, or do you envision this leading to more or less illegal activity?
 
 **(00:18:44)**
 
 
 
-So I think that we don't see this as necessitating an expansion of resources or new resources. Today in New York City, shared housing models of quasi-legalities, HPD encounters a safety issue. Now we need to enforce now. And in the most egregious cases, it's under this new arrangement, HPD will continue to work with our colleagues at DOB and enforce the Housing Quality Issues Act. And we think that the creation of a new model will also empower tenants to be able to call 311 when they do have challenges.
+So I think that we do not see this as necessitating an expansion of resources or new resources. Today in New York City, when HPD encounters these shared housing models of quasi-legality and there is a safety issue, we need to enforce against it. In the most egregious cases, it results in vacate orders. Under this new arrangement, HPD will continue to work with our colleagues at DOB to enforce against Housing Maintenance Code violations. And we think that the creation of a legal model will also empower tenants to be able to call 311 when they do have challenges. So I think that this is something that will allow us to more effectively enforce and identify problems.
 
 **(00:19:23)**
 
 
 
-And so I think that this is something that will allow us to more effectively enforce and know about Um, for the arrangements that are going to be created through shared housing, what legal protections will occupants have against evictions? Um, how do those differ from the protections that individuals have today if they're living in illegal tenants who have a right to counsel in eviction proceedings if this bill were to become law?
+For the arrangements that are going to be created through shared housing, what legal protections will occupants have against evictions? How do those differ from the protections that individuals have today if they are living in illegal arrangements? Would tenants who have a right to counsel in eviction proceedings if this bill were to become law?
 
 **(00:20:01)**
 
 
 
-Yeah, that's a great question. I think we anticipate that— so currently today, residents that are not on a lease lack some of the protections that residents that are on a lease have. Additionally, right now in a share situation, situation, all of the tenants that are on a lease have sort of cannot be treated separately in a housing court situation. And so if there is a problem tenant within a building, it can often lead to stability or destability for the other tenants within that unit. So having an individual lease means that that tenant is not subject to housing destability because of the actions of their roommate. So that's a huge benefit for, for tenants. Tenants on a lease will have access to right to counsel in eviction proceedings and also would be subject to the new protections offered under state law.
+Yeah, that is a great question. I think we anticipate that... so currently today, residents that are not on a lease lack some of the protections that residents that are on a lease have. Additionally, right now in a shared situation, all of the tenants that are on a lease cannot be treated separately in a housing court situation. And so if there is a problem tenant within a unit, it can often lead to instability for the other tenants within that unit. So having an individual lease means that that tenant is not subject to housing instability because of the actions of their roommate. So that is a huge benefit for tenants. Tenants on a lease will have access to right to counsel in eviction proceedings and also would be subject to the new protections offered under state law.
 
 **(00:21:01)**
 
 
 
-So they would have right to access to counsel? Yeah. Thank you. And then my second question, and then I'll turn it over to the bill sponsor for questions on this legislation or anything else. Else. This council was contemplating and is still discussing with HPD the idea of requiring a certain subset of HPD's production to be 2 to 3 bedroom units because there is a concern in many communities that the projects that are financed by HPD are not family-sized units. I know I have several colleagues that are concerned about this piece of legislation as they view it as a threat to, to have more production in on the size of shared units or small units or studio apartments. So can, can you describe for them and for anyone with this concern if the administration anticipates that owners of buildings with family-size units would convert those units into shared housing, how expanding the, the ability to have shared housing in New York City comports or, or relates to this concern that many of my colleagues share around insufficient number of 2 and 3-bedroom units, apartments.
+So they would have access to right to counsel? Yeah. Thank you. And then my second question, and then I will turn it over to the bill sponsor for questions on this legislation or anything else. This Council was contemplating and is still discussing with HPD the idea of requiring a certain subset of HPD's production to be 2 to 3 bedroom units because there is a concern in many communities that the projects that are financed by HPD are not family-sized units. I know I have several colleagues that are concerned about this piece of legislation as they view it as potentially leading to more production of smaller units or studio apartments. So can you describe for them and for anyone with this concern whether the administration anticipates that owners of buildings with family-size units would convert those units into shared housing, and how expanding the ability to have shared housing in New York City relates to this concern that many of my colleagues share around insufficient numbers of 2 and 3-bedroom apartments.
 
 **(00:22:19)**
 
 
 
-Yeah, thank you for that question. So I'd say first and foremost, the proposed Intro 66 does not allow the conversion of existing housing units to shared housing. So anything that is built as an apartment today could not be converted to shared housing under this legislation. This allows for the new construction or adaptive reuse of office space to shared housing models. We see this as a benefit to families who are seeking 2 and 3-bedroom apartments. Right now, shared housing exists in today's housing market through the variety of typologies that we've discussed already. Single adults are pooling their resources and renting multiple-bedroom apartments, apartments, and are increasing the rent, outcompeting families who cannot afford that same rent. So we see giving an option for single adults other than a roommate situation can help ease the burden on families who are seeking family-sized apartments. We don't think that every single adult— you know, some single adults are seeking roommates for the community and because they desire that option, and others are doing so out of economic necessity, and we believe that if given another option, they They will push through that.
+Yeah, thank you for that question. So I would say first and foremost, the proposed Int 0066-2026 does not allow the conversion of existing housing units to shared housing. So anything that is built as an apartment today could not be converted to shared housing under this legislation. This allows for new construction or adaptive reuse of office space for shared housing models. We see this as a benefit to families who are seeking 2 and 3-bedroom apartments. Right now, shared housing exists in today's housing market through the variety of typologies that we have discussed already. Single adults are pooling their resources and renting multiple-bedroom apartments, and are increasing the rent, outcompeting families who cannot afford that same rent. So we see giving single adults an option other than a roommate situation can help ease the burden on families who are seeking family-sized apartments. We do not think that every single adult... some single adults are seeking roommates for the community and because they desire that option, and others are doing so out of economic necessity, and we believe that if given another option, they will choose it.
 
 **(00:23:33)**
 
 
 
-Thank you. I need to acknowledge that we're joined by Councilmember Felice on Zoom. What would prevent an owner of an existing office building from converting to shared housing and then converting it to luxury apartment building? And said differently, just playing devil's advocate around concerns that others might have, what is to prevent a shared housing setup from becoming a different kind of housing, temporary housing, for instance, by the city.
+Thank you. I need to acknowledge that we are joined by CM Feliz on Zoom. What would prevent an owner of an existing office building from converting to shared housing and then converting it to a luxury apartment building? And said differently, just playing devil's advocate around concerns that others might have, what is to prevent a shared housing setup from becoming a different kind of housing... temporary housing, for instance, used by the City?
 
 **(00:24:04)**
 
 
 
-Um, so I think just, just on the, the first question, shared housing in adaptive reuse is, is only allowed where residential conversion is also allowed. So there's no situation where someone might convert to shared housing in order to sneakily get into being able to convert to family housing or luxury housing. Um, short-term rentals are not allowed under the Intro 66, the proposal proposal is to create Class A permanent housing with at least 30-day leases. So this is traditional housing. This is housing with a lease, and we believe it'll be operated that way. It is not allowing for the construction of new congregate shelters or other types of housing.
+So I think just on the first question, shared housing in adaptive reuse is only allowed where residential conversion is also allowed. So there is no situation where someone might convert to shared housing in order to get into being able to convert to family housing or luxury housing. Short-term rentals are not allowed under Int 0066-2026. The proposal is to create Class A permanent housing with at least 30-day leases. So this is traditional housing. This is housing with a lease, and we believe it will be operated that way. It is not allowing for the construction of new congregate shelters or other types of temporary housing.
 
 **(00:24:51)**
 
 
 
-Thank you. So there shouldn't be an anticipation that these shared housing housing typology would be converted to temporary shelters by the city, or shelters by the city?
+Thank you. So there should not be an anticipation that these shared housing typologies would be converted to temporary shelters by the City?
 
 **(00:25:03)**
 
 
 
-Um, it— I don't anticipate that.
+I do not anticipate that.
 
 **(00:25:04)**
 
 
 
-I don't know if you have anything to add, Lucy. We don't think the legislation would exacerbate that risk. We would need to use the same tools we would use today to address issues like that.
+I do not know if you have anything to add, Lucy. We do not think the legislation would exacerbate that risk. We would need to use the same tools we would use today to address issues like that.
 
 **(00:25:14)**
 
@@ -198,13 +249,13 @@ But this legislation is instead creating a path for a legal, safe approach.
 
 
 
-These are—
+These are...
 
 **(00:25:20)**
 
 
 
-our enforcement efforts as they exist would have to run in And any siting rules related to the siting of shelters would continue to apply.
+our enforcement efforts as they exist would continue to apply. And any siting rules related to the siting of shelters would continue to apply.
 
 **(00:25:29)**
 
@@ -228,31 +279,31 @@ Thank you.
 
 
 
-Councilmember Maloney? Thank you so much. So you clarified that this will only apply to new construction or office conversions. Do you have a sense of what the breakdown might be between the two?
+CM Maloney? Thank you so much. So you clarified that this will only apply to new construction or office conversions. Do you have a sense of what the breakdown might be between the two?
 
 **(00:25:46)**
 
 
 
-I think as the chair said, this is kind of a first cautious step towards reintroducing shared housing. We've heard from operators who are interested in both new construction and in adaptive reuse. Um, and I think that, um, as this comes online beginning next year, we'll continue to monitor and kind of see, but, uh, uh, we do think that this is particularly a great opportunity for adaptive reuse, just given the challenges that we've seen in adapting office floor plates to housing. We think that this solves some of those challenges and can help facilitate it.
+I think as the chair said, this is kind of a first cautious step towards reintroducing shared housing. We have heard from operators who are interested in both new construction and in adaptive reuse. I think that as this comes online beginning next year, we will continue to monitor and see, but we do think that this is particularly a great opportunity for adaptive reuse, just given the challenges that we have seen in adapting office floor plates to housing. We think that this solves some of those challenges and can help facilitate it.
 
 **(00:26:16)**
 
 
 
-Great. And on the On the underutilized office spaces, are there— do you have an analysis on the office buildings that would fail to pencil out with existing housing legislation but could pencil in as shared housing?
+Great. And on the underutilized office spaces, are there... do you have an analysis on the office buildings that would fail to pencil out with existing housing legislation but could pencil in as shared housing?
 
 **(00:26:39)**
 
 
 
-Yeah, we have done some analysis of this. Last year we looked at the conversion of a sort of a hypothetical city-owned office building to shared housing and looked at sort of what it would look like to convert it to traditional apartments versus shared housing. And we saw like a more than 40% reduction in total development costs per bedroom converting to shared housing versus traditional apartments, just given some of those floor plate difficulties. Great.
+Yeah, we have done some analysis of this. Last year we looked at the conversion of a sort of a hypothetical city-owned office building to shared housing and looked at what it would look like to convert it to traditional apartments versus shared housing. And we saw like a more than 40% reduction in total development costs per bedroom converting to shared housing versus traditional apartments, just given some of those floor plate difficulties.
 
 **(00:27:12)**
 
 
 
-No, no further questions. Great, thank you. I'd now like to turn it over to Council Member Salam, followed by Zhuang.
+No further questions. Great, thank you. I would now like to turn it over to CM Salaam, followed by Zhuang.
 
 **(00:27:19)**
 
@@ -264,7 +315,7 @@ Thank you and good morning. Given the current trend of gentrification and new co
 
 
 
-That— yeah, thank you for that question. That's an important topic and one that we care deeply about. Uh, Intro 66 allows for new construction of more affordable housing options than we see constructed today, and it also very explicitly does not allow for the conversion of existing apartments to shared housing. I think one of the things that we see right now in gentrifying communities and lower-income communities is landlords that are illegally carving up family apartments and renting individual rooms. We see this as something that would allow a safety valve to allow for that to happen in a safer way and can hopefully kind of reduce some of that pressure that you see in gentrifying communities today.
+Yeah, thank you for that question. That is an important topic and one that we care deeply about. Intro 66 allows for new construction of more affordable housing options than we see constructed today, and it also very explicitly does not allow for the conversion of existing apartments to shared housing. I think one of the things that we see right now in gentrifying communities and lower-income communities is landlords that are illegally carving up family apartments and renting individual rooms. We see this as something that would allow a safety valve to allow for that to happen in a safer way and can hopefully reduce some of that pressure that you see in gentrifying communities today.
 
 **(00:28:26)**
 
@@ -282,51 +333,69 @@ I might tap in my colleague Emily Osgood to speak to that.
 
 
 
-Has relationships with a number of community-based housing ambassador organizations who— 46, to be exact. A subset of whom have funding from the council, small amount of funding from the council. Better? Okay. Thank you. And so these community-based organizations meet people where they are in their neighborhoods, speaking the languages that they speak. Week, serving needs for in-person assistance, help with paper documentation when needed, storefronts, in-person educational events, etc. And so we are supportive of exploring how we can further enhance the services that those valued community-based housing ambassadors provide for New Yorkers.
+Has relationships with a number of community-based housing ambassador organizations who... 46, to be exact. A subset of whom have funding from the Council, small amount of funding from the Council. Better? Okay. Thank you. And so these community-based organizations meet people where they are in their neighborhoods, speaking the languages that they speak... serving needs for in-person assistance, help with paper documentation when needed, storefronts, in-person educational events, etc. And so we are supportive of exploring how we can further enhance the services that those valued community-based housing ambassadors provide for New Yorkers.
 
 **(00:29:59)**
 
 
 
-And with the growing number of sidewalk sheds and scaffolding installations, how does the department ensure that small businesses, especially those in commercial corridors, are accurately— adequately compensated for lost revenue or disruption during long-term construction projects? And what oversight measures are in place to minimize disruption to those local businesses?
+And with the growing number of sidewalk sheds and scaffolding installations, how does the department ensure that small businesses, especially those in commercial corridors, are adequately compensated for lost revenue or disruption during long-term construction projects? And what oversight measures are in place to minimize disruption to those local businesses?
 
 **(00:30:25)**
 
 
 
-Hi, Councilmember. Let me, let me do my best to answer that from, from our standpoint. While we don't directly compensate businesses, we do have enforcement programs circled around longstanding sheds where if a shed is in place more than X number of years, we take proactive enforcement measures against the property owners who have them in place. The idea being that There's a certain amount of time necessary to make the respective repairs that are ongoing, typically in an existing building where you have the, the shed overhead of a commercial establishment. And by going after the property owners to get them to do the right thing and making it more financially impactful on them to keep the shed in place, we motivate them to do the work a lot faster and get the shed down as quickly as possible. Right now, I believe that number is greater than 5 years, and we're working to see what can be done to expand that effort as it is a, we think, a benefit overall to the city to get both the sheds down as well as to make the necessary repairs happen. From our standpoint, these are repairs that are necessary. The reason the shed is there is there's an overhead hazard to the public at large, those same people who would be going in and out of that commercial establishment. So we need that abated before we can get rid of the pedestrian protection. Actually, the shed just happens to be the version of pedestrian protection that people most often choose. The other effort that we're taking on head-on actually is redesigning sidewalk sheds. Up until now, sidewalk sheds have been predominantly reusing a design that was first developed in 1974, and it has become, you know, outdated and outmoded from the pedestrian experience perspective as well as from the commercial establishments inside. If you look at the new sidewalk shed designs that we shared renderings of late last year, you'll see we paid a lot of attention with our, our selected firms that won these RFPs to the pedestrian experience, but also to the experience of those inside of the commercial establishment on the ground floor. We're struggling greatly to remove for instance, the X-bracing that could make you feel trapped inside of the sidewalk shed. We're working to raise the elevation of the sidewalk shed and utilize maybe alternative materials for the decking to allow more light in, both to directly underneath as well as into the commercial spaces around there. The goal of these RFPs is similar to what was done with the— I believe it was the Urban Canvas this, uh, design earlier in a couple administrations ago. But the goal here is that the city will own the intellectual property, and we will make these designs available to any owner, property owner, designer, developer to utilize, uh, directly through our building code. Uh, these will— these measures, we hope, will go a long way while still protecting the pedestrians from the overhead hazards.
+Hi, CM. Let me do my best to answer that from our standpoint. While we do not directly compensate businesses, we do have enforcement programs around longstanding sheds where if a shed is in place more than X number of years, we take proactive enforcement measures against the property owners who have them in place. The idea being that there is a certain amount of time necessary to make the respective repairs that are ongoing, typically in an existing building where you have the shed overhead of a commercial establishment.
+
+And by going after the property owners to get them to do the right thing and making it more financially impactful on them to keep the shed in place, we motivate them to do the work a lot faster and get the shed down as quickly as possible. Right now, I believe that number is greater than 5 years, and we are working to see what can be done to expand that effort as it is a benefit overall to the City to get both the sheds down as well as to make the necessary repairs happen.
+
+From our standpoint, these are repairs that are necessary. The reason the shed is there is there is an overhead hazard to the public at large, those same people who would be going in and out of that commercial establishment. So we need that abated before we can get rid of the pedestrian protection. Actually, the shed just happens to be the version of pedestrian protection that people most often choose.
+
+The other effort that we are taking on head-on actually is redesigning sidewalk sheds. Up until now, sidewalk sheds have been predominantly reusing a design that was first developed in 1974, and it has become outdated and outmoded from the pedestrian experience perspective as well as from the commercial establishments inside.
+
+If you look at the new sidewalk shed designs that we shared renderings of late last year, you will see we paid a lot of attention with our selected firms that won these RFPs to the pedestrian experience, but also to the experience of those inside of the commercial establishment on the ground floor. We are struggling greatly to remove for instance, the X-bracing that could make you feel trapped inside of the sidewalk shed. We are working to raise the elevation of the sidewalk shed and utilize maybe alternative materials for the decking to allow more light in, both to directly underneath as well as into the commercial spaces around there.
+
+The goal of these RFPs is similar to what was done with the... I believe it was the Urban Canvas design earlier in a couple administrations ago. But the goal here is that the City will own the intellectual property, and we will make these designs available to any owner, property owner, designer, developer to utilize directly through our building code. These measures, we hope, will go a long way while still protecting the pedestrians from the overhead hazards.
 
 **(00:33:38)**
 
 
 
-And, Chair, if I just have just one last question With the growing number of vacate orders due to unsafe living conditions, how does DOB ensure that property owners are complying with repair and safety regulations in a timely manner to prevent tenants from living in hazardous conditions for extended periods of time? And how does the DOB track and enforce compliance in buildings with frequent safety violations?
+And, Chair, if I just have just one last question. With the growing number of vacate orders due to unsafe living conditions, how does DOB ensure that property owners are complying with repair and safety regulations in a timely manner to prevent tenants from living in hazardous conditions for extended periods of time? And how does the DOB track and enforce compliance in buildings with frequent safety violations?
 
 **(00:34:06)**
 
 
 
-So we will definitely circle back with our enforcement enforcement team to make sure that we have the, the best answers for you on that. But ultimately, when we issue a violation, if it's a Class 1 violation, there's many instances where there are required reinspections by the department for immediately hazardous conditions. We actively track these on our website. We encourage folks to continue to call 311 for conditions that haven't been abated. They can call anonymously from, from that regard so that we can continue to stay on top of these property owners. We also— there are a number of enforcement programs that as properties continue to accrue violations, there are certain penalties and restrictions on what else they can do within the building as far as business with the department. We obviously always want them making the necessary repairs and obviously getting a permit to make the necessary repairs, but we might have, for instance, professional certification restrictions if we're finding that they had done, for instance, work without a permit on the property that would require them to go through full plan exam and greater oversight of the work that they're doing.
+So we will definitely circle back with our enforcement team to make sure that we have the best answers for you on that. But ultimately, when we issue a violation, if it is a Class 1 violation, there are many instances where there are required reinspections by the department for immediately hazardous conditions. We actively track these on our website. We encourage folks to continue to call 311 for conditions that have not been abated. They can call anonymously so that we can continue to stay on top of these property owners.
+
+We also... there are a number of enforcement programs that as properties continue to accrue violations, there are certain penalties and restrictions on what else they can do within the building as far as business with the department. We obviously always want them making the necessary repairs and obviously getting a permit to make the necessary repairs, but we might have, for instance, professional certification restrictions if we are finding that they had done, for instance, work without a permit on the property that would require them to go through full plan exam and greater oversight of the work that they are doing.
 
 **(00:35:16)**
 
 
 
-Thank you, Chair. Thank you. Councilmember Juang. Thank you. Thank you, Assistant Commissioner here. I have some questions about the shade in the commercial corridor in my district. Almost everyone has put their items outside. They have store license, so they can put their items outside. They sell. In the summer, it's very hot. They like always to put a shade or umbrella in the sidewalk, and every time sanitation come in, just say illegal, illegal, illegal. But they never told the landlord or the business owner how to correct that. This is belong— how to correct the shed, it belong to DOB, right?
+Thank you, Chair. Thank you. CM Zhuang.
 
 **(00:36:06)**
 
 
 
-If this is construction that's connected to the building, it is part of DOB. If it's the traditional temporary construction shed that you see that would go up on a construction site, that would also be DOB. If these are outdoor dining sheds or similar types of structures, I believe now there is a different entity that is handling those permits. DOT, I believe, is the one. We can gladly circle back with you on any specifics there, and we can make sure that whether it's DOB or another agency, that we get you the right information.
+Thank you. Thank you, Assistant Commissioner here. I have some questions about the shed in the commercial corridor in my district. Almost everyone has put their items outside. They have store license, so they can put their items outside. They sell. In the summer, it is very hot. They like always to put a shade or umbrella in the sidewalk, and every time sanitation come in, just say illegal, illegal, illegal. But they never told the landlord or the business owner how to correct that. This is... how to correct the shed, it belong to DOB, right?
 
 **(00:36:42)**
 
 
 
-Yeah, the issue here is a lot of business owners tell me they want to correct, saying it's illegal, but no one tell them how to correct that. That and how, how make that legal. And then for business, they put the like fruits outside. In summer it's very hot, so put a shade there will be help for the business. And also even pedestrian, they like to walk in the shade. But there's no one really give us answer how to fix that, where to fix that. Like they don't know what to do. Even ask us, our office. We don't know which direction to send to them. I would love to work with you to, to address that issue.
+If this is construction that is connected to the building, it is part of DOB. If it is the traditional temporary construction shed that you see that would go up on a construction site, that would also be DOB. If these are outdoor dining sheds or similar types of structures, I believe now there is a different entity that is handling those permits. DOT, I believe, is the one. We can gladly circle back with you on any specifics there, and we can make sure that whether it is DOB or another agency, that we get you the right information.
 
 **(00:37:26)**
+
+
+
+Yeah, the issue here is a lot of business owners tell me they want to correct, saying it is illegal, but no one tell them how to correct that. And how make that legal. And then for business, they put the like fruits outside. In summer it is very hot, so put a shade there will be help for the business. And also even pedestrian, they like to walk in the shade. But there is no one really give us answer how to fix that, where to fix that. Like they do not know what to do. Even ask us, our office. We do not know which direction to send to them. I would love to work with you to address that issue.
+
+**(00:37:27)**
 
 
 
@@ -338,115 +407,121 @@ Understood.
 
 Thank you.
 
-**(00:37:27)**
-
-
-
-We'd like that. Thank you. Thank you so much, Councilmember Juang. So just a couple more questions on, uh, Intro 66 and shared housing. Um, so I asked a little bit about the new rights that, uh, tenants with these new leases that didn't have leases before would But I have a couple more questions. Would these units be rent regulated? If not, would they be protected through good cause protections? Does HPD anticipate using subsidies, city subsidy dollars, to finance, to subsidize the financing of these units, or using vouchers to make them affordable to those who need it the most?
-
 **(00:38:07)**
 
 
 
-Yeah, those are great questions. I'll try to take each of them. If I miss any, feel free to ask again. In terms of rent stabilization, shared housing units would be rent stabilized if they were created under any of the state tax incentives that require the creation of rent stabilized housing. So if you were to use one of those programs that require the provision of affordable housing along with the tax incentive, then you would be creating affordable and rent stabilized shared housing units through that. We do believe that good cause, you know, good cause where it applies would apply to any tenant with a lease in a shared housing unit as well. As well. And then in terms of rental assistance, it is allowed under all of the programs, and we'll be spending the next year before the new law goes into effect on January 1st, 2027, to make sure that we're working with all of our partners at the voucher agencies to make sure that we have programs and policies in place to allow folks to use rental assistance towards shared housing units.
+We would like that. Thank you. Thank you so much, CM Zhuang. So just a couple more questions on Intro 66 and shared housing. So I asked a little bit about the new rights that tenants with these new leases that did not have leases before would... But I have a couple more questions. Would these units be rent regulated? If not, would they be protected through good cause protections? Does HPD anticipate using subsidies, City subsidy dollars, to finance, to subsidize the financing of these units, or using vouchers to make them affordable to those who need it the most?
 
 **(00:39:06)**
 
 
 
-Got it. So, and this might be a very basic question just from me, but Good cause protections are defined by the number of units in a building. How are we going to quantify the number of units in a building that has shared housing units?
+Yeah, those are great questions. I will try to take each of them. If I miss any, feel free to ask again. In terms of rent stabilization, shared housing units would be rent stabilized if they were created under any of the state tax incentives that require the creation of rent stabilized housing. So if you were to use one of those programs that require the provision of affordable housing along with the tax incentive, then you would be creating affordable and rent stabilized shared housing units through that.
+
+We do believe that good cause, good cause where it applies would apply to any tenant with a lease in a shared housing unit as well. And then in terms of rental assistance, it is allowed under all of the programs, and we will be spending the next year before the new law goes into effect on January 1st, 2027, to make sure that we are working with all of our partners at the voucher agencies to make sure that we have programs and policies in place to allow folks to use rental assistance towards shared housing units.
 
 **(00:39:21)**
 
 
 
-I believe that each of the rooming units would count towards it, but we can follow up and clarify. I think we need to look into that and can follow up.
+Got it. So, and this might be a very basic question just from me, but good cause protections are defined by the number of units in a building. How are we going to quantify the number of units in a building that has shared housing units?
 
 **(00:39:31)**
 
 
 
-Okay. Or is it the amenities, the bathroom, number of bathrooms?
+I believe that each of the rooming units would count towards it, but we can follow up and clarify. I think we need to look into that and can follow up.
 
 **(00:39:34)**
 
 
 
-I don't know.
+Okay. Or is it the amenities, the bathroom, number of bathrooms?
 
 **(00:39:35)**
 
 
 
-Yeah, we'll follow up. Okay. Thank you. And another 101 question, just to get an understanding of, you know, the New Yorkers that we would be supporting by enabling this kind of housing. Can you share a little bit about the characteristics of those housing— of those New Yorkers, their ages, their income levels, what is their—
+I do not know.
 
 **(00:39:59)**
 
 
 
-yeah, what describes them? Yeah, I mean, I think that what we see today in terms of demand within the the co-living space is really high demand among young professionals. And we see that that would likely continue under the new, the new construction typology is that new New Yorkers who want to live in a convenient location near their work and who are looking for a flexible option with built-in community, we see as the type, the kind of predominant type. But we also see today a variety of New Yorkers are using various shared housing typologies. And we think that in the future we could see Also, New Yorkers going through various life transitions, or who are just looking for a cheaper option in a money-rich area, this could be appealing to them.
+Yeah, we will follow up. Okay. Thank you. And another 101 question, just to get an understanding of the New Yorkers that we would be supporting by enabling this kind of housing. Can you share a little bit about the characteristics of those New Yorkers, their ages, their income levels, what is their... yeah, what describes them?
 
 **(00:40:48)**
 
 
 
-Great. Thank you. Okay. Turning to Intro 71 on sidewalk sheds. Deputy Commissioner, you mentioned that DOB unveiled 6 new designs in the latter part of 2025. They look very cool. Can you share with us, are they already in use? And if not, when can New Yorkers anticipate these new designs on the streets?
+Yeah, I mean, I think that what we see today in terms of demand within the co-living space is really high demand among young professionals. And we see that would likely continue under the new construction typology is that new New Yorkers who want to live in a convenient location near their work and who are looking for a flexible option with built-in community, we see as the predominant type.
+
+But we also see today a variety of New Yorkers are using various shared housing typologies. And we think that in the future we could see also New Yorkers going through various life transitions, or who are just looking for a cheaper option in a money-rich area, this could be appealing to them.
 
 **(00:41:10)**
 
 
 
-So the department's still working with our design consultants that, that were the selected winners of these RFPs to finalize their designs. And we hope to share the actual designs themselves later this year via potentially the rulemaking process— then folks will be able to see exactly the nuts and bolts that go into making these sheds.
+Great. Thank you. Okay. Turning to Intro 71 on sidewalk sheds. Deputy Commissioner, you mentioned that DOB unveiled 6 new designs in the latter part of... They look very cool. Can you share with us, are they already in use? And if not, when can New Yorkers anticipate these new designs on the streets?
 
 **(00:41:36)**
 
 
 
-Got it. Does the department anticipate that those are going to cost more to implement than the designs we've been using?
+So the department is still working with our design consultants that were the selected winners of these RFPs to finalize their designs. And we hope to share the actual designs themselves later this year via potentially the rulemaking process... then folks will be able to see exactly the nuts and bolts that go into making these sheds.
 
 **(00:41:44)**
 
 
 
-It's going to vary based on the different scenarios of what you see out there. So you could see some very elaborate and robust sidewalk sheds on some of the larger things. Potentially, these sheds would cost more than your traditional BSA design shed for, for some of the smaller properties. But we think that the overall aesthetic improvement and safety improvements, we think would be worth the effort. But we have to wait till the designs are actually finalized.
+Got it. Does the department anticipate that those are going to cost more to implement than the designs we have been using?
 
 **(00:42:19)**
 
 
 
-Got it.
+It is going to vary based on the different scenarios of what you see out there. So you could see some very elaborate and robust sidewalk sheds on some of the larger things. Potentially, these sheds would cost more than your traditional design shed for some of the smaller properties. But we think that the overall aesthetic improvement and safety improvements, we think would be worth the effort. But we have to wait till the designs are actually finalized.
 
 **(00:42:20)**
 
 
 
-And will, will buildings that need to have sidewalk sheds up be required to use these new designs? Or will the old design, the old traditional design still be an option?
+Got it.
 
 **(00:42:30)**
 
 
 
-That, that right now is still to be determined. The, the, the goal would be to, you know, discuss this and how we would roll out these new shed designs and see how, how they could be implemented in the city.
+And will buildings that need to have sidewalk sheds up be required to use these new designs? Or will the old design, the old traditional design still be an option?
 
 **(00:42:46)**
 
 
 
-Got it. Okay, anything we can do to make it worse and bad to have a sidewalk shut up, we should do, because we don't want them up. We want New Yorkers to be able to walk without obstruction. And if they want shade, then And that's fine, and we can talk about that in a different context than these sidewalk sheds that stay up forever. Okay. So specifically with respect to the legislation and replacing trees, do you— can you share with us who is liable today for replacing or repairing a city-owned tree that is damaged by scaffolding or a sidewalk shed?
+That right now is still to be determined. The goal would be to discuss this and how we would roll out these new shed designs and see how they could be implemented in the City.
 
 **(00:43:16)**
 
 
 
-I believe it would potentially be the property owner.
+Got it. Okay, anything we can do to make it worse and bad to have a sidewalk shed up, we should do, because we do not want them up. We want New Yorkers to be able to walk without obstruction. And if they want shade, then that is fine, and we can talk about that in a different context than these sidewalk sheds that stay up forever.
+
+Okay. So specifically with respect to the legislation and replacing trees, do you... can you share with us who is liable today for replacing or repairing a city-owned tree that is damaged by scaffolding or a sidewalk shed?
 
 **(00:43:18)**
 
 
 
-It could be the contractor if it's new construction. Got it.
+I believe it would potentially be the property owner.
 
 **(00:43:23)**
+
+
+
+It could be the contractor if it is new construction. Got it.
+
+**(00:43:24)**
 
 
 
@@ -456,67 +531,71 @@ Okay.
 
 
 
-Any—
-
-**(00:43:24)**
-
-
-
-I don't know if we shared these questions with you in advance, but do you know how much it costs to replace a Coster Tree?
+Any...
 
 **(00:43:29)**
 
 
 
-No, I do not. That's something for, uh, Parks Department would probably have the best available info.
+I do not know if we shared these questions with you in advance, but do you know how much it costs to replace a tree?
 
 **(00:43:34)**
 
 
 
-Got it. And do you know about— hey, nice to see you, Matt.
+No, I do not. That is something for Parks Department would probably have the best available info.
 
 **(00:43:40)**
 
 
 
-Um, do we have to— I did raise my hand earlier.
+Got it. And do you know about... hey, nice to see you, Matt.
 
 **(00:43:42)**
 
 
 
-I don't know if that— okay, yes, that, that does count. Um, so Coster Tree. And then an additional question for Parks is how many complaints do we have of scaffolding specifically, to the extent that we have that specificity, um, ruining tree?
+I did raise my hand earlier.
 
 **(00:43:56)**
 
 
 
-Sure, thanks, and very much appreciate the, uh, my name is Matt Drury. I'm the Chief of Citywide Legislative Affairs for the Parks Department. Um, so, uh, tree planting costs can vary, uh, obviously depending on the condition and, and other location, things of that nature. Um, but it can cost several thousand dollars for a tree replacement. That's determined by a variety of factors. Um, separate and apart from that, um, just to give some context here, we have, uh, something in the vicinity of close to 670,000 street trees, and at any given time we very roughly estimate maybe 25,000 roughly trees are in close proximity to a sidewalk shed. Thankfully, incidents of, let's call it, construction-related damage to street trees are pretty uncommon. You know, we probably get 100, 150 sort of reports that come to our attention. That can be through 311 or other mechanisms or staff observation on its own, so it's relatively relatively minimal, but we do take it quite seriously. In that universe, we don't track the present, we don't necessarily track whether a given instance of damage was directly shed or scaffold related. So that's sort of a subset, that's a data point that isn't tracked in quite that way. But suffice it to say that as we are investigating a certain, you know, incident, we're able to kind of usually piece together whether a shed was involved.
+I do not know if that... okay, yes, that does count. So tree. And then an additional question for Parks is how many complaints do we have of scaffolding specifically, to the extent that we have that specificity, ruining tree?
 
 **(00:45:18)**
 
 
 
-Involved. Got it. Thank you. And in that, in the instance that a scaffolder sidewalk shed was involved, it is the property owner that is responsible?
+Sure, thanks, and very much appreciate the... my name is Matt Drury. I am the Chief of Citywide Legislative Affairs for the Parks Department. So tree planting costs can vary obviously depending on the condition and other location, things of that nature. But it can cost several thousand dollars for a tree replacement. That is determined by a variety of factors.
+
+Separate and apart from that, just to give some context here, we have something in the vicinity of close to 670,000 street trees, and at any given time we very roughly estimate maybe 25,000 roughly trees are in close proximity to a sidewalk shed. Thankfully, incidents of construction-related damage to street trees are pretty uncommon. We probably get 100, 150 sort of reports that come to our attention. That can be through 311 or other mechanisms or staff observation on its own, so it is relatively minimal, but we do take it quite seriously.
+
+In that universe, we do not track the... we do not necessarily track whether a given instance of damage was directly shed or scaffold related. So that is sort of a subset, that is a data point that is not tracked in quite that way. But suffice it to say that as we are investigating a certain incident, we are able to usually piece together whether a shed was involved.
 
 **(00:45:26)**
 
 
 
-Uh, so there are a couple different mechanisms. In some cases, the property, as, as Deputy Commissioner Sarakis noted, some, in some cases, property owner. Uh, in other cases, if a scaffold is actually involved, there's that, you know, that'll be permitted and there's a way to identify that. And so in that case, it's often the permittee, if you will, that's sort of engaged with., but 9 times out of 10, the property owner is sort of involved in that discussion in one way or another.
+Got it. Thank you. And in that, in the instance that a scaffold or sidewalk shed was involved, it is the property owner that is responsible?
 
 **(00:45:51)**
 
 
 
-Got it. Okay, thank you. Um, and I, I think the Deputy Commissioner said you— the Parks and Buildings are discussing, uh, the best way to handle this, but it does sound like existing practice is for the permittee who is paid for by the owner. Um, they are the ones that are addressing these conditions.
+So there are a couple different mechanisms. In some cases, the property, as Deputy Commissioner mentioned, in some cases, property owner. In other cases, if a scaffold is actually involved, there is that... that will be permitted and there is a way to identify that. And so in that case, it is often the permittee, if you will, that is sort of engaged with... but 9 times out of 10, the property owner is sort of involved in that discussion in one way or another.
 
 **(00:46:07)**
 
 
 
-So does this bill change anything? Um, by and large, yeah, I think there are mechanisms that are already in place both through the Admin Code and through Parks rules for the, for the city to seek, you know, replacement or restitution in case of severe damage. Um, what this bill seems to do is sort of draw sharper focus on, on, you know, sheds and scaffolding directly, which is, which isn't— but as, as Deputy Commissioner Sarakis noted, we're already actually talking through a variety of approaches, um, more on the sort the proactive or prescriptive end of things, right, in terms of design, in terms of making sure that more permittees are aware of the importance of, you know, tree protection, thinking those sort of more sort of positive approaches as well. We'd be happy, obviously, to work with the council, whether it's through this bill or otherwise, you know, to kind of talk through that.
+Got it. Okay, thank you. And I think the Deputy Commissioner said you... the Parks and Buildings are discussing the best way to handle this, but it does sound like existing practice is for the permittee who is paid for by the owner... they are the ones that are addressing these conditions.
+
+**(00:46:52)**
+
+
+
+So does this Bill change anything? By and large, yeah, I think there are mechanisms that are already in place both through the Admin Code and through Parks rules for the City to seek replacement or restitution in case of severe damage. What this Bill seems to do is sort of draw sharper focus on sheds and scaffolding directly, which is... but as Deputy Commissioner mentioned, we are already actually talking through a variety of approaches, more on the sort the proactive or prescriptive end of things, right, in terms of design, in terms of making sure that more permittees are aware of the importance of tree protection, thinking those sort of more positive approaches as well. We would be happy, obviously, to work with the Council, whether it is through this Bill or otherwise to talk through that.
 
 **(00:46:52)**
 
@@ -524,83 +603,95 @@ So does this bill change anything? Um, by and large, yeah, I think there are mec
 
 Great. Excellent.
 
-**(00:46:52)**
+**(00:46:53)**
 
 
 
 Thank you.
 
-**(00:46:53)**
-
-
-
-Thank you so much. So now moving to Intro 271 on vacate orders. I just want to start start with this example. I know that many, many of you who are at the dais were involved in the response. So I just want to use this example to highlight or understand better an existing problem. So about 2 weeks ago, there was a fire in my district during the blizzard at 2264 Grand Avenue. When we received notification from the fire department, they told us in a very short email that one unit was impacted and it was a fatal fire. So we did lose a neighbor, and her wife is recovering in the hospital, thankfully. But we were told that the fire was contained to that one unit, that no one else was impacted. Now, as I usually do, as you folks know, I myself, or if not my team, will go on site to just see what's going on, check in on neighbors, because it is such a scary experience when, when a fire happens and you just don't know what, what what is next. Now, what I found there, and it was during the blizzard, so my little car could not handle that snow, so the speaker actually picked me up and we went together. What we found when we went was an entire row of apartments that were impacted. Many tenants in the subzero temperatures on the ground, having no idea what to do, having no idea if their units were safe, and just, you know, a very emotional scene, right? They lost a neighbor and they didn't know what to do. And so I quickly understood that there had been a breakdown in communication. That is typically the scene where we would have HPD responding, Department of Buildings responding, NYCEM potentially coordinating because of the impact on families and all the rest. So my question is is, in this fire response, what exactly went wrong? Why— there were 10 vacates issued after much communication between myself, agencies, Deputy Mayor, Mayor himself. What went wrong that day in terms of communication, and what could have prevented that?
-
 **(00:49:14)**
 
 
 
-Good morning, Councilmembers. Thank you very much, Councilmember Sanchez. As you know, I was in the loop that day on this, and obviously a terrible tragedy. A response from the agencies was a little delayed due to the snowstorm. I think we are internally all discussing that particular incident to identify what we can do better to make sure that we are absolutely responsive to the needs of New Yorkers New Yorkers when there's a fire. As you know, American Red Cross is usually our first response after the fire department, so we are talking with them, we are talking with the fire department, with the buildings department, to make sure that there are no cases that fall through the cracks. And we are committed 100% to making sure that New Yorkers that experience such, such an event have the full support of all of those entities and the city. So, you know, that ARC, HPD, DOB, and NYSEMM at the larger events where they're coordinating often send multiple teams out to buildings. We provide emergency housing to folks when their units are damaged. When we see either a vacate order or the American Red Cross observes damage that is to the level where the households cannot continue to reside. And so we are happy to continue conversations with you around this particular incident.
+Thank you so much. So now moving to Intro 271 on vacate orders. I just want to start with this example. I know that many of you who are at the dais were involved in the response. So I just want to use this example to highlight or understand better an existing problem.
+
+So about 2 weeks ago, there was a fire in my district during the blizzard at 2264 Grand Avenue. When we received notification from the fire department, they told us in a very short email that one unit was impacted and it was a fatal fire. So we did lose a neighbor, and her wife is recovering in the hospital, thankfully. But we were told that the fire was contained to that one unit, that no one else was impacted.
+
+Now, as I usually do, as you folks know, I myself, or if not my team, will go on site to just see what is going on, check in on neighbors, because it is such a scary experience when a fire happens and you just do not know what is next. Now, what I found there, and it was during the blizzard, so my little car could not handle that snow, so the speaker actually picked me up and we went together.
+
+What we found when we went was an entire row of apartments that were impacted. Many tenants in the subzero temperatures on the ground, having no idea what to do, having no idea if their units were safe, and just a very emotional scene, right? They lost a neighbor and they did not know what to do.
+
+And so I quickly understood that there had been a breakdown in communication. That is typically the scene where we would have HPD responding, Department of Buildings responding, potentially coordinating because of the impact on families and all the rest. So my question is, in this fire response, what exactly went wrong? Why... there were 10 vacates issued after much communication between myself, agencies, Deputy Mayor, Mayor himself. What went wrong that day in terms of communication, and what could have prevented that?
 
 **(00:50:54)**
 
 
 
-Thank you, Deputy Commissioner. I mean, my question is, there was clearly a breakdown in communication. When I contacted you and other agencies, there was not— there did not appear to be awareness awareness of the extent of damage at this fire. So does FDNY, as a matter of policy, does FDNY respond by sharing information with HPD immediately when there, when there's a fire, or with American Red Cross? What exactly happens when it's not a 3-alarm fire, so NYSEM is not activated? What happens in, in terms of interagency communication? So my— and sorry, I know buildings was there and you issued one vacate for the most impacted unit, but then the Department of Buildings said that because, uh, that according to the laws that you, um, enforce, there was not reason for other vacates, that those were— would have to be issued by HPD. So I'm just, I'm just curious on the communication required.
+Good morning, CMs. Thank you very much, CM Sanchez. As you know, I was in the loop that day on this, and obviously a terrible tragedy. A response from the agencies was a little delayed due to the snowstorm. I think we are internally all discussing that particular incident to identify what we can do better to make sure that we are absolutely responsive to the needs of New Yorkers when there is a fire.
+
+As you know, American Red Cross is usually our first response after the fire department, so we are talking with them, we are talking with the fire department, with the buildings department, to make sure that there are no cases that fall through the cracks. And we are committed 100% to making sure that New Yorkers that experience such an event have the full support of all of those entities and the City.
+
+So that Red Cross, HPD, DOB, and at the larger events where they are coordinating often send multiple teams out to buildings. We provide emergency housing to folks when their units are damaged. When we see either a vacate order or the American Red Cross observes damage that is to the level where the households cannot continue to reside. And so we are happy to continue conversations with you around this particular incident.
 
 **(00:51:52)**
 
 
 
-What is the protocol or policy internally? Um, thank you, council members. So the FDNY communications are monitored, I believe, by both Department of Buildings and the American Red Cross, and that is how the information is usually received by the agencies. So again, you know, further discussion with you on those issues, we're happy to continue.
+Thank you, Deputy Commissioner. I mean, my question is, there was clearly a breakdown in communication. When I contacted you and other agencies, there was not... there did not appear to be awareness of the extent of damage at this fire. So does FDNY, as a matter of policy, does FDNY respond by sharing information with HPD immediately when there is a fire, or with American Red Cross? What exactly happens when it is not a 3-alarm fire, so is not activated? What happens in terms of interagency communication? So my... and sorry, I know buildings was there and you issued one vacate for the most impacted unit, but then the Department of Buildings said that because that according to the laws that you enforce, there was not reason for other vacates, that those were... would have to be issued by HPD. So I am just curious on the communication required.
 
 **(00:52:18)**
 
 
 
-Okay. Thank you. Yes, so I would definitely appreciate that. So in the aftermath of a fire, now turning back to the example of Wallace Avenue and Councilmember Riley's district, Heath Avenue and mine, and countless others across the city of New York, what tools today does HPD have to force or incentivize, or force, whatever word we want to use depending on the timeline, an owner to correct conditions after there has been a fire that has vacated an entire property?
+What is the protocol or policy internally? Thank you, CMs. So the FDNY communications are monitored, I believe, by both Department of Buildings and the American Red Cross, and that is how the information is usually received by the agencies. So again, further discussion with you on those issues, we are happy to continue.
 
 **(00:52:55)**
 
 
 
-Thank you, Councilmember. As you know, most of the fires that we respond to in the city are not full building vacates, right? Most fires are partials, and the agencies do some monitoring around those. For the two examples that you gave, the Wallace Avenue and the Heath Avenue, as you stated, those are full building fires. HPD in those cases monitors the owner's compliance with moving towards correction, and a full building fire, a full building vacate can be quite destructive, and even in a best-case scenario would take some time for repairs to be made after insurance proceeds and investigations. In both of these cases, Wallace Avenue and Heath, HPD initiated legal action litigation against the owner, comprehensive litigation, and both of those cases are in progress by HPD's Housing Litigation Division. So we are seeking correction of all conditions, restoration of all tenants in those properties, and that is an ongoing process.
+Thank you, CM. As you know, most of the fires that we respond to in the City are not full building vacates. Most fires are partials, and the agencies do some monitoring around those. For the two examples that you gave, the Wallace Avenue and the Heath Avenue, as you stated, those are full building fires. HPD in those cases monitors the owner's compliance with moving towards correction, and a full building fire, a full building vacate can be quite destructive, and even in a best-case scenario would take some time for repairs to be made after insurance proceeds and investigations. In both of these cases, Wallace Avenue and Heath, HPD initiated legal action litigation against the owner, comprehensive litigation, and both of those cases are in progress by HPD's Housing Litigation Division. So we are seeking correction of all conditions, restoration of all tenants in those properties, and that is an ongoing process.
 
 **(00:54:03)**
 
 
 
-Got it. Councilmember Krishnan's Bill 271 would require HPD to 7(a) proceedings. I understand your testimony today to sort of be against the requirement of initiating 7(a) proceedings, but can you, for the benefit of the public, remind us what a 7(a), what that does to a property and why— how often— excuse me, how often HPD has used that in the past, say, 5 years, whatever time period you have the information for. And why you would not be supportive of the requirement to pursue it more often.
+Got it. CM Krishnan's Bill 271 would require HPD to 7(a) proceedings. I understand your testimony today to sort of be against the requirement of initiating 7(a) proceedings, but can you, for the benefit of the public, remind us what a 7(a), what that does to a property and why... how often HPD has used that in the past, say, 5 years, whatever time period you have the information for. And why you would not be supportive of the requirement to pursue it more often.
 
 **(00:54:41)**
 
 
 
-Thank you, Councilmember. The 7A program is a program in which HPD or tenants can go into housing court and seek the appointment of an administrator. That administrator would be responsible for the day-to-day maintenance of the property, would collect rents, would stand in place of the owner. The owner— we are not taking the building from the owner, but the administrator is managing the building. The use of the 7(a) program right now is for tenant-occupied buildings where basically the building has gone through enforcement actions and the owner has been unresponsive. Or there is no owner, and we feel the need that the building is in such a condition that it needs an administrator. We absolutely want to work with the council on stronger tools around vacates and the enforcement of vacates, but we believe that the use of this program for every building that is issued a vacate within a very short time period is is excessive for that purpose. Not to say that it would never be considered on a building as such a building, but the majority of property owners comply within a reasonable amount of time and are working diligently to restore their property. Wallace Avenue and Heath Avenue are exceptions to the general rule around vacationing.. And so, again, while we understand and appreciate that different or more tools could be helpful in dealing with your, you know, 90%, 95% of your fire-damaged properties, 7(a) is a tool that is really not the appropriate one for the majority of situations.
+Thank you, CM. The 7A program is a program in which HPD or tenants can go into housing court and seek the appointment of an administrator. That administrator would be responsible for the day-to-day maintenance of the property, would collect rents, would stand in place of the owner. The owner... we are not taking the building from the owner, but the administrator is managing the building. The use of the 7(a) program right now is for tenant-occupied buildings where basically the building has gone through enforcement actions and the owner has been unresponsive. Or there is no owner, and we feel the need that the building is in such a condition that it needs an administrator.
+
+We absolutely want to work with the Council on stronger tools around vacates and the enforcement of vacates, but we believe that the use of this program for every building that is issued a vacate within a very short time period is excessive for that purpose. Not to say that it would never be considered on a building as such a building, but the majority of property owners comply within a reasonable amount of time and are working diligently to restore their property. Wallace Avenue and Heath Avenue are exceptions to the general rule around vacating. And so, again, while we understand and appreciate that different or more tools could be helpful in dealing with 90%, 95% of your fire-damaged properties, 7(a) is a tool that is really not the appropriate one for the majority of situations.
 
 **(00:56:41)**
 
 
 
-Thank you. Thank you. I know Councilmember Krishnan feels very passionately about the 7(a) proceeding and its success in his time as a housing attorney. I just want to state, as you know, I fundamentally believe that HPD needs stronger tools for these very bad actors, like the worst of the worst, that are the exceptions to the rule. But these exceptions to the rule are impacting hundreds of residents who are homeless, who are living in shelter, who are displaced from their communities and their families. And so I just want to continue to have that conversation about about what are the strongest possible tools we can use to act on, on these terrible actors. And we absolutely are 100% in agreement with that, Councilmember. Thank you. Um, okay, uh, intro number— let's see, what do I want to ask about? It's a lottery. Um, on 421A seller apartment legalization, you know, just to make sure we stayed on the record, can you help us understand why the bill, why this cleanup is needed at this time. Again, because I asked you the same question 2 months ago.
+Thank you. I know CM Krishnan feels very passionately about the 7(a) proceeding and its success in his time as a housing attorney. I just want to state, as you know, I fundamentally believe that HPD needs stronger tools for these very bad actors, like the worst of the worst, that are the exceptions to the rule. But these exceptions to the rule are impacting hundreds of residents who are homeless, who are living in shelter, who are displaced from their communities and their families. And so I just want to continue to have that conversation about what are the strongest possible tools we can use to act on these terrible actors.
+
+And we absolutely are 100% in agreement with that, CM. Thank you. Okay, on 421A cellar apartment legalization, you know, just to make sure we stayed on the record, can you help us understand why the bill, why this cleanup is needed at this time. Again, because I asked you the same question 2 months ago.
 
 **(00:57:50)**
 
 
 
-Yes, thank you, Councilmember. So just to reiterate from last time we spoke about this, we believe that the intention of the legislation that was passed as part of City of Yes was to create more possibilities for cellar and basement apartments. And we did do this by modifying, modifying the housing maintenance code to permit it in existing buildings, um, but inadvertently left out the possibility for new construction buildings to have legal cellar and basement apartments. And so that's what this legislation would do now, is just correct that technical error.
+Yes, thank you, CM. So just to reiterate from last time we spoke about this, we believe that the intention of the legislation that was passed as part of City of Yes was to create more possibilities for cellar and basement apartments. And we did do this by modifying the Housing Maintenance Code to permit it in existing buildings, but inadvertently left out the possibility for new construction buildings to have legal cellar and basement apartments. And so that is what this legislation would do now, is just correct that technical error.
 
 **(00:58:21)**
 
 
 
-Okay, thank you so much. Great. Um, okay, on Intro 418, Housing Connect Services, uh, you know my office is, uh, probably one of the biggest users of the Housing Ambassador Program. We we want it expanded. We know we need more support. I shared last time that in my office alone, a tenant could be waiting 6 months for an appointment with a housing ambassador. And so there is certainly the need for more resources to support tenants who are looking for affordable apartments. So just can you tell us what you're hearing from the community-based organizations provide the housing ambassador services about their caseloads and about their wait lists?
+Okay, thank you so much. Great. On Intro 418, Housing Connect Services, you know my office is probably one of the biggest users of the Housing Ambassador Program. We want it expanded. We know we need more support. I shared last time that in my office alone, a tenant could be waiting 6 months for an appointment with a housing ambassador. And so there is certainly the need for more resources to support tenants who are looking for affordable apartments. So just can you tell us what you are hearing from the community-based organizations provide the housing ambassador services about their caseloads and about their wait lists?
 
 **(00:59:17)**
 
 
 
-Sure. Thank you, Councilmember. We meet often with the housing ambassador organizations, including having done since we last spoke, I think, with, with your office. We, by the way, really appreciate the deep partnership that your office and your team has brought to the table on these topics. We've spoken with, and through introductions through your office, I think, tenant advocate organizations like AURA, as well as our existing housing ambassador partners. There is an enormous demand for their services. We don't have specific numbers on the timeline for a waitlist, as I think you said, for a housing ambassador organization, but we are very committed to supporting the work of these organizations and exploring how we can expand our support in the future for them. I do want to add that, which I left off before when responding to Councilmember Salam, that we also have launched launched Neighborhood Tech Help program that serves to bridge that digital divide a lot of our neighbors and New Yorkers may experience when applying for housing. And that's in, in partnership with the New York Public Library. And we're happy to have both of those programs, that and the Housing Ambassador helping New Yorkers where they are in their communities.
+Sure. Thank you, CM. We meet often with the housing ambassador organizations, including having done since we last spoke, I think, with your office. We, by the way, really appreciate the deep partnership that your office and your team has brought to the table on these topics. We have spoken with, and through introductions through your office, I think, tenant advocate organizations like AURA, as well as our existing housing ambassador partners. There is an enormous demand for their services. We do not have specific numbers on the timeline for a waitlist, as I think you said, for a housing ambassador organization, but we are very committed to supporting the work of these organizations and exploring how we can expand our support in the future for them.
+
+I do want to add that, which I left off before when responding to CM Salaam, that we also have launched Neighborhood Tech Help program that serves to bridge that digital divide a lot of our neighbors and New Yorkers may experience when applying for housing. And that is in partnership with the New York Public Library. And we are happy to have both of those programs, that and the Housing Ambassador helping New Yorkers where they are in their communities.
 
 **(01:00:57)**
 
@@ -618,13 +709,13 @@ Great.
 
 
 
-Thank you. I look forward to hearing more about how that's going. Okay. Intro 427 related to the re-rental process. Last year, HPD issued a waiver to facilitate occupancy of re-rental units, allowing owners to circumvent the usual time-consuming process that left these affordable apartments sitting vacant for months. Our understanding is that this waiver is set to expire in April of this year. What are HPD's short-term and long-term plans for re-rental units and the process for re-renting once this waiver expires?
+Thank you. I look forward to hearing more about how that is going. Okay. Intro 427 related to the re-rental process. Last year, HPD issued a waiver to facilitate occupancy of re-rental units, allowing owners to circumvent the usual time-consuming process that left these affordable apartments sitting vacant for months. Our understanding is that this waiver is set to expire in April of this year. What are HPD's short-term and long-term plans for re-rental units and the process for re-renting once this waiver expires?
 
 **(01:01:32)**
 
 
 
-So we have spent, uh, the last several months meeting with a whole variety of stakeholders, including applicants, advocate organizations, owners, developers, marketing agents, residents, not to mention with elected officials and teams like yours, to gather input about what the best set of options could be for re-rentals, for filling affordable vacancies in the future. We are actively reviewing all of the wide range of feedback that we received, and we did receive receive a wide range. So it's very much in our— it's something that we're actively reviewing and actively rethinking at this time.
+So we have spent the last several months meeting with a whole variety of stakeholders, including applicants, advocate organizations, owners, developers, marketing agents, residents, not to mention with elected officials and teams like yours, to gather input about what the best set of options could be for re-rentals, for filling affordable vacancies in the future. We are actively reviewing all of the wide range of feedback that we received, and we did receive a wide range. So it is very much in our... it is something that we are actively reviewing and actively rethinking at this time.
 
 **(01:02:24)**
 
