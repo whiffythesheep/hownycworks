@@ -9,8 +9,11 @@
         <a href="/" class="back-link">&larr; All hearings</a>
         <h1>{{ hearing.title }}</h1>
         <time datetime="{{ hearing.date }}">{{ hearing.date_display }}</time>
+        {% if hearing.duration %}
+        <span class="duration">{{ hearing.duration }}</span>
+        {% endif %}
         {% if hearing.youtube_url %}
-        <a href="{{ hearing.youtube_url }}" class="youtube-link">Watch on YouTube</a>
+        <a href="{{ hearing.youtube_url }}" class="youtube-link">Watch now</a>
         {% endif %}
     </header>
 

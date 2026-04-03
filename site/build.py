@@ -67,6 +67,7 @@ def load_content():
                 "date": date_str,
                 "date_display": date_display,
                 "slug": meta.get("slug", filename.replace(".md", "")),
+                "duration": meta.get("duration", ""),
                 "youtube_url": meta.get("youtube_url", ""),
                 "summary_html": markdown.markdown(summary_md),
                 "transcript_html": markdown.markdown(transcript_md)
