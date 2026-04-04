@@ -2,8 +2,8 @@
 title: "Committee on Transportation and Infrastructure, Assessing the State of the NYC Streets Plan in 2026"
 date: 2026-03-03
 slug: committee-on-transportation-and-infrastructure-assessing-the-state-of-the-nyc-streets-plan-in-2026
-duration: ""
-youtube_url: ""
+duration: "6hrs 4m"
+youtube_url: "https://www.youtube.com/watch?v=1NTWvr6fhV0"
 ---
 
 Summary
@@ -40,7 +40,7 @@ Numbers
 - 500,000 square feet of new pedestrian space created annually under current programs.
 - 97% of city streets already fall under 8-foot clear path requirements for sidewalk cafes.
 - 450 restaurants secured full permits for outdoor dining program.
-.
+
 Action Points
 
 - DOT to provide precise budget and staffing requirements for meeting Streets Plan mandates at preliminary budget hearing.
