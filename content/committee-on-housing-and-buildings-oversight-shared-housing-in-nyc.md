@@ -2,7 +2,7 @@
 title: "Committee on Housing and Buildings, Oversight - Shared Housing in NYC"
 date: 2026-02-09
 slug: committee-on-housing-and-buildings-oversight-shared-housing-in-nyc
-duration: "1m"
+duration: "1hr 27m"
 youtube_url: "https://www.youtube.com/watch?v=S4lWF_p0gwE"
 ---
 
@@ -20,28 +20,28 @@ Int 271-2026, addressing tenant services following vacate orders, generated disc
 
 Numbers
 
-- $4,000 per month cost of Manhattan studio apartments
-- 40% reduction in development cost per bedroom when converting office buildings to shared housing versus traditional apartments
-- 11% growth in small households between 2013 and 2023
-- 7% growth in small housing units during the same period
-- 670,000 total street trees citywide
-- 25,000 trees estimated in proximity to sidewalk sheds at any given time
-- 100-150 annual reports of construction-related tree damage to Parks Department
-- 46 community-based housing ambassador organizations partnered with HPD
-- 5 years current threshold for proactive enforcement against long-standing sidewalk sheds
-- 6 months typical wait time for housing ambassador appointments in Chair Sanchez's office
-- 30 day minimum lease requirement for shared housing units
-- January 1, 2027 effective date for shared housing legislation
+- $4,000 per month cost of Manhattan studio apartments.
+- 40% reduction in development cost per bedroom when converting office buildings to shared housing versus traditional apartments.
+- 11% growth in small households between 2013 and 2023.
+- 7% growth in small housing units during the same period.
+- 670,000 total street trees citywide.
+- 25,000 trees estimated in proximity to sidewalk sheds at any given time.
+- 100-150 annual reports of construction-related tree damage to Parks Department.
+- 46 community-based housing ambassador organizations partnered with HPD.
+- 5 years current threshold for proactive enforcement against long-standing sidewalk sheds.
+- 6 months typical wait time for housing ambassador appointments in Chair Sanchez's office.
+- 30 day minimum lease requirement for shared housing units.
+- January 1, 2027 effective date for shared housing legislation.
 
-Action points
+Action Points
 
-- DOB to circle back with CM Salaam on enforcement procedures for buildings with frequent safety violations
-- DOB and Parks to continue coordinating on most effective approach for tree protection from scaffolding damage
-- DOB to work with CM Zhuang on addressing sidewalk shade regulations for businesses
-- HPD to follow up with committee on good cause eviction protections and unit counting methodology for shared housing buildings
-- HPD to continue internal discussions on fire response coordination and report back to Chair Sanchez on communication protocols
-- DOB to finalize new sidewalk shed designs and share through rulemaking process later this year
-- HPD to work with voucher agencies before January 2027 to establish rental assistance policies for shared housing units
+- DOB to circle back with CM Salaam on enforcement procedures for buildings with frequent safety violations.
+- DOB and Parks to continue coordinating on most effective approach for tree protection from scaffolding damage.
+- DOB to work with CM Zhuang on addressing sidewalk shade regulations for businesses.
+- HPD to follow up with committee on good cause eviction protections and unit counting methodology for shared housing buildings.
+- HPD to continue internal discussions on fire response coordination and report back to Chair Sanchez on communication protocols.
+- DOB to finalize new sidewalk shed designs and share through rulemaking process later this year.
+- HPD to work with voucher agencies before January 2027 to establish rental assistance policies for shared housing units.
 
 ## Full Transcript
 

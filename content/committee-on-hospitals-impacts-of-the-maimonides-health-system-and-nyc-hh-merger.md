@@ -2,7 +2,7 @@
 title: "Committee on Hospitals, Impacts of the Maimonides Health System and NYC H+H Merger"
 date: 2026-03-02
 slug: committee-on-hospitals-impacts-of-the-maimonides-health-system-and-nyc-hh-merger
-duration: "5m"
+duration: "1hr 59m"
 youtube_url: "https://www.youtube.com/watch?v=37yV-E8fRGE"
 ---
 
@@ -20,34 +20,34 @@ Chair Mercedes Narcisse questioned Katz extensively about workforce protections,
 
 Numbers
 
-- $2.2 billion total state grant over five years for the merger
-- $2 billion deficit H+H faced when Katz became CEO eight years ago
-- $500 million allocated for capital improvements
-- $1.5 billion allocated for operational costs
-- $200 million in loan forgiveness for Maimonides
-- $9 million additional monthly revenue Maimonides will receive from higher Medicaid reimbursement rates
-- 34,000 inpatient visits at Maimonides last year
-- 923,000 outpatient visits at Maimonides last year
-- 7,000 staff at Maimonides
-- 6,000 births annually at Maimonides
-- 660 inpatient beds at main Maimonides campus
-- 120 beds at Midwood Hospital
-- 360,000 primary care patients in H+H system
-- 15 months minimum timeline for Epic electronic health records implementation
-- April 1, 2026 target date for merger completion
-- March 2027 goal for Epic system implementation completion
-- 5 different electronic health record systems currently used at Maimonides
+- $2.2 billion total state grant over five years for the merger.
+- $2 billion deficit H+H faced when Katz became CEO eight years ago.
+- $500 million allocated for capital improvements.
+- $1.5 billion allocated for operational costs.
+- $200 million in loan forgiveness for Maimonides.
+- $9 million additional monthly revenue Maimonides will receive from higher Medicaid reimbursement rates.
+- 34,000 inpatient visits at Maimonides last year.
+- 923,000 outpatient visits at Maimonides last year.
+- 7,000 staff at Maimonides.
+- 6,000 births annually at Maimonides.
+- 660 inpatient beds at main Maimonides campus.
+- 120 beds at Midwood Hospital.
+- 360,000 primary care patients in H+H system.
+- 15 months minimum timeline for Epic electronic health records implementation.
+- April 1, 2026 target date for merger completion.
+- March 2027 goal for Epic system implementation completion.
+- 5 different electronic health record systems currently used at Maimonides.
 
-Action points
+Action Points
 
-- H+H to extend Epic electronic health records system to all Maimonides patients and providers after merger
-- H+H to prioritize new maternity ward construction as top capital project using $500 million capital funds
-- H+H to maintain all existing union contracts and agreements at Maimonides
-- H+H to preserve kosher food service, Sabbath elevators, and other Orthodox Jewish accommodations
-- H+H to continue all current Maimonides locations including main campus, Midwood Hospital, and Bay Ridge emergency room
-- Maimonides board to submit required asset transfer paperwork to Attorney General and State Department of Health
-- H+H to review all existing Maimonides contracts for potential consolidation opportunities
-- H+H to follow City MWBE contracting rules for future Maimonides contracts
+- H+H to extend Epic electronic health records system to all Maimonides patients and providers after merger.
+- H+H to prioritize new maternity ward construction as top capital project using $500 million capital funds.
+- H+H to maintain all existing union contracts and agreements at Maimonides.
+- H+H to preserve kosher food service, Sabbath elevators, and other Orthodox Jewish accommodations.
+- H+H to continue all current Maimonides locations including main campus, Midwood Hospital, and Bay Ridge emergency room.
+- Maimonides board to submit required asset transfer paperwork to Attorney General and State Department of Health.
+- H+H to review all existing Maimonides contracts for potential consolidation opportunities.
+- H+H to follow City MWBE contracting rules for future Maimonides contracts.
 
 ## Full Transcript
 
