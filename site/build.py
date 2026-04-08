@@ -30,6 +30,28 @@ def parse_front_matter(text):
     return meta, match.group(2).strip()
 
 
+SECTION_LABELS_H2 = {"Summary"}
+SECTION_LABELS_H3 = {"Meeting Overview", "Numbers", "Action Points"}
+
+
+def promote_section_headings(md_text):
+    """Convert bare section-label lines (e.g. 'Summary', 'Numbers') to markdown headings.
+
+    The summarizer currently emits these as plain paragraphs. Promote them so
+    templates can style them as a proper heading hierarchy.
+    """
+    out_lines = []
+    for line in md_text.split("\n"):
+        stripped = line.strip()
+        if stripped in SECTION_LABELS_H2:
+            out_lines.append(f"## {stripped}")
+        elif stripped in SECTION_LABELS_H3:
+            out_lines.append(f"### {stripped}")
+        else:
+            out_lines.append(line)
+    return "\n".join(out_lines)
+
+
 def split_summary_transcript(body):
     """Split markdown body into summary and transcript sections."""
     # Look for ## Full Transcript heading
@@ -53,6 +75,7 @@ def load_content():
 
         meta, body = parse_front_matter(text)
         summary_md, transcript_md = split_summary_transcript(body)
+        summary_md = promote_section_headings(summary_md)
 
         date_str = meta.get("date", "")
         try:
