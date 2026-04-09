@@ -1,8 +1,7 @@
-/* style-prototype.css
- * How NYC Works — hearing page prototype
+/* site.css
+ * How NYC Works — shared stylesheet
  * "Bureaucratic cool": Win95/XP system UI as design vocabulary,
  * paired with modern editorial typography and generous whitespace.
- * Self-contained — does not depend on style.css.
  */
 
 /* ---------- Reset ---------- */
@@ -99,7 +98,7 @@ body.desktop {
 
 /* ---------- Window frame ---------- */
 .window {
-    max-width: 840px;
+    max-width: 1260px;
     margin: 0 auto;
     background: var(--chrome-gray);
     /* Outset bevel — high contrast so it pops on the teal desktop */
@@ -205,6 +204,22 @@ body.desktop {
     background: #f3f1e9;
 }
 
+/* ---------- Shared section heading (mono uppercase, dashed rule) ---------- */
+.section-heading,
+.hearing-summary h3 {
+    font-family: var(--font-chrome);
+    font-size: 0.95rem;
+    font-weight: 600;
+    line-height: 1.3;
+    text-transform: uppercase;
+    letter-spacing: 0.09em;
+    color: var(--text-muted);
+    margin-top: 2rem;
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.35rem;
+    border-bottom: 1px dashed var(--bevel-dark);
+}
+
 /* ---------- Hearing header ---------- */
 .hearing-header {
     margin-bottom: 2.25rem;
@@ -276,21 +291,6 @@ body.desktop {
 
 .hearing-summary h2:first-child {
     margin-top: 0;
-}
-
-/* "Meeting Overview", "Numbers", "Action Points" — clearly subordinate */
-.hearing-summary h3 {
-    font-family: var(--font-chrome);
-    font-size: 0.95rem;
-    font-weight: 600;
-    line-height: 1.3;
-    text-transform: uppercase;
-    letter-spacing: 0.09em;
-    color: var(--text-muted);
-    margin-top: 2rem;
-    margin-bottom: 0.75rem;
-    padding-bottom: 0.35rem;
-    border-bottom: 1px dashed var(--bevel-dark);
 }
 
 .hearing-summary p {
@@ -406,6 +406,92 @@ body.desktop {
     flex: 0 0 64px;
 }
 
+/* ---------- Index page ---------- */
+.intro-block {
+    margin-bottom: 2.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid var(--rule);
+}
+
+.intro-block h1 {
+    font-family: var(--font-body);
+    font-size: 1.75rem;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -0.015em;
+    margin-bottom: 0.75rem;
+}
+
+.intro-block .intro {
+    font-size: 1.05rem;
+    color: var(--text-muted);
+    max-width: 58ch;
+}
+
+.index-section {
+    margin-bottom: 2.5rem;
+}
+
+.index-section:last-child { margin-bottom: 0; }
+
+/* Sunken "well" containing the listing — mirrors the window-body inset bevel */
+.listing-well {
+    background: #f3f1e9;            /* slightly cooler than window-bg */
+    border-top: 2px solid var(--bevel-darker);
+    border-left: 2px solid var(--bevel-darker);
+    border-right: 2px solid var(--bevel-light);
+    border-bottom: 2px solid var(--bevel-light);
+    padding: 0.25rem 0;
+}
+
+.hearing-index {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.hearing-row { margin: 0; }
+
+.hearing-row + .hearing-row {
+    border-top: 1px dashed var(--bevel-dark);
+}
+
+.hearing-row a {
+    display: grid;
+    grid-template-columns: 18ch 1fr;
+    gap: 1.25rem;
+    align-items: baseline;
+    padding: 0.7rem 1rem;
+    text-decoration: none;
+    color: var(--text);
+}
+
+.hearing-row a:hover {
+    background: #ece9de;
+}
+
+.hearing-row__date {
+    font-family: var(--font-chrome);
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    white-space: nowrap;
+}
+
+.hearing-row__title {
+    font-family: var(--font-body);
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.4;
+    color: var(--text);
+}
+
+.hearing-row a:hover .hearing-row__title {
+    color: var(--accent);
+}
+
 /* ---------- Responsive ---------- */
 @media (max-width: 640px) {
     body.desktop {
@@ -426,5 +512,11 @@ body.desktop {
 
     .window-title {
         font-size: 11px;
+    }
+
+    .hearing-row a {
+        grid-template-columns: 1fr;
+        gap: 0.25rem;
+        padding: 0.75rem 1rem;
     }
 }

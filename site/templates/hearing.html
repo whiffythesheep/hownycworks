@@ -1,67 +1,37 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ hearing.title }} — How NYC Works</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="../../static/hearing.css">
-</head>
-<body class="desktop">
-    <div class="window">
-        <div class="window-titlebar">
-            <span class="window-title">
-                <span class="window-title-icon" aria-hidden="true">▓</span>
-                How NYC Works — Hearing Record
-            </span>
-            <span class="window-controls" aria-hidden="true">
-                <span class="window-control bevel-out">_</span>
-                <span class="window-control bevel-out">□</span>
-                <span class="window-control bevel-out">×</span>
-            </span>
+{% extends "base.html" %}
+{% block page_title %}{{ hearing.title }} — How NYC Works{% endblock %}
+{% block window_title %}How NYC Works — Hearing Record{% endblock %}
+
+{% block content %}
+<a href="/" class="back-link">← All hearings</a>
+
+<article class="hearing">
+    <header class="hearing-header">
+        <h1>{{ hearing.title }}</h1>
+        <div class="hearing-meta">
+            <time datetime="{{ hearing.date }}">{{ hearing.date_display }}</time>
+            {% if hearing.duration %}
+            <span class="meta-sep">·</span>
+            <span class="duration">{{ hearing.duration }}</span>
+            {% endif %}
+            {% if hearing.youtube_url %}
+            <span class="meta-sep">·</span>
+            <a href="{{ hearing.youtube_url }}" class="youtube-link">Watch on YouTube ↗</a>
+            {% endif %}
         </div>
+    </header>
 
-        <main class="window-body">
-            <a href="/" class="back-link">← All hearings</a>
+    <section class="hearing-summary">
+        {{ hearing.summary_html | safe }}
+    </section>
 
-            <article class="hearing">
-                <header class="hearing-header">
-                    <h1>{{ hearing.title }}</h1>
-                    <div class="hearing-meta">
-                        <time datetime="{{ hearing.date }}">{{ hearing.date_display }}</time>
-                        {% if hearing.duration %}
-                        <span class="meta-sep">·</span>
-                        <span class="duration">{{ hearing.duration }}</span>
-                        {% endif %}
-                        {% if hearing.youtube_url %}
-                        <span class="meta-sep">·</span>
-                        <a href="{{ hearing.youtube_url }}" class="youtube-link">Watch on YouTube ↗</a>
-                        {% endif %}
-                    </div>
-                </header>
-
-                <section class="hearing-summary">
-                    {{ hearing.summary_html | safe }}
-                </section>
-
-                {% if hearing.transcript_html %}
-                <details class="hearing-transcript">
-                    <summary>▸ Full Transcript</summary>
-                    <div class="transcript-body">
-                        {{ hearing.transcript_html | safe }}
-                    </div>
-                </details>
-                {% endif %}
-            </article>
-        </main>
-
-        <div class="window-statusbar" aria-hidden="true">
-            <span class="status-cell status-cell--sm"></span>
-            <span class="status-cell"></span>
-            <span class="status-cell status-cell--sm"></span>
+    {% if hearing.transcript_html %}
+    <details class="hearing-transcript">
+        <summary>▸ Full Transcript</summary>
+        <div class="transcript-body">
+            {{ hearing.transcript_html | safe }}
         </div>
-    </div>
-</body>
-</html>
+    </details>
+    {% endif %}
+</article>
+{% endblock %}
