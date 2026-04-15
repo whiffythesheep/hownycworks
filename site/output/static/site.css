@@ -378,6 +378,26 @@ body.desktop {
     color: var(--text-muted);
 }
 
+/* Timestamp links — jump to the corresponding moment in the YouTube video.
+   At rest: a thin dotted underline hints at clickability without shouting.
+   On hover: accent color with a subtle warm-beige fill, matching .back-link. */
+.transcript-body a {
+    text-decoration: none;
+    color: inherit;
+    border-bottom: 1px dotted var(--bevel-dark);
+    transition: color 120ms ease, background-color 120ms ease, border-bottom-color 120ms ease;
+}
+
+.transcript-body a:hover {
+    color: var(--accent);
+    background: #f3f1e9;
+    border-bottom: 1px solid var(--accent);
+}
+
+.transcript-body a:hover strong {
+    color: var(--accent);
+}
+
 /* ---------- Status bar footer ---------- */
 .window-statusbar {
     background: var(--chrome-gray);
