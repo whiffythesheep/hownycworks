@@ -384,7 +384,7 @@ body.desktop {
 .transcript-body a {
     text-decoration: none;
     color: inherit;
-    border-bottom: 1px dotted var(--bevel-dark);
+    border-bottom: 1px solid transparent;
     transition: color 120ms ease, background-color 120ms ease, border-bottom-color 120ms ease;
 }
 
