@@ -4,6 +4,7 @@ date: 2026-04-06
 slug: committee-on-sanitation-and-solid-waste-management-finalizing-the-citys-draft-2026-2036-solid-waste-management-plan
 duration: "3hrs 47m"
 youtube_url: "https://www.youtube.com/watch?v=46BTku-kaUA"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1403109&GUID=6947A0A0-A8FF-429E-AA58-641B9E31F273&Options=info|&Search="
 ---
 
 Summary

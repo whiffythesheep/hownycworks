@@ -4,6 +4,7 @@ date: 2026-03-23
 slug: committee-on-land-use-fy-2027-preliminary-budget-hearing
 duration: "3hrs 4m"
 youtube_url: "https://www.youtube.com/watch?v=N_ZdcPKyEtM"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1399770&GUID=4E1F16BD-DF86-4ABE-AE3E-3A1BBBBF58DF&Options=info|&Search="
 ---
 
 Summary

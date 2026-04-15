@@ -259,13 +259,15 @@ body.desktop {
     color: var(--bevel-dark);
 }
 
-.youtube-link {
+.youtube-link,
+.council-link {
     color: var(--accent);
     text-decoration: none;
     border-bottom: 1px solid transparent;
 }
 
-.youtube-link:hover {
+.youtube-link:hover,
+.council-link:hover {
     border-bottom-color: var(--accent);
     color: var(--accent-hover);
 }

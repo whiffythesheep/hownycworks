@@ -4,6 +4,7 @@ date: 2026-03-03
 slug: committee-on-transportation-and-infrastructure-assessing-the-state-of-the-nyc-streets-plan-in-2026
 duration: "6hrs 56m"
 youtube_url: "https://www.youtube.com/watch?v=1NTWvr6fhV0"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1389328&GUID=33E1C59E-B248-40E3-8900-29034F073024&Options=info|&Search="
 ---
 
 Summary

@@ -4,6 +4,7 @@ date: 2026-02-09
 slug: committee-on-housing-and-buildings-oversight-shared-housing-in-nyc
 duration: "1hr 27m"
 youtube_url: "https://www.youtube.com/watch?v=S4lWF_p0gwE"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1386585&GUID=D07F490C-DAEC-4C11-B3AC-674CD9BE518A&Options=info|&Search="
 ---
 
 Summary

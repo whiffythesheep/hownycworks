@@ -92,6 +92,7 @@ def load_content():
                 "slug": meta.get("slug", filename.replace(".md", "")),
                 "duration": meta.get("duration", ""),
                 "youtube_url": meta.get("youtube_url", ""),
+                "council_url": meta.get("council_url", ""),
                 "summary_html": markdown.markdown(summary_md),
                 "transcript_html": markdown.markdown(transcript_md)
                 if transcript_md

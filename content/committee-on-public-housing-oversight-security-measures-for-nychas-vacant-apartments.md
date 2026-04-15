@@ -4,6 +4,7 @@ date: 2026-04-10
 slug: committee-on-public-housing-oversight-security-measures-for-nychas-vacant-apartments
 duration: "3hrs 48m"
 youtube_url: "https://www.youtube.com/watch?v=drXDV4vo8IU"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1403556&GUID=9A35D7AC-A21C-4109-B3A7-BDEFF581AB8E&Options=info|&Search="
 ---
 
 Summary

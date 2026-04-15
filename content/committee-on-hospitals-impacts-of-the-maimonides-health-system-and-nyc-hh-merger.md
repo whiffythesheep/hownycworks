@@ -4,6 +4,7 @@ date: 2026-03-02
 slug: committee-on-hospitals-impacts-of-the-maimonides-health-system-and-nyc-hh-merger
 duration: "1hr 59m"
 youtube_url: "https://www.youtube.com/watch?v=37yV-E8fRGE"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1390773&GUID=AFC6053A-B3C9-4001-9569-BD0767057D30&Options=info|&Search="
 ---
 
 Summary

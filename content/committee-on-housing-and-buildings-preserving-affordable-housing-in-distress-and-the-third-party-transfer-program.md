@@ -4,6 +4,7 @@ date: 2026-03-09
 slug: committee-on-housing-and-buildings-preserving-affordable-housing-in-distress-and-the-third-party-transfer-program
 duration: "1hr 26m"
 youtube_url: "https://www.youtube.com/watch?v=C-BrQ1vvaKs"
+council_url: "https://legistar.council.nyc.gov/MeetingDetail.aspx?ID=1397505&GUID=4B47D16B-DB8A-421C-B8AC-0AB3C5C2121B&Options=info|&Search="
 ---
 
 Summary
