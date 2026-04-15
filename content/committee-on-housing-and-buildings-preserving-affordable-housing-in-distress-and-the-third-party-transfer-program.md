@@ -50,7 +50,7 @@ Action Points
 
 ## Full Transcript
 
-**(00:00:00)**
+[**(00:00:00)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=0s)
 
 
 
@@ -66,13 +66,13 @@ Just 50% of round 10 properties were in 11 community districts, low to moderate 
 
 I want to thank all of the advocates who engaged with us on this Bill draft and have provided thoughtful feedback on this program. This introduced Bill will continue to be tweaked and finalized until it is the best version that we can get. And I invite members of the public to please testify today or submit testimony within the next 72 hours for the official record. Thanks also to the members of the public who have taken time out of their day to join us. I am looking forward to engaging and I would like to take this opportunity to thank my team, Chief of Staff Maria Bijoos. In particular, Deputy Chiefs of Staff Ben Ratner and Kim Castillanos who put so much sweat and equity and work into this hearing today, Gerard Fernandez, Delin Campos, Maria Jose Mes, Brenda Monise, and Stephanie Kuzie. I would also like to thank the housing and buildings committee staff, senior legislative counsel Maloney, legislative counsel William Eck, senior policy analyst Jose Conde, policy analyst Derek Spencer, finance analyst Carla Naranjo, and data scientists Ree Hiota, Noah Slober, and Muhammad Shid. We called the roll so we know that all the council members are here. So I will now turn it over to our committee counsel to administer the oath.
 
-**(00:08:32)**
+[**(00:08:32)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=512s)
 
 
 
 Good morning. Good morning. Oh, do we want to pull the deck up? We will just hang on the title page for a moment while I read the testimony. Should be up in just a moment.
 
-**(00:08:56)**
+[**(00:08:56)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=536s)
 
 
 
@@ -112,7 +112,7 @@ Post commencement, distributing the notice of foreclosure at the building, so in
 
 Our goal is to provide clear criteria to building owners to be able to pay outstanding arrears, address housing conditions, and avoid foreclosure. As such, we recommend that payment plans be streamlined with standard payment options available to property owners. Simplifying payment options will make it easier for owners to understand and make it easier for agencies to provide good customer service. As property selection is proposed to be based on tax liens as well as property conditions, we also
 
-**(00:24:02)**
+[**(00:24:02)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=1442s)
 
 
 
@@ -120,19 +120,19 @@ support redemption requirements that tie the resolution of arrears to the correc
 
 Finally, the City will add a new process by which the owner of a foreclosed property can make a claim of surplus equity where it exists. At a time when so many New Yorkers struggle to find quality, affordable housing, we must protect housing that already exists and work to improve conditions for residents living in buildings in crisis. TPT is a critical program to stabilize housing for New Yorkers focused on stabilizing a subset of properties with the highest municipal debt and housing code violations. We look forward to continuing our work together to refine this legislation and deliver better outcomes for property owners and most importantly for the residents living in financially and physically distressed buildings. Thank you so much. We welcome your questions.
 
-**(00:25:35)**
+[**(00:25:35)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=1535s)
 
 
 
 Thank you. Thank you so much for your testimony and for all the detail that you brought into this conversation today. My first question is if you could reiterate the differences that you outlined throughout your testimony between the critical eligible or balanced model and what we have in the statute today.
 
-**(00:26:01)**
+[**(00:26:01)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=1561s)
 
 
 
 Yeah, absolutely. I will just kick it to Lucy, but first I will just say that you know in partnership with the Council, we proposed the reforms based on recommendations from the working group for that balanced model. The elimination of the block pickup and this indexing of the worst of the worst for the highest municipal arrears and those B and C violations I think really is a model that helps us target and make a more efficient and effective program.
 
-**(00:26:35)**
+[**(00:26:35)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=1595s)
 
 
 
@@ -140,7 +140,7 @@ Thank you. So under the statutory distress model we were comparing the building 
 
 So for tax class one, those owners would have to owe three times the amount of their annual tax liability. For HDFC rentals, it would be two times that tax liability. And for other rental buildings in tax class two, it would be one times that tax liability. That is to be eligible for the program. Once eligible, buildings still have to be selected. And when we go to the selection process, we are going to be looking at both physical and financial distress. In testimony, we have talked a little bit about that index that allows us to ensure that we are picking up the worst of the worst buildings, those that have really high indicators of both physical and financial distress.
 
-**(00:29:00)**
+[**(00:29:00)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=1740s)
 
 
 
@@ -148,25 +148,25 @@ Thank you. Got it. And that is your critically eligible description is contrasti
 
 Thank you for that. So those changes would be similar, right? If we keep the statutory distress definition, then it will continue to look a little bit like the old program. If we move towards
 
-**(00:29:29)**
+[**(00:29:29)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=1769s)
 
 
 
 critical eligible, what we are really going to be doing is we have that two-step process, but really ensuring that we are getting larger buildings, buildings that are experiencing both significant distress on the financial and the physical side. We talked a little about the fact that we believe under this model we are going to get a more diffuse representation across the city and really isolating to the worst of the worst buildings. That difference between statutory distress and critical eligible is a big part of that.
 
-**(00:30:03)**
+[**(00:30:03)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=1803s)
 
 
 
 Thank you. Thank you so much. And for the record we do agree, I do agree on that distinction and trying to make sure that we target the worst of the worst. In previous testimony, HPD testified that you want complete discretion in determining the number of properties in each round. Is that still the agency's position and what would prevent the agency from citing capacity concerns in the future and choosing not to include any buildings in a future round if we grant this ability? I think it is more... Thank you for the
 
-**(00:30:34)**
+[**(00:30:34)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=1834s)
 
 
 
 question, CM. I think it is more so that in statute we cannot commit to a minimum number of eligible properties that we could support or select in a future round without knowing the cost, the scale and the impact of the new program. This is such a new proposal and it would be frankly a little irresponsible for us to commit to something in statute. However, you know how strongly we feel that this is an incredibly important tool in our toolbox. We have seen how important preservation stabilization is in the larger city universe of these types of buildings. It is important that we get this right. We can also say that historically approximately 250 to 500 properties have been selected for Third-Party Transfer Program rounds. And so we have some historical data that we are looking at and that we have used in our data analysis to help us grasp what the scale of this might be. And we will commit to communication and transparency where we have an appropriate number that we believe the program can support. If we can do more, we will do more.
 
-**(00:31:42)**
+[**(00:31:42)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=1902s)
 
 
 
@@ -174,271 +174,271 @@ Got it. Thank you. We will continue conversations around that and how it ends up
 
 We talked a little bit about the issue around vacant land. And then again getting at the fact that this is a new program.
 
-**(00:33:33)**
+[**(00:33:33)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2013s)
 
 
 
 We have done a ton of analysis together with the working group. But it is important that we allow this program to be able to evolve over time including as we learn more about it. And so we think there should be some flexibility to be able to add on to those exemptions should they become necessary. Got it. Thank you. With respect to vacant lots and the agency's position that these should be excluded, what tools does HPD or does the City have on the books right now to deal with vacant parcels that we have just collecting trash and violations and vermin and rodents that are not seeing change from New Yorkers.
 
-**(00:34:18)**
+[**(00:34:18)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2058s)
 
 
 
 So I think I will just start by again when we looked at how to create a program that is most effective and given limited City resources we really do think that future iterations of this should focus on buildings where tenants are at risk of living in distressed conditions. And I will say also leading into this is that historically, when we have transferred vacant sites that are small and undevelopable, we have not seen a ton of yield in terms of affordable units. In fact, of the total 11 lots that were transferred in round 10, eight of which are actually in line for development and they are creating 65 units of total new construction. It is not nothing. We definitely see that there is some yield there, but we also are very mindful of a programmatic focus for this program moving forward. So I will say that in terms of the forward-looking part of the program and not including vacant units as in the program does not take away any of the City's other tools to deal with these. The owners still have all the same obligations. It just does not put those lots through this very resource intensive program given the limited results that we get from it.
 
-**(00:35:40)**
+[**(00:35:40)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2140s)
 
 
 
 If the agency did not have to hold title to them or be responsible for them after transfer, would that change the agency's position?
 
-**(00:35:50)**
+[**(00:35:50)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2150s)
 
 
 
 I think we can talk more about that.
 
-**(00:35:53)**
+[**(00:35:53)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2153s)
 
 
 
 Thank you. Thank you. I am going to ask a couple more questions and then I will turn it over to CM Epstein who has a couple of questions of his own. Okay. With respect to enforcement, our office did a basic analysis of buildings that have cycled through HPD's AEP program. We found that nearly 400 buildings, more than 10% of the buildings in AEP's history were repeat offenders, if you will, across multiple rounds of alternative enforcement program. Some were included in Third-Party Transfer Program before discharged and or excuse me, they were included before an AEP discharge and then fell back in five to 10 years later. The point being that AEP failed to stabilize these buildings over the long term as you acknowledged in your testimony. For buildings like this, where HPD's other enforcement programs do not seem to meaningfully be changing conditions for tenants, should we consider a fast track that expedites these buildings through a revamped Third-Party Transfer Program?
 
-**(00:36:52)**
+[**(00:36:52)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2212s)
 
 
 
 So I think that our proposed criteria really does a better job of capturing the buildings that are in those enhanced enforcement programs as we saw in the data. And we know that we are setting these buildings up for success with the financial support that is an underlying resource as part of the Third-Party Transfer Program. So we really do believe that our proposed reforms hit at the goals that you just mentioned of capturing that universe of buildings that have failed to meaningfully stabilize through one of our enhanced enforcement programs.
 
-**(00:37:33)**
+[**(00:37:33)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2253s)
 
 
 
 Thank you. And last one for me for this round. The missing middle that we have talked about offline. What is HPD's proposed solution for buildings that are pulled from, say, the lien sale because they are distressed but are not then selected for a round of Third-Party Transfer due to capacity constraints, budget or whatever other reason.
 
-**(00:37:56)**
+[**(00:37:56)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2276s)
 
 
 
 Thank you for that question. There has been this concern about buildings
 
-**(00:37:59)**
+[**(00:37:59)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2279s)
 
 
 
 getting sort of stuck in limbo between the programs and we do need to pull more properties from the tax lien sale that could be eligible for Third-Party Transfer Program in order to really end up with our correct selection pool if you sort of think about the way we have indexed in the criteria. But we do recognize this concern. However, we think that it is largely going to be resolved if we match the criteria for the tax lien sale to critical eligible. So we are using the same language across. We would be pulling the critical eligible buildings though some of them might not actually end up getting picked up for Third-Party Transfer Program in that round. They will then be eligible again for tax lien sale if things have not changed. And in the meantime just to make sure that we have eyes on this building, HPD would be doing roof to cellar inspections of these buildings just to make sure that we are appropriately monitoring them and at all times they will continue to be subject to all of our enhanced monitoring programs. So it is not like they are going to live in limbo. We will really make sure that these buildings continue to get the observation and monitoring they need.
 
-**(00:39:16)**
+[**(00:39:16)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2356s)
 
 
 
 So just to make sure I understand you correctly, are you proposing changes to the tax lien sale exemption process?
 
-**(00:39:23)**
+[**(00:39:23)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2363s)
 
 
 
 We are proposing that the existing definition of statutory distress, which right now also lives in the tax lien sale legislation that excludes properties from the sale, be modified to match our definition of critical eligible that we are proposing in this legislation such that the two definitions speak the same language on both the tax lien sale legislation and our Third-Party Transfer Program legislation. That way, there is no middle. It is just that is the universe that is eligible for Third-Party Transfer Program. The same buildings that are eligible year after year. And like Lucy mentioned, once they are on that list, regardless of whether or not they are selected for a Third-Party Transfer Program round, we are aware of what they are, where they are, and we will be conducting roof to cellar inspections so that we have a good baseline understanding of how to monitor enforcement conditions from year to year.
 
-**(00:40:16)**
+[**(00:40:16)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2416s)
 
 
 
 Okay. And then you are saying that for properties that are removed from the lien sale but then not selected into Third-Party Transfer Program, they would get extra love and attention from the... We would do a roof to cellar inspection of those buildings and they would continue to be subject to any of our enforcement.
 
-**(00:40:31)**
+[**(00:40:31)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2431s)
 
 
 
 So given that Third-Party Transfer Program in the past has taken two and a half years or more to complete a transfer from the time of selection to the time of transfer, how often would HPD anticipate staying on top of these properties? It will really depend on complaints that we receive from the building. We will make sure to do a roof to cellar inspection and then if things start to get worse, we expect that we will be receiving complaints from the building and we will make sure that we have folks out there as we otherwise would. The timing of the tax lien sale and Third-Party Transfer Program, right, could vary in a given year.
 
-**(00:41:09)**
+[**(00:41:09)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2469s)
 
 
 
 And I will just add to that that this is the same universe of buildings that we work with the Council on and are actually probably known to you and similarly they are known to us. We are always happy to work in partnership with CMs who have some of these types of buildings in their district. I am thinking of Davidson in your district chair that we had a lot of outreach and a lot of back and forth on that. That is pretty typical of kind of the worst of the worst of these kind of buildings and so we do expect that these are not going to be unknown to us. Got it. Thank you. I am going to turn it over to CM Epstein before coming back. Yeah. Thank you, Chair Sanchez, and thank you for being here. Just following up what the chair said about
 
-**(00:41:55)**
+[**(00:41:55)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2515s)
 
 
 
 like relationship with the Council. If a CM or local community based organizations wanted to flag buildings that should be priority buildings, where in the legislation do you see that as a priority that we can because the
 
-**(00:42:07)**
+[**(00:42:07)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2527s)
 
 
 
 criteria might be some objective criteria, but you on the ground you might see something happening very differently that we wanted to highlight a building to move that along quicker. Yeah, absolutely. So you are right.
 
-**(00:42:20)**
+[**(00:42:20)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2540s)
 
 
 
 We have put forth what we really need to be objective criteria that in some ways removes the discretion. But that being said I think we do have a relationship with many CMs around some of these more problematic buildings. Like I have said the worst of the worst are not unknown to us because we have been out so many times to respond to open violations. Once we get the municipal arrears, we will have a sense of what is included in a universe. But I think we always welcome a partnership with CMs who want to flag buildings for us to take a look at. But again, the objective criteria for inclusion in the program is intentional.
 
-**(00:43:06)**
+[**(00:43:06)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2586s)
 
 
 
 I only have five minutes. I do not want to cut you off, but I want to push on that because I think what you are saying, it could be objectively saying, hey, there is a 7A pending. Hey, the CM flagged it. Hey, community based organizations have flagged it. Those can be objective criteria, too. They are just not there. So why not include those?
 
-**(00:43:25)**
+[**(00:43:25)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2605s)
 
 
 
 Well, this is a tax enforcement program first and foremost. So that... It is pulling out of a tax lien sale to do a foreclosure to get a building that is distressed because you need repairs and taxes into a new program because
 
-**(00:43:39)**
+[**(00:43:39)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2619s)
 
 
 
 tenants are suffering. So it is not just tax foreclosure, it is
 
-**(00:43:42)**
+[**(00:43:42)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2622s)
 
 
 
 because there are violations as well. Yeah, absolutely. And that is what the balance model is really meant to get at. I think that you are absolutely right. On top of that minimum eligibility that we have described here of
 
-**(00:43:56)**
+[**(00:43:56)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2636s)
 
 
 
 buildings that have outstanding arrears such that they would be eligible for this tax enforcement program and they have outstanding violations, hazardous violations that would mean that they are indexed to be inclusive of our model. We are happy to hear from CMs of that universe of buildings which ones are most problematic, which ones are you getting the most outreach on. But would you prioritize those
 
-**(00:44:19)**
+[**(00:44:19)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2659s)
 
 
 
 buildings?
 
-**(00:44:20)**
+[**(00:44:20)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2660s)
 
 
 
 We would not. No, we are in our proposal. We would... I want to go to different... They would absolutely be prioritized for some of our other enforcement programs. This is a limited program in that way.
 
-**(00:44:31)**
+[**(00:44:31)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2671s)
 
 
 
 So I want to talk about the tenant ownership model here. The tenant ownership model seems very weak to me. It does not allow... I have worked on Third-Party Transfer Program buildings that still have not moved to tenant ownership, you know, 30 years later. I am wondering how can we guarantee that tenants who are agreeing to do this will at the end as long as they comply with the obligations that they have ensure that
 
-**(00:44:51)**
+[**(00:44:51)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2691s)
 
 
 
 those tenants will move into an ownership model. You want to take back Carrie? Sure. Thank you for that question. We are happy to support in this new legislation the opportunity for HDFC co-ops to... Not HDFCs. I am talking about buildings that are in Third-Party Transfer Program that we want them to become tenant ownership buildings that
 
-**(00:45:07)**
+[**(00:45:07)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2707s)
 
 
 
 those buildings will actually guarantee to be transitioned to tenant ownership because right now you are transferring it to a third party with no guarantee even if the tenants comply that those units will be turned over to the tenants as a cooperative. So there are a few places that we are supporting tenant ownership that
 
-**(00:45:22)**
+[**(00:45:22)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2722s)
 
 
 
 is allowing HDFC co-ops to reconstitute as well as providing the opportunity for buildings that are rentals to be able to petition in. The buildings must first
 
-**(00:45:31)**
+[**(00:45:31)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2731s)
 
 
 
 and foremost meet the minimum eligibility criteria to petition. We will provide notifications to these buildings to let them know what that criteria is. What guarantees tenants the ability to
 
-**(00:45:43)**
+[**(00:45:43)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2743s)
 
 
 
 get their buildings if they agree with a go to within Third-Party Transfer to ensure those buildings become ownership buildings? Tenants must meet the building must meet the eligibility. They meet those criteria. What guarantees HPD put into place to ensure those buildings will become tenant
 
-**(00:45:56)**
+[**(00:45:56)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2756s)
 
 
 
 ownership? Part of clear criteria. We are going... We have clear criteria for those standards comply and these are based in part on some of our experiences with the past with some of the very buildings that you have struggled with. We know that if tenants are going to take over some of these formerly very troubled buildings, they have to be set up for success. So we have from this work that we have been doing worked to identify what is it that is going to really set every one of those tenants up to be successful in that building. And that is the starting point here. And that is where HPD can promise you that when
 
-**(00:46:26)**
+[**(00:46:26)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2786s)
 
 
 
 we are working with these buildings, if they can meet that criteria, that we are going to help them be able to help them get into that ownership.
 
-**(00:46:31)**
+[**(00:46:31)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2791s)
 
 
 
 Why not just do a process where they go into tenant ownership as they meet those criteria instead of having a third party who can hold it up for 20 years to ensure as long as they meet their criteria, they are doing their classes, that they are doing the training, they can have a third party monitor to oversee them. Why not give tenants the power to have ownership as an opportunity to guarantee that they will be able to move those buildings into ownership instead of saying tenants you are going to have to do this work but then you are going to rely on this third party to agree to transfer them and there is no guarantee HPD or anyone else can force them to turn it over to you.
 
-**(00:47:05)**
+[**(00:47:05)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2825s)
 
 
 
 We do not anticipate that this is going to take 20 years. We believe if the tenants are well set up, we will be able to facilitate these transactions. But these are incredibly troubled buildings. We have been testifying to the fact that they are the worst of the worst. It does mean that we owe it to those tenants to make sure that that building is ready. We are devoting lots of resources, including through the owner resource center, through other parts of HPD to make sure that we are working with everyone involved to make this program really successful. We would be happy to offline with you about particular buildings that you are concerned about, but we do believe that the combination of factors, both the resources that the agencies are putting towards this, the standards that we have set out for tenants to be successful and our general interest in supporting this means that we are going to be able to do this and better than we have done it in the past. It just sounds like there is no guarantee that tenants will have if they
 
-**(00:47:55)**
+[**(00:47:55)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2875s)
 
 
 
 commit to doing all their trainings and following through everything that they can guarantee through this process legislatively to get ownership of the building. And you are saying you are going to provide resources and you are saying there are troubled buildings. I know I represented many of these buildings in my career to help people become tenant ownership to then have a nonprofit refuse 5 years later, 10 years later to even sell the building to the tenants, which leaves the tenants extremely frustrated. So, I want to hear why we... what can we do to guarantee these tenants tenant ownership.
 
-**(00:48:25)**
+[**(00:48:25)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2905s)
 
 
 
 We are going to be providing clear timelines and milestones for achieving tenant ownership. We know we have had buildings in the past where there have been timing issues. Part of what we will be providing programmatically is ensuring that we have those clear timelines laid out so both the tenants and the owners and HPD understand what milestones they have to reach for tenant ownership. Why could we do that statutorily then instead of just waiting to have you through rulemaking create those timelines? We could talk more about what you are looking for in terms of what that would look like. We do not see this as a lack of guarantee. We see this as we are going to map out the program and make sure that it works for everyone and we are happy to offline on some of these details if it does not seem like it is going to achieve what you are looking for.
 
-**(00:49:08)**
+[**(00:49:08)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2948s)
 
 
 
 Thank you.
 
-**(00:49:09)**
+[**(00:49:09)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2949s)
 
 
 
 And I just to follow up on CM Epstein, if I understand you correctly and please cut me off if I am not. It does seem like HPD does have criteria that tenants need to go through and many hoops to jump in order to become a cooperative. But then at the end, even if they have met all of these criteria, it is still up to HPD's discretion whether or not to accept those criteria or at least that is how it comes across. And so I think we are asking for clarity and I join CM Epstein in wanting that clarity.
 
-**(00:49:46)**
+[**(00:49:46)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2986s)
 
 
 
 Would you?
 
-**(00:49:47)**
+[**(00:49:47)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=2987s)
 
 
 
 Yeah. Either HPD or the third party transfer designee have a lot of freedom to make some decisions that could... they could say to the tenants we are... even though you have met these criteria we are not transferring the building and so that leaves the tenants kind of left at a lurch when they have done everything they were asked to do. We want to make sure if they have struggled, they have suffered, we are telling them there is going to be this co-op at the end. We want some guarantees along the way that that will actually happen that is committed to in the law so they can rely on it and then if that does not happen they can have a basis to sue because they have done everything they need to do because they cannot just beg for it. They need... we want to give tenants power to do the right thing here. And I am worried that the way the process is going to just reiterate the problems we had in the 90s and the early 2000s where people would not get those buildings become tenant ownership because either HPD decided or the nonprofit decided that was not going to happen.
 
-**(00:50:44)**
+[**(00:50:44)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=3044s)
 
 
 
 Right. Yeah. I think we can definitely offline a little to talk a little bit more about what that might look like. And I will also just say that again we... a lot of this is about removing the discretion and putting in more objective criteria. So I actually think that maybe once we can talk a little bit about more what we have proposed we may actually be more in alignment than as it seems right now because that clarity, that transparency and the additional resources of the objective criteria for petitioning to become tenant owner... a tenant owned building I think is more in line with maybe what you are envisioning now. And so let us talk more about it.
 
-**(00:51:27)**
+[**(00:51:27)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=3087s)
 
 
 
 Thank you.
 
-**(00:51:28)**
+[**(00:51:28)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=3088s)
 
 
 
 Thank you.
 
-**(00:51:29)**
+[**(00:51:29)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=3089s)
 
 
 
 Thank you CM. I will now turn it to CM Salaam.
 
-**(00:51:33)**
+[**(00:51:33)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=3093s)
 
 
 
@@ -446,13 +446,13 @@ Thank you, Chair. And many of the questions that were raised of course embodies 
 
 Thank you for that question. During the tax lien sale we implemented a lot of new outreach models to reach tenants and would work to do the same with TPT. We worked with our partners at HPD, DOF, the mayor's public engagement unit and neighborhood nonprofit groups. We had 66 different events with CM joined us and our partners at PEU and HPD and DOF also joined us. We developed a two-page fact sheet outlining important information about the sale which we would do for the TPT program which was available in 10 languages and was used by all the city agencies, the center for neighborhood partnership, the outreach partners and elected officials. We also engaged with person-to-person where the neighborhood... actually went to the neighborhood to let the owners know that their property was part of the lien sale. We would also do that same engagement with the TPT program.
 
-**(00:53:48)**
+[**(00:53:48)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=3228s)
 
 
 
 And can you walk us through what the new 20th percentile distress threshold looks like for typical Harlem Brownstone owners with modest tax debt and no serious violations and confirm they cannot be put into this program.
 
-**(00:54:07)**
+[**(00:54:07)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=3247s)
 
 
 
@@ -460,13 +460,13 @@ Thank you for that question. So, there are two, I think, pieces to that response
 
 But beyond that the changes from statutory distress to critical eligible and introducing the balance model really are also meant to address all of those concerns from the last program. We do believe that we are going to be seeing larger buildings that are going to meet the critical eligible definition than under statutory distress. And they are going to be much more distressed both in terms of having the physical and the financial distress. And I mentioned that they would be larger but the median building size we really do expect to be something like 30 units a building not some of the smaller buildings we saw. And the block pickup removal is also really critical to that. What we saw the last time is that a lot of folks because they were on a block with other buildings that were quite distressed if they otherwise met the minimum eligibility requirements could be included. And that is not going to happen... we are not going to have the block pick up under this version.
 
-**(00:55:47)**
+[**(00:55:47)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=3347s)
 
 
 
 What targeted outreach and technical assistance is HPD providing to landlords in high poverty communities of color before they reach the distress threshold. So, TPT is truly a last resort and not the first response. Sure.
 
-**(00:56:02)**
+[**(00:56:02)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=3362s)
 
 
 
@@ -478,7 +478,7 @@ And chair, if I may, just one last one. Once a distressed property in Harlem is 
 
 For all of our programs, including TPT, these are non-displacement programs. When we are working with the designated third party to put together rehab and financing plans for the building. We are looking at the rents in place as well as the incomes of the tenants in place. We are not rent burdening any tenants which we
 
-**(00:57:43)**
+[**(00:57:43)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=3463s)
 
 
 
@@ -512,7 +512,7 @@ We can get that for you. We definitely have that number somewhere. I just actual
 
 Okay, got it. You started to talk about this, but given this disproportionate inclusion of HDFC co-ops in previous TPT rounds and in this model, what is HPD's stance on how HDFCs in particular should be treated in a reimagined version of the program? What unique redemption options should be available to them? What additional supports should they receive? Well, I will just say, you know, we
 
-**(01:04:52)**
+[**(01:04:52)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=3892s)
 
 
 
@@ -520,7 +520,7 @@ I think that HDFCs will benefit from a lot of the additional outreach and notifi
 
 Can you and we know that there are struggling HDFC co-ops in the city. We have a number of programs to be able to support them so that they do not get to this place. And that is also something we would really emphasize. It is a huge part of our home ownership focus is being able to help stabilize existing homeowners where they need it.
 
-**(01:06:39)**
+[**(01:06:39)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=3999s)
 
 
 
@@ -528,349 +528,349 @@ And in previous rounds, they were not allowed to petition to become cooperative 
 
 Moving to Neighborhood Restore. Can you describe the details of HPD's contract with Neighborhood Restore and what is the financial relationship that the city has with the entity? Sure. Thank you for that question. Neighborhood Restore is a critical partner to HPD and was formed by LISC and Enterprise to support round one of TPT. We provide support programmatically and administratively to neighborhood restore at the start of each round to support their administrative functions overseeing the buildings as interim owner. Neighborhood restore provides immediate stabilization work as soon as the properties are transferred through the in rem foreclosure process. They are doing tenant meetings. They are issuing and working with tenants on establishing rent stabilized leases as well as assessing emergency conditions and addressing those conditions within the building upon transfer. HPD enters into an agreement with Neighborhood Restore at the start of each funding round and the relationship is outlined in an MOU between neighborhood restore and HPD.
 
-**(01:09:59)**
+[**(01:09:59)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4199s)
 
 
 
 At the beginning of a round, you said we enter into an agreement where we provide funding at the beginning of every round with Neighborhood Restore. Thank you.
 
-**(01:10:15)**
+[**(01:10:15)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4215s)
 
 
 
 Would you provide a copy of that contractual relationship, a copy of the contract to this committee?
 
-**(01:10:22)**
+[**(01:10:22)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4222s)
 
 
 
 We are happy to talk more about that request. Yes.
 
-**(01:10:26)**
+[**(01:10:26)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4226s)
 
 
 
 Do not make me subpoena. I am kidding. Okay. We are all friends here. Okay. HPD previously testified that past transfers on occasion have been reversed. Can you share the circumstances that led to any sample reversal or sample reversals? What was the exact mechanism for reversing a transfer? Is HPD able to do this through its contract with Neighborhood Restore?
 
-**(01:10:58)**
+[**(01:10:58)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4258s)
 
 
 
 I will just start by thank you so much. I think we will start by saying we agree that there are definitely limited circumstances in past precedent where reversals have been necessary and moving forward we are really striving to carve out objective bases that are fiscally responsible. So as I said we are really trying to be more intentional about our objective criteria for many many parts of this program. But you know in previous situations we recognize that sometimes an owner has attempted to address issues. So there have been situations in the past where we have reversed transfers because you know certain missteps along the way. We do not expect that to be the case moving forward because of the new criteria and much of the smoothing out of the process that we have identified. But there are also objective criteria that can trigger removal of a property prior to a final judgment. That is things like the validity of a lien or maybe the city has already collected payment on all the taxes and interest. So that can happen when there is something subject to foreclosure. Similarly, if charges are canceled, that is also a situation where we would reverse and then also just a note here that applications for reversal would be subject to the in rem foreclosure release board which is a body that deals with this type of situation.
 
-**(01:12:31)**
+[**(01:12:31)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4351s)
 
 
 
 What is the current status of the in rem foreclosure release board? Has it been used in the past and why?
 
-**(01:12:36)**
+[**(01:12:36)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4356s)
 
 
 
 So we are supportive of keeping the in rem foreclosure release board in the current statute. As Rosa said, there are limited circumstances where we will work where reversal will take place. We need to have clear and objective criteria and limit discretion. One piece that we are recommending that we would like to continue discussing is that the city will need to retain discretion to reverse transfers where there is surplus equity that cannot be supported by the city. Do you have examples of when the in rem foreclosure release board has been used? To my knowledge, we do not have any recent examples of a release from the in rem foreclosure release board. We would like to continue talking about that provision with the council.
 
-**(01:13:23)**
+[**(01:13:23)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4403s)
 
 
 
 Thank you. What are estimated costs for each of your agencies to administer the program in round 10 and moving forward to if there is a round 11?
 
-**(01:13:36)**
+[**(01:13:36)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4416s)
 
 
 
 Sure. So, in terms of looking forward to a round 11, because we are still negotiating this legislation, we are happy to keep talking about what our estimates will look like once we have finalized legislation. We do know that staffing, capital, and programmatic support is critical to the success of the TPT program and ensuring we have good customer service and are able to administer the program effectively. For potential costs, we will need programmatic support for the owner's resource center to support neighborhood restore to be able to support the appraisals that we will need to conduct to estimate surplus equity or assess surplus equity as well as to make surplus value payments where necessary and where supported. We will need specific staffing support as well as capital support to ensure that we have dollars to rehab the buildings that are coming through the in rem foreclosure process and being disposed to being transferred to a third party designated entity.
 
-**(01:14:36)**
+[**(01:14:36)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4476s)
 
 
 
 Thank you. Can you talk a little bit about the process that the agency imagines undertaking to determine the surplus value?
 
-**(01:14:44)**
+[**(01:14:44)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4484s)
 
 
 
 Sure. So we have two pieces of notification that will include information about the surplus equity process. First for the final warning notice that will include information to the owner making them aware that there is an opportunity to request surplus equity and what that process will look like in the statute. We are adding a notification that will be sent that will require a report to be sent to the owner that includes the assessment of the surplus equity. This notice will also allow owners an opportunity to dispute to either make that claim or dispute the findings of the appraisal. And who is conducting the appraisal?
 
-**(01:15:27)**
+[**(01:15:27)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4527s)
 
 
 
 HPD will need to contract once we have final legislation in place. We would need to contract with the vendor to be
 
-**(01:15:34)**
+[**(01:15:34)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4534s)
 
 
 
 able to complete those as is appraisals. Thank you. And then turning back to
 
-**(01:15:39)**
+[**(01:15:39)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4539s)
 
 
 
 tenant ownership before turning it back to my colleague, CM Epstein. How many buildings have successfully converted to tenant ownership via previous rounds of TPT? Thank you. Yes, there are 73 tenant petition properties supported through rounds 1 through 10. And were those 73
 
-**(01:16:00)**
+[**(01:16:00)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4560s)
 
 
 
 tenant petitions completed? 47 have converted, 13 have remained long-term rentals, and 10 buildings are pending conversion and are post construction and loan conversion. And three properties are in construction and pre-development.
 
-**(01:16:19)**
+[**(01:16:19)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4579s)
 
 
 
 And for the properties that are long-term, the 13 properties that are long-term rentals, the ones that have stalled in the process, as we have been discussing, how does HPD understand why that stalling has occurred?
 
-**(01:16:34)**
+[**(01:16:34)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4594s)
 
 
 
 In limited circumstances, we a tenant petition is not able to successfully convert into a co-op. I do not have exact information on the 13 long-term rentals and would be happy to talk more about those and their circumstances.
 
-**(01:16:51)**
+[**(01:16:51)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4611s)
 
 
 
 Thank you. So turning to the process to petition for tenant ownership. In the TPT working group report, you all state that neighborhood restore HDFC works with HPD and the selected qualified third party to stabilize, engage, and plan for rehabilitation and future ownership of these properties. Can you break down for us who what is happening at each stage? So the transfer occurs the tenants are working with a qualified third party is that qualified third party then the entity that also helps them transition into ownership or can you just break down that process for us? Sure. So at the start for any building and now this will include going forward HDFC co-ops. The building must meet the minimum eligibility criteria to have the opportunity to be a tenant petition which is what we call the future co-op process. That is the building must have 10 or more units. It must be occupied 50% or more and 80% of those tenants have to indicate an interest in home ownership as well as identify a designated entity from our pre-qualified list of entities. That designated entity will take the project through pre-development construction and support the co-op in forming after the construction has completed.
 
-**(01:18:17)**
+[**(01:18:17)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4697s)
 
 
 
 And so at what point does is that final determination made that we have done pre-development, we have done construction, the tenants have come together and they have met the minimum criteria. At what point does HPD then decide that the tenants can become shareholders? As I said, there are limited circumstances where we are determining that the project has not met the milestones. I do not have specific details about where in that process. It is different for every co-op. We have to ensure that the co-op is being formed to be successful. I would be happy to follow up and talk more about instances in terms of past projects.
 
-**(01:19:04)**
+[**(01:19:04)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4744s)
 
 
 
 Thank you. CM Epstein, if there is a history of harassment in a building where findings of harassment
 
-**(01:19:12)**
+[**(01:19:12)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4752s)
 
 
 
 have been determined, is that a factor at all in your determination whether a building can go through TPT? So not specifically. So again, the
 
-**(01:19:23)**
+[**(01:19:23)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4763s)
 
 
 
 That is great. Okay. Not specifically and it is not in the statute, right? No. So, if there is a long-term history
 
-**(01:19:28)**
+[**(01:19:28)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4768s)
 
 
 
 of harassment, tenants been suffering through harassment, that is not a factor currently that you would want to consider in whether a building can go through TPT. Again, I think our objective criteria that we have determined here does
 
-**(01:19:39)**
+[**(01:19:39)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4779s)
 
 
 
 Well, objectively, if someone has a finding of harassment, that is a judge determination that is harassment. That is an objective standard, right?
 
-**(01:19:46)**
+[**(01:19:46)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4786s)
 
 
 
 Yes. But we do have lots of preservation programs and support for buildings that may not meet the criteria of TPT. We do expect that buildings that are in physical and financial distress,
 
-**(01:19:58)**
+[**(01:19:58)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4798s)
 
 
 
 excuse me, distress may fall into that category and be captured by this program. So, I just want to focus on the HDFC. So, 20% out of the top 500 are co-ops
 
-**(01:20:09)**
+[**(01:20:09)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4809s)
 
 
 
 and about 10% of those rentals. Of those 10% that are rentals, how many of those did not get an article 11 tax exemption? Do you know? So, the numbers that we were giving were sort of the hypothetical of what would happen if it was in place today. You said there are 500 distressed buildings right now, you think 30% of them are HDFCs. Sorry, let us go back to that a little bit. That is analysis that we have done to
 
-**(01:20:32)**
+[**(01:20:32)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4832s)
 
 
 
 say if this was in place today and we were going to select a hypothetical 500, how do we think that the model would
 
-**(01:20:40)**
+[**(01:20:40)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4840s)
 
 
 
 work out? So, they are not actual buildings and we cannot speak to which. So, we do not know if any of those got
 
-**(01:20:46)**
+[**(01:20:46)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4846s)
 
 
 
 any rehab at all from the city when they converted. We do not know if they got an article 11. We do not know if they got systemwide work. We do not know if the city supported them when those buildings
 
-**(01:20:56)**
+[**(01:20:56)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4856s)
 
 
 
 were converted to HDFCs. Right. Right. So this is a they are hypothetical buildings. So we cannot speak to the exact. So there might be buildings who converted to an HDFC like in my neighborhood that did not get any support at all and never got an article 11 may look distressed but they never got the gut rehab some of these newer buildings are getting. That is possible, right? So that is certainly possible. Yeah. So, is there a way to view those buildings differently? Especially if some
 
-**(01:21:25)**
+[**(01:21:25)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4885s)
 
 
 
 buildings got rehab and other buildings did not get the support that they needed to get stabilized from the beginning,
 
-**(01:21:30)**
+[**(01:21:30)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4890s)
 
 
 
 they may had to spend their resources doing the roof and the pointing and the kitchen bathrooms on their own because HPD did not initially come in with the resources that they dealt with other properties. Yeah, I think that this goes back to our proposal for additional outreach and support and off-ramps from TPT. In particular, we are making it easier for owners, including HDFC cooperative owners, to make payments by giving them access to more clear, standard, and transparent payment plans. And they can also apply to article 11 support and get support through our preservation financing programs, which would be an off, you know, having getting the financial support, addressing the physical issues. Those are offramps to TPT for any owner. But we do believe that HDFC co-ops will
 
-**(01:22:18)**
+[**(01:22:18)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4938s)
 
 
 
 benefit from the reforms that we are putting in place for that offramp. It is funny because I had a meeting with HPD the other day about an article 11 for a building that is an HDFC that has been trying to get an article 11 for about 20 years. And we are like, okay, we are ready to do the paperwork. They are
 
-**(01:22:32)**
+[**(01:22:32)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4952s)
 
 
 
 like, well, we do not have any article 11 money this year. Maybe we will
 
-**(01:22:36)**
+[**(01:22:36)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4956s)
 
 
 
 consider you for next year and this is a building that is distressed because of the taxes, but need the support from HPD. How do we ensure that the buildings that are in that process who are trying to get the support but are not able to get the support can, you know, find a different path? We are happy to talk about that building more. I know the exact building that you are speaking of is on that
 
-**(01:22:57)**
+[**(01:22:57)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4977s)
 
 
 
 call. We in general, as Rosa said, we have support for these buildings. We have Article 11s. We have city capital. We do need support for
 
-**(01:23:05)**
+[**(01:23:05)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4985s)
 
 
 
 more resources in terms of making sure that we are able to meet those buildings. Yeah, more resources. Article 11s more
 
-**(01:23:10)**
+[**(01:23:10)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4990s)
 
 
 
 money is better for us. I agree with you. Can I just I know you said three
 
-**(01:23:15)**
+[**(01:23:15)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=4995s)
 
 
 
 are still in construction. This is from a round from 2015, right? In terms of the tenant petitions.
 
-**(01:23:21)**
+[**(01:23:21)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=5001s)
 
 
 
 So the round was started in 2015. Transfers happened in 2018. Litigation
 
-**(01:23:27)**
+[**(01:23:27)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=5007s)
 
 
 
 was still resolving on some of those transfers which delayed our ability
 
-**(01:23:31)**
+[**(01:23:31)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=5011s)
 
 
 
 to move forward on those buildings. That round two was subject. Unfortunately, we
 
-**(01:23:35)**
+[**(01:23:35)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=5015s)
 
 
 
 had delays during COVID. So we have three buildings from round 10 that we are working on right now. So, so 47 out of 73 converted, 13 long-term rentals. Basically, 60% have converted,
 
-**(01:23:47)**
+[**(01:23:47)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=5027s)
 
 
 
 40% have not. And so these are tenants who initially
 
-**(01:23:52)**
+[**(01:23:52)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=5032s)
 
 
 
 submitted with the 80% saying that they wanted to get into tenant ownership and 40% of those have not gotten into tenant ownership. Is that what I hear you saying, right?
 
-**(01:24:02)**
+[**(01:24:02)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=5042s)
 
 
 
 I cannot confirm your percentages because I cannot do math that quick in a hearing. But I will say that we are
 
-**(01:24:08)**
+[**(01:24:08)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=5048s)
 
 
 
 working with a portion of these buildings to ensure they are converting both on their construction financing as well as into their... and this is from the round from 2015. So or 2018 depending on the year
 
-**(01:24:19)**
+[**(01:24:19)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=5059s)
 
 
 
 pardon me the round 10 properties those are the three that we were speaking of. Those were subject to
 
-**(01:24:24)**
+[**(01:24:24)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=5064s)
 
 
 
 litigation which delayed work in those buildings and in some
 
-**(01:24:27)**
+[**(01:24:27)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=5067s)
 
 
 
 those other buildings are still... the other buildings were from prior rounds. So those are representing
 
-**(01:24:32)**
+[**(01:24:32)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=5072s)
 
 
 
 buildings that are still either delayed in getting the co-op conversion or delayed in construction. We have had a lot
 
-**(01:24:37)**
+[**(01:24:37)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=5077s)
 
 
 
 of construction delays. So could... So 10 years, people be waiting 10 years and still waiting to become a co-op.
 
-**(01:24:44)**
+[**(01:24:44)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=5084s)
 
 
 
 We are still actively working with some buildings.
 
-**(01:24:46)**
+[**(01:24:46)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=5086s)
 
 
 
 All right. Thank you.
 
-**(01:24:47)**
+[**(01:24:47)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=5087s)
 
 
 
 Thank you, CM. I am going to ask a couple more rapid fire to HPD and then I am turning to sister agencies. The effect of the lien sale reforms on third-party transfer. At the end of last session, the Council enacted legislation amending the lien bank and the lien sale process to allow a land bank to approach foreclosure more holistically by considering revenues, community need and housing conditions. How does the administration envision synergizing the new procedures for the land bank with the proposed reforms to third party transfer?
 
-**(01:25:24)**
+[**(01:25:24)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=5124s)
 
 
 
 So I will start by saying our definition for critical eligible is the real key piece here. This is something that would allow us to enact a round of TPT regardless of an existing lien sale year-to-year, but it also helps standardize that definition of buildings that are most appropriate to be removed from the tax lien sale. In addition, we work with our partners as our colleague from DOF mentioned on outreach and support for any homeowners and property owners who are potentially impacted by property tax enforcement legislation. We envision that moving forward through any reforms on tax lien sale land bank and other future iterations of that legislation. We would continue to conduct outreach and provide support through many of our neighborhood partners and in partnership with our sister agencies like DOF and... Thank you.
 
-**(01:26:23)**
+[**(01:26:23)**](https://www.youtube.com/watch?v=C-BrQ1vvaKs&t=5183s)
 
 
 

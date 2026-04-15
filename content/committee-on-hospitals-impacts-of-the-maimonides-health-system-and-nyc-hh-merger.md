@@ -43,19 +43,19 @@ Action Points
 
 ## Full Transcript
 
-**(00:06:17)**
+[**(00:06:17)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=377s)
 
 
 
 At this time, please do not approach the dais. If you would like to testify, please see one of the sergeant-at-arms to fill out a testimony slip. Please silence all electronic devices. Chair, you may begin.
 
-**(00:06:36)**
+[**(00:06:36)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=396s)
 
 
 
 Sorry.
 
-**(00:06:38)**
+[**(00:06:38)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=398s)
 
 
 
@@ -83,7 +83,7 @@ Before I begin, I would like to thank committee staff senior legislative counsel
 
 We will now be hearing testimony from the representatives from the administration and I will turn it over to the policy analyst to
 
-**(00:14:40)**
+[**(00:14:40)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=880s)
 
 
 
@@ -99,7 +99,7 @@ The transaction is anticipated to close by April 1, 2026. After that date, Maimo
 
 We are committed to the preservation of Maimonides' historic cultural identity and cultural practices and will ensure that these values are central as we come together. We understand the critical role that the Orthodox community has played in creating the hospital and supporting the hospital and we look forward to honoring that and taking care of all of our patients, families and staff in the years ahead. I am happy to answer any questions or hear your thoughts about this partnership. Thank you.
 
-**(00:19:21)**
+[**(00:19:21)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=1161s)
 
 
 
@@ -107,7 +107,7 @@ Thank you, Dr. Katz. Very sweet and short. So now from what I just heard from yo
 
 I have a few questions for you. Before I get to the regular questions that I have already prepared, I heard something about the integration of the system. From my understanding they have their own billing and records right now and I know H+H is using Epic. So is that what we are talking about, the integration of all the systems and the recording?
 
-**(00:20:34)**
+[**(00:20:34)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=1234s)
 
 
 
@@ -115,49 +115,49 @@ That is correct chair. Maimonides hospital has more than five different primitiv
 
 One of the things that people love about MyChart, one of my favorite ones that I will mention because listeners will immediately understand. When you are in the hospital, you can follow your own progress on your telephone. You can look yourself up. You can see your own labs. You can see the plan. You can read your doctor notes. You can see your X-rays. So many people maybe some of you have had family members in a hospital. You are waiting for the doctor to call you or the nurse to call you and tell you what the results said. You are waiting. You know you had the CT scan. You want to know what it said. You will see on our Epic system the results at the same time that your doctor or nurse will see the result. So there is no more of this... it relieves so much anxiety. You are not wondering, well, has someone forgotten me? Because you know that until the X-ray result appears on your phone, they do not have the result either. So nobody is... it is not that they are taking care of somebody else. You can send messages to your patients. My patients send me messages in both English and Spanish that I respond to. You can make appointments. You can cancel appointments. So I think patients will find that they will get much better care when they have a modern electronic health system.
 
-**(00:23:19)**
+[**(00:23:19)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=1399s)
 
 
 
 I agree with you, less anxiety when you are waiting for your results. Let us come to the hospital. One of the questions that I have heard from many, will the facilities currently run by Maimonides keep the Maimonides name after the merger?
 
-**(00:23:38)**
+[**(00:23:38)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=1418s)
 
 
 
 Absolutely. As is true of all of our hospitals, people will always know when... if you ask somebody who works at Harlem Hospital where do they work? They are not going to say I work for New York City Health and Hospitals. They say I work for Harlem Hospital. It will be exactly the same. People will say I work at Maimonides Hospital. I went to Maimonides Hospital. Nothing will change.
 
-**(00:24:03)**
+[**(00:24:03)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=1443s)
 
 
 
 Okay. Before I get to the next question, we talked about from your statement, opening statement if I recall, we were at negative two billion. Now are you at surplus?
 
-**(00:24:17)**
+[**(00:24:17)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=1457s)
 
 
 
 We spend every nickel on our patients is how we think about it. There is so much need. So whatever revenue we take in, we will spend on our patients. But we do not have a deficit. We are not borrowing money. We are not behind. We can meet our payrolls. We are not cutting positions. We are not cutting clinics. We are expanding. We are a much bigger system than we were eight years ago and now there is no deficit. So you can grow out of a deficit. You do not have to shrink because you have a deficit.
 
-**(00:24:48)**
+[**(00:24:48)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=1488s)
 
 
 
 Okay. Got it. Pending legal and regulatory approval of this merger, does H+H have knowledge of how the 2.2 billion dollar state grant will be allocated over the next five years? Has the governor's office described the parameters for how they intend for this money to be used?
 
-**(00:25:23)**
+[**(00:25:23)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=1523s)
 
 
 
 Yes. 500 million is for capital, which is something the hospital very much needs. At the top of our list of things we want to do is provide a new maternity ward for the hospital. The hospital has about 6,000 births a year. I was going to get to that. Thank you. It really needs a more modernized maternity ward. 1.5 billion is for operational costs. So this is recognizing that Maimonides currently has a deficit that requires that the state provide them funding to keep it open every year. When we worked with the state on the project they understand that it will take us some time to grow out of the Maimonides deficit. With new systems for example, to implement Epic takes about 15 months so the potential savings and growth at Maimonides will not happen right away so we need the state to continue to support. And then 200 million is loan forgiveness. So 200 million is money that Maimonides currently owes that the state forgives.
 
-**(00:26:44)**
+[**(00:26:44)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=1604s)
 
 
 
 Love that. Can you please describe how
 
-**(00:26:49)**
+[**(00:26:49)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=1609s)
 
 
 
@@ -165,31 +165,31 @@ this partnership will allow Maimonides and H+H to access higher Medicaid reimbur
 
 Yes. So Health and Hospitals benefits from a higher rate of Medicaid reimbursement. It is maybe worth thinking about why that is because it affects so much about this partnership. The federal government recognizes that municipal hospitals take care of many more uninsured patients than other hospitals and so needs a mechanism of being able to provide a higher payment to government hospitals that are doing this. Also, you will remember that when President Johnson created Medicaid in the early 60s, it was always a federal
 
-**(00:27:50)**
+[**(00:27:50)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=1670s)
 
 
 
 local match, 50-50 in most cases. So the federal government pays 50% and then a state or city provides the match. So only a government can make the match and that is why only government hospitals have the higher rate because you cannot make the match with anything other than a certified public expenditure. So once it happens we will immediately be able to get additional money for Maimonides. To answer your question how much, it is about nine million dollars a month for doing exactly
 
-**(00:28:33)**
+[**(00:28:33)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=1713s)
 
 
 
 what they do now. So no improvements of any kind. Just the difference between the hospital joining us on April 1 and joining us on May 1 is nine million dollars. They will get nine million dollars more for doing exactly the same thing because we can make the match as a government hospital but a private entity cannot make the match and so cannot get the higher rates.
 
-**(00:29:01)**
+[**(00:29:01)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=1741s)
 
 
 
 I am glad you highlighted that because I was trying to explain it myself so I am going to repeat for folks. I was saying that is why the private hospital, it would not be a good match for them. That is why they walked away. So H+H will provide the support system as usual. You have it exactly right.
 
-**(00:29:19)**
+[**(00:29:19)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=1759s)
 
 
 
 You are right. Have DHS payments resumed? How has H+H absorbed all of the
 
-**(00:29:29)**
+[**(00:29:29)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=1769s)
 
 
 
@@ -197,7 +197,7 @@ financial cuts that have resulted from changes to federal law? Does this merger 
 
 Maimonides joining us will help us provide better patient care in Brooklyn in the specialty areas for our patients. Health and Hospitals shines especially in primary care and emergency care.
 
-**(00:30:01)**
+[**(00:30:01)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=1801s)
 
 
 
@@ -205,13 +205,13 @@ Maimonides shines in specialty care. So our patients in Brooklyn will get better
 
 But with this joining they will get more money, better rate of reimbursement and we will make sure that they will run on the amount of money they have. Got it.
 
-**(00:32:13)**
+[**(00:32:13)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=1933s)
 
 
 
 How have Maimonides staff been informed about the pending merger and the impacts it will have on their employment, their scheduling, their benefits, their job responsibilities and I may say their union affiliation too? Sure. So we have had, I have personally been to two town halls but I know that Maimonides has had additional meetings, additional information provided.
 
-**(00:32:34)**
+[**(00:32:34)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=1954s)
 
 
 
@@ -219,13 +219,13 @@ Maybe a good moment to say that the people who work at Maimonides will not be be
 
 She fits the incredible capabilities that will be necessary for Maimonides to do well in the future. But overwhelmingly people will remain in their same jobs, same union agreements. We will of course respect all union contracts and union rules as they exist.
 
-**(00:35:11)**
+[**(00:35:11)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=2111s)
 
 
 
 Now when you say leadership, what do you mean by just the... Svetlana is one of my favorites. By the way, we had a meeting the other day. She is lovely. She is lovely. So does that mean the leadership from the president, CEO, what leadership? Because some nurses that are nurse practitioners, some doctors that are cardiologists, all those leadership, are you touching that area as well?
 
-**(00:35:17)**
+[**(00:35:17)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=2117s)
 
 
 
@@ -233,13 +233,13 @@ No. So the chief medical officer, the chief nursing officer, the chief executive
 
 They need a modern electronic health record. Really, those are the two big things they need. That is what we want to focus on. And so we have tried to create an organization that leaves as much of everything else alone because there is not a problem. If in future years people have other ideas, we can look at those. But the unionized staff will always need to stay in an organization that is successor to the existing nonprofit.
 
-**(00:35:42)**
+[**(00:35:42)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=2142s)
 
 
 
 Okay. But you have in terms of some nurses, some administrative level that is lower that is not unionized. So are you planning to get...
 
-**(00:38:09)**
+[**(00:38:09)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=2289s)
 
 
 
@@ -247,49 +247,49 @@ Certainly not at the beginning and again it goes to the same idea. The problem a
 
 There will be a chief medical officer who is their current chief medical officer, but he will be employed by us. There will be a CNO who is employed by us, but is the same CNO there currently. We are trying to as much as possible maintain continuity.
 
-**(00:38:22)**
+[**(00:38:22)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=2302s)
 
 
 
 I have another question while we are talking about April 1, which is April 1 is the merger, right? So I know you cannot talk about it much, but do we not have a lawsuit over the head that should be in court after that in April 20 something? What is it? I forgot. April, I read it somewhere. So what is the date?
 
-**(00:40:26)**
+[**(00:40:26)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=2426s)
 
 
 
 You are correct. It is mid April. But there is no restraining order. So there is nothing that prevents the deal from happening on April 1st or March 31st.
 
-**(00:40:49)**
+[**(00:40:49)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=2449s)
 
 
 
 Okay. The employees, I still have, there are a lot of texts coming to me if you see me picking because some of my colleagues, the nurses, they want to know what is going on. Will employees who are already retired or approaching retirement retain all their existing retirement benefits under the merger? Nothing would change. Okay, I like that part. Will H&H honor existing union pathways for promotion, seniority, and grievance procedure? I am assuming everything is going to stay the same. Everything stays the same. For staff who will remain, will they keep their sick time and pay time off time that they have accrued before the merger? So would they keep the same? Everything will stay the same. And I hope you appreciate that is I think the wisdom of how we did this, right? Because someone might have gone in and said, "Okay, everybody is going to have to go to City employment." And then you would have to imagine the issues you would have. You would have all of those issues. Well, what about their retirement? What if they are 12 years toward their retirement? Now you are going to start them at zero. So the whole idea was no, everybody just maintains what they have.
 
-**(00:41:03)**
+[**(00:41:03)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=2463s)
 
 
 
 Okay. This one again just for clarification I am going to continue asking them. Are there any collective bargaining agreements with employee unions that Maimonides is a party to that will be impacted by this merger? If you want me to repeat it I will repeat it again. No, I understand. I mean, we are talking to the unions. The unions are familiar to us, right? We have the same unions representing different... CNA, excuse me, NYSNA represents nurses in both places. 1199 is, we work with them because they represent some of our workers. And CIR represents the residents in both places. These are all unions that we love working with. We are talking to all of them. We are figuring out issues of future relations. But I do not anticipate any problems. The reception that we have gotten from the unions has been positive and our current relationship with the unions is positive. We have always seen ourselves as a pro-labor organization. So I do not anticipate any problems.
 
-**(00:42:31)**
+[**(00:42:31)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=2551s)
 
 
 
 As an independent teaching hospital, Maimonides offers a broad range of educational and research options, including opportunities to engage in basic science research, clinical research, or health services research. Will all these education and research options be preserved after the merger or will some of these programs be reduced? Have students, residents, and researchers been made aware of the potential impact, if any, of this merger? Going into it again, we are learning, we are growing. Our assumption, we ourselves do lots of research. We have lots of residents as you will remember from your time working and teaching residents. I am sure you taught many a resident in the Elmhurst Emergency Department. We too do teaching and research and there are all reasons to believe we are all going to continue to do that and that it will only grow as we are more together.
 
-**(00:43:56)**
+[**(00:43:56)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=2636s)
 
 
 
 The reason for this question too is are they aware because they get anxious. A lot of people getting very anxious around this. And they are calling me, they are texting me. I have some questions I am going to ask you for them too. Will all Maimonides hospital and community based sites remain open and operational because I know they have more than one site?
 
-**(00:44:55)**
+[**(00:44:55)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=2695s)
 
 
 
 Yes. So for everybody's knowledge there is the main campus of Maimonides, there is Midwood Hospital which has a separate operating license. It is about a 120 bed hospital, community hospital in the Midwood area and then there is a freestanding emergency room in Bay Ridge. So those are the three and then there are offices in many many places but those are the three biggest parts of the campus. So there will not be any interruption, everything is going to remain the same. I do not want to assume things. So I am going to continue asking. I appreciate that.
 
-**(00:45:18)**
+[**(00:45:18)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=2718s)
 
 
 
@@ -297,43 +297,43 @@ Does Maimonides have a private contract for ambulances and if so will the terms 
 
 And not something that we are going to do prior to the merger happening. But we do not go into it with any expectations. We want to do whatever would make the most sense and we will include the people at Maimonides about that. But it exists on every level, every sort of IV pump, every X-ray machine, every catheter that is used, every pharmaceutical. You have to look at hospitals are huge purchasers and so you have to look at all of the contracts and ask yourself, well, which is the better contract? Because we probably would not want to maintain two sets of contracts for the same thing. That is not how you get the best price. You get the best price by bundling your volume. But it is also true that sometimes there are unique needs. One doctor does a procedure that requires a catheter that only one company makes. So you have to contract with that one company to get that one catheter. And that is true at Health and Hospitals today. So usually the 80-20 rule works. 80% of the stuff is easy to buy and 20% can be very specific and you might have to make special arrangements.
 
-**(00:46:01)**
+[**(00:46:01)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=2761s)
 
 
 
 So some folks have their niche and that niche is small things that you do not get all over and they probably have to get. But overall you are going to review all the contracts, correct? You are going to make financial... Correct, correct.
 
-**(00:46:28)**
+[**(00:46:28)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=2788s)
 
 
 
 Okay.
 
-**(00:49:01)**
+[**(00:49:01)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=2941s)
 
 
 
 Maimonides offers various links to community supports and before I get to the next question, MWBE, you are going to still use the same contracts to make sure that you have MWBE fairness? Right, we do not know much, right? They are currently using different contracting rules than the City. So we do not know that much right now about what their MWBE usage is. But when we do contracting, we of course always follow the MWBE rules of the City. So you are going to follow the same rules, correct? Even over there.
 
-**(00:49:31)**
+[**(00:49:31)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=2971s)
 
 
 
 Correct.
 
-**(00:49:33)**
+[**(00:49:33)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=2973s)
 
 
 
 Okay.
 
-**(00:50:12)**
+[**(00:50:12)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=3012s)
 
 
 
 >> Correct. Okay.
 
-**(00:50:14)**
+[**(00:50:14)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=3014s)
 
 
 
@@ -341,25 +341,25 @@ Maimonides offers various links to community supports and rehabilitative service
 
 this is not a takeover. We do not have like a thousand employees that we are looking to place at Maimonides. We do not have a hundred organizations that we are looking to take over the community work. We are focused on the things that need to be fixed. And then we want to learn and we want to see and we want to use what we learn maybe to improve our hospitals. If there is a unique service that... again just using it as an example, the service that you are asking about, maybe that is a service we want for our patients at South Brooklyn. We do not have it. But that is why we want to take an approach of let us learn, let us see what things... what I would like to be able to do in three years is say here are 10 things that are better at Health and Hospitals because of what we learned at Maimonides and here are 10 things that are better at Maimonides because of what we had at Health and Hospitals. That seems like the best way to go forward.
 
-**(00:53:05)**
+[**(00:53:05)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=3185s)
 
 
 
 So you are a data driven person, you are going to look into it and you are going to make the best possible judgment.
 
-**(00:53:10)**
+[**(00:53:10)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=3190s)
 
 
 
 Correct.
 
-**(00:53:10)**
+[**(00:53:10)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=3190s)
 
 
 
 Okay. Local Law 12 of 2023 requires city agencies to develop a published five-year accessibility plan. While H&H is not always considered a city agency, has H&H conducted similar accessibility assessment or published an accessibility plan and what about Maimonides? Not yet. Okay. Cultural concerns that we have given the...
 
-**(00:53:40)**
+[**(00:53:40)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=3220s)
 
 
 
@@ -367,205 +367,205 @@ incredibly diverse populations of Brooklyn that Maimonides currently serves. Doe
 
 Many people especially from the Sunset Park area were very excited that because of this they would be able to use NYC Care at Maimonides or have additional services. We certainly have heard concerns at community settings from the Orthodox Jewish community who are worried about whether or not the hospital will still respect their cultural traditions. And we have explained absolutely, but as you say, change makes people worried and anxious and it is... I think that once it all happens, people will relax. But I understand why until it happens, people are anxious.
 
-**(00:56:29)**
+[**(00:56:29)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=3389s)
 
 
 
 The board, what will the new community advisory board look like? Will it include members from both the former... I mean the Maimonides group and H&H facilities? Well the community advisory board needs to represent the community right around Maimonides, right? So, we are listeners. It will not be Health and Hospital people on the community advisory board. It will all be about the people who live around Maimonides and who use Maimonides and help Maimonides. We have been joined by CM Sanchez.
 
-**(00:57:11)**
+[**(00:57:11)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=3431s)
 
 
 
 All right. You answered about the billing system. There are some questions I know that have been coming to me. I do not want to ignore those folks that are watching and sending their questions in. Here are a number of questions that they had. What are you doing to ensure that the expert doctors do not leave because of the city takeover? I am sorry. I do not know about city takeover, but that is one of the questions from the community around... Chair, can you say again? What would you be doing to ensure that the expert, the doctors like the specialty like cardiologists and all those so on and so forth... doctors do not... what are you going to do to prevent them from leaving the hospital? So, I have met with all of the chairs and a large number of the...
 
-**(00:58:03)**
+[**(00:58:03)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=3483s)
 
 
 
 doctors and have gotten a lot of support. Actually, their chief of cardiology, Jacob, told me, I say to my doctors, I am staying, so you are staying. So, there will always be people who come and go. I mean you cannot... New York has a very active doctor set of hospitals and people will go from one hospital to another but I do not... I am not expecting any departures widespread from Maimonides and I have gotten a lot of support for the idea of a system that is really focused on clinical work. I mean, one of the things that the doctors like is that I believe that the major decisions in a system should not be made by administrators. It should be made by doctors and nurses and social workers because we are a clinical enterprise. That is what we do. And so those should be the leading voices. And I think that people respect that and like that.
 
-**(00:59:15)**
+[**(00:59:15)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=3555s)
 
 
 
 Okay. The next question I can ask for that person is so many questions. Orthodox community concerns include will the hospital continue strictly kosher food, Sabbath elevators and other considerations and sensitivities. The hospital was started as a Jewish community hospital... whatever... basically they want to know if the hospital... The answer is yes. The answer is yes. Okay. Who are the other leaders that you have been communicating with? Do you have leaders in the community that you... when you did outreach?
 
-**(00:59:58)**
+[**(00:59:58)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=3598s)
 
 
 
 Yes. I have met with a group of Orthodox rabbis. I have met with the Hatzolah ambulance providers and I have met with leaders in Borough Park. And as you have characterized, change is difficult. And it causes a certain amount of anxiety. And that is why what we have tried to help people understand is that we are not here to change things. We are here to fix the two problems that Maimonides has. And...
 
-**(01:00:38)**
+[**(01:00:38)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=3638s)
 
 
 
 right now the two problems are really compromising the ability of Maimonides to work. I have heard many doctors talk about what it is like to not have any support staff in their clinic to help them see patients. To me that is a very critical issue. And I understand that they do not have enough support staff because they are in deficit. That is what you do when you are in deficit. You cut the support staff, then you cannot take care of the patients in the proper way. Those are the issues we are trying to fix. We are not trying to change the cultural identity. We are not trying to fix the physicians. We are not trying to fix the nurses. We are not trying to fix the social workers. We are trying to fix the financial problem. And by fixing the financial problem, we will fix the capital problem, right? Because they do not have any money to improve the things that need to be fixed like the maternal ward. So these are the areas that we want to focus on.
 
-**(01:01:42)**
+[**(01:01:42)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=3702s)
 
 
 
 Yeah, I heard about the maternal ward is just like... it needs to be done over totally.
 
-**(01:01:49)**
+[**(01:01:49)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=3709s)
 
 
 
 And that cannot happen under the current circumstances. I mean it is impossible. I mean that is why we think this is the right thing. This is the only path that would allow in fact for that to happen. And if this does not happen, there is no capital dollar to fix the maternal ward.
 
-**(01:02:08)**
+[**(01:02:08)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=3728s)
 
 
 
 Has H&H conducted a formal capital needs assessment of Maimonides?
 
-**(01:02:13)**
+[**(01:02:13)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=3733s)
 
 
 
 No, we know that the capital needs are huge. Yeah.
 
-**(01:02:18)**
+[**(01:02:18)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=3738s)
 
 
 
 Because you talk about the ward. So I want to know the maternal... Yeah. No, not yet. Okay. What major infrastructure deficiency have you even looked... because we talk about the maternal ward, that is the only one...
 
-**(01:02:33)**
+[**(01:02:33)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=3753s)
 
 
 
 The maternal ward is the one that rises to the top of the list because they deliver 6,000 babies probably more than any other hospital. Certainly more than any other hospital in Brooklyn, maybe the most in New York City. It is certainly if it is not the most it is very high up. It may be the most. I mean just to give people a sense, most of our hospitals hover around a thousand and I think some of our hospitals go above 2,000, but to do 6,000 is quite a large number.
 
-**(01:03:07)**
+[**(01:03:07)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=3787s)
 
 
 
 And the women deserve a nice ward, not the ward they are currently in. Your president already told me and informed me. That is why I went to a tour for something else and now she took me to... because I have four babies myself. So she goes like, "Yeah, you have four babies. We need place for the... you should see it." So she already invited me to go see it that we need that over there. Okay. Maimonides operates one of the busiest labor... which was... So you do not know how much the unit is, right? That we are going to do for the whole...
 
-**(01:03:41)**
+[**(01:03:41)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=3821s)
 
 
 
 I mean we are still... we just believe that that should be the number one priority of the capital funds.
 
-**(01:03:47)**
+[**(01:03:47)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=3827s)
 
 
 
 Are you planning to expand it too? Because the way they described it to me, I have not seen it.
 
-**(01:03:53)**
+[**(01:03:53)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=3833s)
 
 
 
 It is too... One of the problems is it is too cramped and not enough privacy. Yeah. Will any portion of the $2.2 billion be part of that? Yes. I mean that the 2.2 includes the 500 million for capital. The 500 and that is at the top of our list and Spellman is already working on it because we know that that is right. So, we want to draw up plans and figure out how we are going to renovate. As you know, no renovation in a working hospital is ever simple, right? Because you have to figure out how to renovate it while also running it, right? We are not going to close maternal ward in order to build a maternal ward. So, we have to figure out how whether we are going to do half or part move it, right? So it is not... it is never a simple case when your hospital is actively running.
 
-**(01:04:51)**
+[**(01:04:51)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=3891s)
 
 
 
 Okay, I have more questions but I want to know if my colleagues... do you need... Okay, so go on in.
 
-**(01:04:59)**
+[**(01:04:59)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=3899s)
 
 
 
 Hello Dr. Katz. Nice to see you again. Good to see you. And thank you chair for a lot of those questions were my questions. So I kept trying to figure out what I am actually going to ask but I do have some stuff. So currently and just correct me if I am wrong. You had mentioned that there were around five information systems that they are currently using including paper. Paper would be six. Okay. So in addition...
 
-**(01:05:29)**
+[**(01:05:29)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=3929s)
 
 
 
 to... do you know if any of those systems currently collect anything related to...
 
-**(01:05:36)**
+[**(01:05:36)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=3936s)
 
 
 
 immigration status for...
 
-**(01:05:39)**
+[**(01:05:39)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=3939s)
 
 
 
 I do not collect immigration status.
 
-**(01:05:41)**
+[**(01:05:41)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=3941s)
 
 
 
 Okay. And so you can confirm that during the merger, that the staff will know specifically that that is not a practice of Health and Hospitals and that they will know that on day one. Correct. We will make sure. Yes. Okay. Because I know that sometimes mergers take and that transition might take some time and so just in between time that none of that... no data fields will be added or anything like that. Correct. Correct.
 
-**(01:06:03)**
+[**(01:06:03)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=3963s)
 
 
 
 Okay. Just wanted to get that on record.
 
-**(01:06:05)**
+[**(01:06:05)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=3965s)
 
 
 
 And then do you know if they have any certified medical interpreter services and translated discharge materials currently at the hospital?
 
-**(01:06:15)**
+[**(01:06:15)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=3975s)
 
 
 
 I know the first they do. I do not know... I did not... I have not asked about what their discharge papers look like. I would certainly hope so. I mean given...
 
-**(01:06:26)**
+[**(01:06:26)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=3986s)
 
 
 
 It is usually a practice of H&H. But it is... I mean one of the things that we will do is we will expand our language capability to all of Maimonides.
 
-**(01:06:38)**
+[**(01:06:38)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=3998s)
 
 
 
 And in the community sessions that they have, have translation services been provided for community members?
 
-**(01:06:48)**
+[**(01:06:48)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=4008s)
 
 
 
 I do not remember. Okay. I do not remember. I was not running them. I was an invited guest. Okay.
 
-**(01:06:57)**
+[**(01:06:57)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=4017s)
 
 
 
 I do not remember. Yeah. I just want to make sure that because with transitions it is... getting information out to the community is super important in the languages that they receive it. So just as a heads up moving forward.
 
-**(01:07:08)**
+[**(01:07:08)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=4028s)
 
 
 
 Understood. I know that many of the community-based organizations that take care of diverse populations are happy about NYC Health and Hospitals role because of our... exactly... the things that you mentioned right that our language capabilities and our... the fact that all our... I mean another very different feature of course all our meetings are public right so any member of the public can attend any of our board meetings all of which will be translated and are available including with American Sign Language... are transmitted and are recorded... you cannot attend the board meeting of any private hospital without an invitation. Those are closed meetings. So just becoming part of Health and Hospitals makes the public dialogue much more available.
 
-**(01:08:05)**
+[**(01:08:05)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=4085s)
 
 
 
 Perfect. Thank you so much.
 
-**(01:08:07)**
+[**(01:08:07)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=4087s)
 
 
 
 Thank you. CM Sanchez. You got the...
 
-**(01:08:12)**
+[**(01:08:12)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=4092s)
 
 
 
 Thank you so much, Madam Chair, and good morning, Dr. Katz. I am very excited to be on this committee. I am an H&H family. My family is an H&H family. So I am very excited for this new assignment to be here with Chair Narcisse. So my question is sort of stepping back from this merger itself. But within the context of this merger, Maimonides is a massive institution as has been discussed. 34,000 inpatient visits last year, 923,000 outpatient visits, 7,000 staff. My first... the first part is how does Maimonides scale compared to the rest of the hospital systems or the subparts right like Jacobi and others within the H&H network just in terms of size and then the second part is understanding the financial pressures that Maimonides is facing. Can you help us understand what led to and enabled this particular merger? When does H&H consider merging with a struggling system? What factors are considered? Sorry, I bit my tongue yesterday, so I am slurring over everything. And why have other hospitals that have closed not merged into the hospital system like Kings County, St. Vincent, Long Island, and others?
 
-**(01:09:30)**
+[**(01:09:30)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=4170s)
 
 
 
@@ -577,25 +577,25 @@ If they were to merge with a private entity, they would not get the enhanced Med
 
 Right? Well, health and hospitals will always do what the City wants to help. I mean, that is how we think of ourselves, right? We are currently the provider for the ambulettes that are going out in the cold weather that we have had in order to pick people up. Two of my senior staff at Bellevue carried somebody from across the street into Bellevue because of fear of freezing. I mean, this is who we are. We see ourselves as your arm to do good in the City. We try not to interfere where we are not needed, right? We are not trying to take over the world. We are not trying to take over other hospitals. We want to do what we do well. But if the City says and state says or another hospital says we are struggling and you can uniquely help... If someone else could have helped, if the Northwell deal had gone forward, then none of this would have happened, right? But that deal did not go forward and there is no other candidate at the current time. I have some follow-ups, but I want to
 
-**(01:13:45)**
+[**(01:13:45)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=4425s)
 
 
 
 respect the chair's time. So, thank you. >> Thank you. If the followup is short, because I have to call the next CM, the follow. >> Yeah, it is just I am curious what that decision-making process was because we are financially strapped in H&H as well. And so was this a revenue positive addition to the H&H system or like what made us say yes? >> Sure. So we said yes when the state said that they would hold us harmless for any loss in the five years that we are going forward. So it will neither help our finances nor will it hurt our finances. Maimonides will get a bigger pie and they will have a modern system but they will have to live within that pie. They will not be able... we will not support borrowing money for operating costs. I would never have supported that. I believe you have to... like our own checkbooks. You get to spend the money you have. You do not get to spend the money you do not have. And the same thing happens to hospitals as individuals when you try to spend money you do not have. >> Thank you. Thank you chair. That did it. Thank you.
 
-**(01:15:03)**
+[**(01:15:03)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=4503s)
 
 
 
 Madam Aldebol, did I say that? Al. >> Yes, that was actually a good segue to my question because in addition to the sources of revenue from the state, are you looking at ways to save money and looking for efficiencies in how Maimonides operates? And will that also include reductions in potential reductions in staffing?
 
-**(01:15:36)**
+[**(01:15:36)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=4536s)
 
 
 
 >> We are not at the moment looking or assuming that there would be any need to decrease staffing and I know specifically certain areas they have to
 
-**(01:15:44)**
+[**(01:15:44)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=4544s)
 
 
 
@@ -603,109 +603,109 @@ increase staffing to do a good job. I think the big opportunity on saving money 
 
 I am not assuming staffing reductions because I have already heard of areas where they in my view they need additional staff and sometimes additional staff if you are helping physicians to be more productive is actually financially helpful. That was one of the ways health and hospital grew out of its deficit is people were cutting support staff, not recognizing that a doctor's productivity is affected by support staff. So, as one of my doctors said to me early on, my CEO wants me to see more patients, but he does not understand in the emergency room that no matter how many patients I see, if there is no nurse to take off the orders, the patients do not move. It does not matter how many patients I see. So my idea would be to figure out what is actually the correct staffing pattern and support that.
 
-**(01:17:29)**
+[**(01:17:29)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=4649s)
 
 
 
 >> Thank you. We talk about how bad the maternal ward is. So after the merger, how long after the merger will start like those capital budget funding to do the construction? >> Well, we have the funding as soon as the
 
-**(01:17:45)**
+[**(01:17:45)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=4665s)
 
 
 
 merger happens. That opens the door to the funding and Svetlana is already working on but what is the plan, right? So that involves the engineers and figuring out what can be done. And I do not yet know what the plan is, but I know we have the money and that it is the number one priority. So, it is just a question of working with the engineers and the architects to figure out what is possible for that ward. >> Got it. But you have the space. >> We have the space. We have the money. Okay. And we have the will.
 
-**(01:18:21)**
+[**(01:18:21)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=4701s)
 
 
 
 >> Got it. Maimonides Health currently offers a variety of specialty which we talk about care option including hematology oncology collaboration with SUNY Downstate Health neuro orthopedic surgery unit full service infusion center for cancer patient advanced cardiac care birthing centers and other extensive programming. Do you anticipate any dis specialty care services being trimmed or moved to a different hospital system? >> No.
 
-**(01:18:54)**
+[**(01:18:54)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=4734s)
 
 
 
 >> No. A few years ago, there were
 
-**(01:18:57)**
+[**(01:18:57)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=4737s)
 
 
 
 discussion that SUNY Downstate Hospital may need to close due to financial concerns. Downstate currently offers the only kidney transplantation program in Brooklyn. And during discussion of their closure, Maimonides was listed as a candidate for taking on the kidney transplantation program. Do you believe that Maimonides and H&H would have the capacity to accommodate such a kidney transplant program if Downstate were to resume closure discussions? >> Well, the state has come up with a different solution for SUNY Downstate. So I am not assuming that that question would ever come up to us. >> They seem to be okay. And again, I certainly support the idea of there being a kidney transplant unit in Brooklyn. It is much needed and theirs is a successful unit. >> All right. You answer my question because I want to know if but there is no if now so far because I was part of it. We did a hearing on it just like I am doing hearing it.
 
-**(01:20:02)**
+[**(01:20:02)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=4802s)
 
 
 
 >> So we have about a billion dollars. Hopefully with that billion dollars. So are you by any chance called for to consult with them to show what your recipe you have been using for to maintain the hospital in the City? >> I was asked when the committee discussions were being held. I was invited. Okay.
 
-**(01:20:22)**
+[**(01:20:22)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=4822s)
 
 
 
 >> But I feel that now there is a plan and they have a new hospital CEO who actually is from Health and
 
-**(01:20:29)**
+[**(01:20:29)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=4829s)
 
 
 
 Hospitals. Okay. >> From Lincoln. So I look forward to their success. We want every hospital to succeed.
 
-**(01:20:39)**
+[**(01:20:39)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=4839s)
 
 
 
 >> Yeah. Because we... it is all about patient care. >> Absolutely. >> You are a doctor. Absolutely. >> I am assuming that is all you need. Patient to feel better, get better in the City of... Okay.
 
-**(01:20:50)**
+[**(01:20:50)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=4850s)
 
 
 
 >> It is our understanding that seven
 
-**(01:20:52)**
+[**(01:20:52)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=4852s)
 
 
 
 members of the Maimonides board of trustees have filed a lawsuit which we were talking about earlier to join... I mean to enjoin this merger. How has this lawsuit affected H&H abilities to forecast the terms in condition of the merger? The applicable timeline to complete this partnership and plans to allocate the $2.2 billion state grant. What contingency plans has H&H developed should court proceeds to delay or alter key merger milestone? The... as we talked about before there is no restraining order >> no restraining >> so everything can go forward we do not anticipate any problem because of that any delays the... the group that will be hurt is Maimonides because every month delay were it to happen will cost Maimonides $9 million and that is money that is desperately needed in order to extend services and improve the capital projects. So, we... that is why we are working so hard to meet the April one deadline because we do not want Maimonides to lose out on that money. Given the trust's allegation regarding potential harm to Maimonides mission and obligation, how does H&H plan to demonstrate the transition will preserve
 
-**(01:22:27)**
+[**(01:22:27)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=4947s)
 
 
 
 or improve care quality for communities Maimonides currently serve? I think you have been answering that, but >> yeah, I mean I go back to what you said before, change is hard. >> Yeah. I truly believe that once it happens and everybody sees that the hospital is still Maimonides and everybody is employed and all of the doctors are there and the only things that have changed is that now they are not in deficit. Now they have a new maternal ward. Now they have a new electronic health record. All of the Orthodox Jewish traditions are being respected. I think the world moves on. But I understand why people are anxious and what their worries are. >> I truly believe that I had trust in
 
-**(01:23:16)**
+[**(01:23:16)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=4996s)
 
 
 
 the process because once they told me you are involved, I said you a person that they can talk to. Because right now we had to face that Maimonides was not in a good place and we need to keep the hospital open. And I hope I was right by telling them that you open door policies and you willing to work to make sure that... so now with that I have to tell you one of the person that called me that was have concern feeling a little at ease to tell me thank you you are answering most of the question timeline for completion can you please walk us through the major requirements to complete this merger more specifically What regulation and administrative approvals do you need to obtain? Are there any community impact assessment that are necessary? What are the primary phases in health in H&H integration road map I mean roadmap for Maimonides and how will H&H determine when each phase is complete?
 
-**(01:24:26)**
+[**(01:24:26)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=5066s)
 
 
 
 >> Certainly. So, the big approvals necessary for this to happen are the state department of health, the state department of mental health, and the attorney general's office. There are also approvals specific to the EMS unit that have to occur for the EMS unit to move. The doctors must be in an independent group in order to not be in violation of the Stark law. So, we must have the ability for the doctors to be in a self-governing group and for us to be able to make payroll and provide them with benefits. All of those things are in process and there is nothing at this moment that precludes making the deadline. So, I mean, we are just at the very beginning of March. So all of those
 
-**(01:25:28)**
+[**(01:25:28)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=5128s)
 
 
 
 things are possible, but they are certainly not guaranteed, right? It is up to the AG to make her decision on yes or no. It is up to the Department of Health to make their decision yes or no. We can not... that is up to them when they decide. I cannot influence that. Most of the integration work that you are talking about we do not yet have timetables for because there is so much work to be done just to reach that April one deadline and that April one deadline is so critical to Maimonides fiscal health that all of our energy is spent on April one and then our feeling is once it happens then we enter the deeper learning phase and since we are not trying to fix the other things. I do not feel that I have to have a rigorous plan on how we are going to integrate everything because in the beginning it will not be integrated and some things never will. Again, we are a federation. I do not try to do everything from central office. I respect the idea that licensed facilities operate under their CEO. And I have confidence in the CEOs that I have chosen. I have confidence in Svetlana for being the future CEO. She will run the hospital. And right now it can continue to run as it is. That is not the problem.
 
-**(01:27:01)**
+[**(01:27:01)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=5221s)
 
 
 
 >> And I am assuming all the paperworks that entail to get the Department of Health, the department I mean mental health and of course the attorney general, which is a local person.
 
-**(01:27:14)**
+[**(01:27:14)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=5234s)
 
 
 
 >> Yes. A Brooklyn person.
 
-**(01:27:16)**
+[**(01:27:16)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=5236s)
 
 
 
@@ -713,25 +713,25 @@ things are possible, but they are certainly not guaranteed, right? It is up to t
 
 Because >> with the exception of the seven members that you spoke of, the majority of the board is very excited because they have been for 10 years trying to find a partner. This is not a new thing for them. For 10 years they have been trying to find a partner and I think many of them also like the idea that we are a federation >> okay
 
-**(01:29:35)**
+[**(01:29:35)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=5375s)
 
 
 
 >> because not all systems are federations
 
-**(01:29:37)**
+[**(01:29:37)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=5377s)
 
 
 
 some systems attempt to believe that it is best if every hospital in their system runs the same but because we are a federation it allows a lot more freedom for Maimonides to maintain its same traditions >> okay so What strategies will H&H use to prevent service disruption at Maimonides during major transition mileston such as financial system conversion or governance restructuring.
 
-**(01:30:09)**
+[**(01:30:09)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=5409s)
 
 
 
 >> I think we will be fine. I do not think either of those again because the hospital is working and we are not trying to fix those things. We are just going to leave them alone and then as we learn more about what is working and what is not we will transition but it will... the transition of things like financial systems that will take years and it does not have to be done immediately for the time being they can their financial system will run as it runs
 
-**(01:30:43)**
+[**(01:30:43)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=5443s)
 
 
 
@@ -739,19 +739,19 @@ What performance benchmarks, community-based access metrics and financial indica
 
 Well first step is give them the data.
 
-**(01:32:50)**
+[**(01:32:50)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=5570s)
 
 
 
 Perhaps when we give them the system, it will turn out that they do exceedingly well.
 
-**(01:32:55)**
+[**(01:32:55)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=5575s)
 
 
 
 Yeah, we do not know. But I do not think that the overall... I have been very impressed with the doctors and the nurses and I do not see clinical quality as the thing that is the problem. It is the thing we all can improve on, right? And we want them to improve and we want ourselves to improve. But I do not think that is the problem of Maimonides. Because how do you know you do well in those areas if you do not have the data to prove it? That kind of sounds antique a little bit. But anyway, how does H&H plan to expand or realign community based care and outpatient services during the transition especially given the merger stated intent to strengthen safety net capacity?
 
-**(01:33:52)**
+[**(01:33:52)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=5632s)
 
 
 
@@ -759,7 +759,7 @@ Yeah, I think step one will certainly be to get them a modern electronic health 
 
 If you are a good nurse, you are a good doctor, you can always take care of the patient in front of you. But to do a good community job, you have to have the data. So, they are going to get the Epic. Yes. Okay. Very good. I think I have been having you here for so long, I do not want to over... We talk about the Epic system. That is what you are going to give. And you do not know how long the whole merger going to take place. About how many months you said maybe... the Epic implementation is a minimum of 15 months. 15 months if it all goes and it is in progress already.
 
-**(01:36:18)**
+[**(01:36:18)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=5778s)
 
 
 
@@ -767,7 +767,7 @@ Oh, it is in progress. Oh yeah. We started sending Maimonides staff to Epic trai
 
 That is the concern. That is all the questions I am having coming in to the text the concern to make sure that the hospital runs with them in mind and you know what I am not going to hold you any longer because you told me everything going to be all right and I am hoping everything going to be all right and we are going to take care of the people that you have been taking care of. So now we are going to follow up with other things that need to be done. Thank you for your time. Appreciate you.
 
-**(01:39:02)**
+[**(01:39:02)**](https://www.youtube.com/watch?v=37yV-E8fRGE&t=5942s)
 
 
 

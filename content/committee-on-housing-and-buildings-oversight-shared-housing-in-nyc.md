@@ -45,7 +45,7 @@ Action Points
 
 ## Full Transcript
 
-**(00:00:00)**
+[**(00:00:00)**](https://www.youtube.com/watch?v=S4lWF_p0gwE&t=0s)
 
 
 
@@ -55,7 +55,7 @@ We are joined today by my committee members. Sorry, Carolyn. Sorry. It is babies
 
 Before we turn to the administration's testimony, we are going to turn it to her leg. Who is going to speak on her legislation.
 
-**(00:01:17)**
+[**(00:01:17)**](https://www.youtube.com/watch?v=S4lWF_p0gwE&t=77s)
 
 
 
@@ -65,7 +65,7 @@ Housing rules have not kept up with how New Yorkers actually live today. This Bi
 
 This Bill changes that. This Bill proper sprinkler system requiring proper sprinkler system to fire safety measures professional management bringing transparency accountability model to a housing model that most of this Bill is about this Bill desperately needs housing that reflects the diversity housing that reflects the diversity artist young people trying to make it in this City and older adults with housing that is done the right all with housing that is done rightly and safely, transparently, and affordably. Thank you.
 
-**(00:04:32)**
+[**(00:04:32)**](https://www.youtube.com/watch?v=S4lWF_p0gwE&t=272s)
 
 
 
@@ -79,7 +79,7 @@ Intro 66 responds directly to... builds on nearly a decade of research testing a
 
 Shared housing creates practical opportunities markets in office to residential alternatives to illegal programs across the City programs across housing already demonstrate how shared housing young adults new and newcomers tied to the shelter transitional or tied to the shelter. To be clear, shared housing is not... I want to be clear. Shared housing is not for everyone. Rather, it is one additional tool to address shortage of low cost housing options for a time of historically low vacancy rates. At a time of historic low vacancy rates, addressing the housing crisis requires a... After the original introduction of this Bill in November 2025, we heard feedback from stakeholders made it clear that the ratios of kitchens and bathroom safety standards are as well as safety standard feedback. Look forward to hearing more detailed feedback today and strengthen council to strengthen this legislation and the council to advance this legislation.
 
-**(00:08:17)**
+[**(00:08:17)**](https://www.youtube.com/watch?v=S4lWF_p0gwE&t=497s)
 
 
 
@@ -93,7 +93,7 @@ which addresses how affordable housing units also known as second generation uni
 
 Finally, I would like to transition to talking about... cleanup Bill that clarifies the City's housing unit including cellars of one family home 2024 enable the legalization existing basement and cellar residences and this Bill corrects new lawful cellar residences from... This technical fix will enable the City to make it as simple and straightforward as possible for homeowners to add to their properties to be able to rent their cellar for your continued partnership and expand your continued partnership expanding access safe affordable housing closely with Speaker... working closely with Speaker... and Sanchez to deliver meaningful legislative session to deliver meaningful results for New Yorkers across the City.
 
-**(00:14:04)**
+[**(00:14:04)**](https://www.youtube.com/watch?v=S4lWF_p0gwE&t=844s)
 
 
 
@@ -105,7 +105,7 @@ The department unveiled six new designs in the latter part... The designs will a
 
 The Department of Parks looks forward to working with the City Council on this issue. Thank you very much.
 
-**(00:16:16)**
+[**(00:16:16)**](https://www.youtube.com/watch?v=S4lWF_p0gwE&t=976s)
 
 
 
@@ -129,7 +129,7 @@ Yeah.
 
 Thank you. And then my second question and then I will turn it over to the bill sponsor for questions on this legislation or anything else. This Council was contemplating and is still discussing with HPD the idea of requiring a certain subset of HPD production to be two to three bedroom units because there is a concern in many communities that the projects that are financed by HPD are not family sized units. I know I have several colleagues that are concerned about this piece of legislation as they view it as a threat to have more production of shared units or small units or studio apartments. So can you describe for them and for anyone with this concern if the administration anticipates that owners of buildings with family sized units would convert those units into shared housing? How does expanding the ability to have shared housing in New York City comport or relate to this concern that many of my colleagues share around insufficient number of two and three bedroom apartments?
 
-**(00:22:18)**
+[**(00:22:18)**](https://www.youtube.com/watch?v=S4lWF_p0gwE&t=1338s)
 
 
 
@@ -237,37 +237,37 @@ Okay. Yes, that does count. So cost per tree. And then an additional question fo
 
 Sure. Thanks very much. Appreciate the... my name is Matt Doyle from the chief of citywide legislative affairs for the parks department. So tree planting costs can vary obviously depending on the condition and other location things of that nature. But it can cost several thousand dollars for a tree replacement that is determined by a variety of factors. Separate and apart from that just to give some context here we have something in the vicinity of close to 670,000 street trees and at any given time we very roughly estimate maybe 25,000 roughly trees are in close proximity to a sidewalk shed. Thankfully incidents of let us call it construction related damage to street trees are pretty uncommon. You know, we probably get 100 150 sort of reports that come to our attention. That can be through 311 or other mechanisms or staff observation on its own. So, it is relatively minimal, but we do take it quite seriously. In that universe, we do not track the present. We do not necessarily track whether a given instance of damage was directly shed or scaffold related. So
 
-**(00:45:04)**
+[**(00:45:04)**](https://www.youtube.com/watch?v=S4lWF_p0gwE&t=2704s)
 
 
 
 That is sort of a data point that is not tracked in quite that way, but suffice it to say that as we are investigating a certain incident, we are able to usually piece together whether a shed was involved.
 
-**(00:45:18)**
+[**(00:45:18)**](https://www.youtube.com/watch?v=S4lWF_p0gwE&t=2718s)
 
 
 
 Got it. Thank you. And in that instance that a scaffolding sidewalk shed was involved, it is the property owner that is responsible.
 
-**(00:45:26)**
+[**(00:45:26)**](https://www.youtube.com/watch?v=S4lWF_p0gwE&t=2726s)
 
 
 
 So there are a couple different mechanisms. In some cases the property owner, as Deputy Commissioner Sarakus noted, in other cases if a scaffold is actually involved there is that that will be permitted and there is a way to identify that end. So in that case it is often the permittee if you will that is engaged with, but nine times out of 10 the property owner is involved in that discussion in one way or another.
 
-**(00:45:47)**
+[**(00:45:47)**](https://www.youtube.com/watch?v=S4lWF_p0gwE&t=2747s)
 
 
 
 Got it. Okay. Thank you. And I think the deputy commissioner said Parks and Buildings are discussing the best way to handle this. But it does sound like existing practice is for the permit who is paid for by the owner. They are the ones that are addressing these conditions. So does this bill change anything?
 
-**(00:46:10)**
+[**(00:46:10)**](https://www.youtube.com/watch?v=S4lWF_p0gwE&t=2770s)
 
 
 
 By and large yeah I think there are mechanisms that are already in place both through the admin code and through Parks rules for the City to seek replacement or restitution in case of severe damage. What this bill seems to do is draw a sharper focus on sheds and scaffolding directly, which is not but as Deputy Commissioner Sarakus noted we are already actually talking through a variety of approaches more on the proactive or prescriptive end of things right in terms of design in terms of making sure that more permittees are aware of the importance of tree protection, those sort of more positive approaches as well. And we would be happy obviously to work with the Council whether it is through this bill or otherwise to talk through that.
 
-**(00:46:52)**
+[**(00:46:52)**](https://www.youtube.com/watch?v=S4lWF_p0gwE&t=2812s)
 
 
 
@@ -275,73 +275,73 @@ Thank you. Thank you so much. So now moving to intro number 271 on vacate orders
 
 That is typically the scene where we would have HPD responding, Department of Buildings responding. NISM potentially coordinating because of the impact on families and all the rest. So my question is in this fire response what exactly went wrong? Why were there 10 vacates issued after much communication between myself, agencies, deputy mayors, mayor himself? What went wrong that day in terms of communication and what could have prevented that?
 
-**(00:49:09)**
+[**(00:49:09)**](https://www.youtube.com/watch?v=S4lWF_p0gwE&t=2949s)
 
 
 
 Start.
 
-**(00:49:12)**
+[**(00:49:12)**](https://www.youtube.com/watch?v=S4lWF_p0gwE&t=2952s)
 
 
 
 Good morning, Council members. Thank you very much, CM Sanchez. As you know, I was in the loop that day on this and obviously a terrible tragedy. A response from the agencies was a little delayed due to the snowstorm. I think we are internally all discussing that particular incident to identify what we can do better to make sure that we are absolutely responsive to the needs of New Yorkers when there is a fire. As you know, American Red Cross is usually our first response after the fire department. So we are talking with them, we are talking with the fire department, with the buildings department to make sure that there are no cases that fall through the cracks. And we are committed 100% to making sure that New Yorkers that experience such an event have the full support of all of those entities and the City. So you know that ARC, HPD, DOB, and NISM at the larger events where they are coordinating, often send multiple teams out to buildings. We provide emergency housing to folks when their units are damaged, when we see either a vacate order or the American Red Cross observes damage that is to the level where the households cannot continue to reside and so we are happy to continue conversations with you around this particular incident. Thank you deputy commissioner. I mean my question is there was clearly a breakdown in communication when I contacted you and other agencies there did not appear to be awareness of the extent of damage at this fire.
 
-**(00:51:01)**
+[**(00:51:01)**](https://www.youtube.com/watch?v=S4lWF_p0gwE&t=3061s)
 
 
 
 So, does FDNY as a matter of policy does FDNY respond by sharing information with HPD immediately when there is a fire or with American Red Cross? What exactly happens when it is not a three-alarm fire? So, NISM is not activated. What happens in terms of inter agency communication?
 
-**(00:51:29)**
+[**(00:51:29)**](https://www.youtube.com/watch?v=S4lWF_p0gwE&t=3089s)
 
 
 
 And I am sorry I know Buildings was there and you issued one vacate for the most impacted unit but then the Department of Buildings said that because according to the laws that you enforce there was not reason for other vacates that those would have to be issued by HPD. So I am just curious on the communication required what is the protocol or policy internally? Thank you Council member. So the FDNY communications are monitored I believe by both Department of Buildings and the American Red Cross and that is how the information is usually received by the agencies. So again you know further discussion with you on those issues we are happy to continue.
 
-**(00:52:14)**
+[**(00:52:14)**](https://www.youtube.com/watch?v=S4lWF_p0gwE&t=3134s)
 
 
 
 Okay. Thank you. Yes so I would definitely appreciate that. So in the aftermath of a fire, now turning back to the example of Wallace Avenue and CM Riley's district, Heath Avenue and mine and countless others across the City of New York, what tools today does HPD have to force or incentivize or force, whatever word we want to use, depending on the timeline, an owner to correct conditions after there has been a fire that has vacated an entire property? Thank you, Council member. As you know, most of the fires that we respond to in the City are not full building vacates, right? Most fires are partials and the agencies do some monitoring around those. For the two examples that you gave, the Wallace Avenue and the Heath Avenue, as you stated, those are full building fires. HPD in those cases monitors the owner's compliance with moving towards correction and a full building fire, a full building vacate can be quite destructive and even in a best case scenario would take some time for repairs to be made after insurance proceeds and investigations. In both of these cases, Wallace Avenue and Heath, HPD initiated legal action against the owner, comprehensive litigation, and both of those cases are in progress by HPD's housing litigation division. So we are seeking correction of all conditions, restoration of all tenants in those properties and that is an ongoing process.
 
-**(00:54:00)**
+[**(00:54:00)**](https://www.youtube.com/watch?v=S4lWF_p0gwE&t=3240s)
 
 
 
 Got it. CM Krishnan's Bill 271 would require HPD to commence Article 7-A proceedings. I understand your testimony today to sort of be against the requirement of initiating Article 7-A proceedings, but can you for the benefit of the public remind us what Article 7-A does to a property and how often HPD has used that in the past say 5 years whatever time period you have the information for and why you would not be supportive of the requirement to pursue a little bit more often?
 
-**(00:54:42)**
+[**(00:54:42)**](https://www.youtube.com/watch?v=S4lWF_p0gwE&t=3282s)
 
 
 
 Thank you, Council member. The Article 7-A program is a program in which HPD or tenants can go into housing court and seek the appointment of an administrator. That administrator would be responsible for the day-to-day maintenance of the property, would collect rents, would stand in place of the owner. The owner we are not taking the building from the owner. But the administrator is managing the building. The use of the Article 7-A program right now is for tenant occupied buildings where basically the building has gone through enforcement actions and the owner has been unresponsive or there is no owner and we feel the need that the building is in such a condition that it needs an administrator. We absolutely want to work with the Council on stronger tools around vacates and the enforcement of vacates, but we believe that the use of this program for every building that is issued a vacate within a very short time period is excessive for that purpose. Not to say that it would never be considered on a building as such a building, but the majority of property owners comply within a reasonable amount of time and are working diligently to restore their property. Wallace Avenue and Heath Avenue are exceptions to the general rule around vacates. And so again, while we understand and appreciate that different or more tools could be helpful in dealing with your 90% 95% of your fire damage properties. Article 7-A is a tool that is really not the appropriate one for the majority of situations.
 
-**(00:56:39)**
+[**(00:56:39)**](https://www.youtube.com/watch?v=S4lWF_p0gwE&t=3399s)
 
 
 
 Thank you. Thank you. I know CM Krishnan feels very passionately about the Article 7-A proceeding and its success in his time as a housing attorney. I just want to state, you know, as you know, I fundamentally believe that HPD needs stronger tools for these very bad actors, like the worst of the worst, right? That are the exceptions to the rule, but these exceptions to the rule are impacting hundreds of residents, right? Who are homeless, who are living in shelter, who are displaced from their communities and their families. And so, I just want to continue to have that conversation about what are the strongest possible tools we can use to act on these terrible actors. And we absolutely are 100% in agreement with that, Council member.
 
-**(00:57:22)**
+[**(00:57:22)**](https://www.youtube.com/watch?v=S4lWF_p0gwE&t=3442s)
 
 
 
 Yeah. Thank you. Okay. Intro...
 
-**(00:57:26)**
+[**(00:57:26)**](https://www.youtube.com/watch?v=S4lWF_p0gwE&t=3446s)
 
 
 
 Number, let's see, what do I want to ask about? It is a lottery. On 421, cellar apartment legalization. You know, just to make sure we stayed on the record, can you help us understand why the bill why this cleanup is needed at this time? Again, because I asked you the same question two months ago. Yes, thank you Council member. So just to reiterate from last time we spoke about this. We believe that the intention of the legislation that was passed as part of City of Yes was to create more possibilities for cellar and basement apartments. And we did do this by modifying the Housing Maintenance Code to permit it in existing buildings. But inadvertently left out the possibility for new construction buildings to have legal cellar and basement apartments. And so that is what this legislation would do now is just correct that technical error.
 
-**(00:58:19)**
+[**(00:58:19)**](https://www.youtube.com/watch?v=S4lWF_p0gwE&t=3499s)
 
 
 
 Okay, thank you so much. Great.
 
-**(00:58:23)**
+[**(00:58:23)**](https://www.youtube.com/watch?v=S4lWF_p0gwE&t=3503s)
 
 
 
@@ -349,37 +349,37 @@ Okay. On intro 418, Housing Connect services, you know, my office is probably on
 
 I do want to add that which I left off before when responding to CM Salaam, that we also have launched neighborhood tech help program that serves to bridge that digital divide a lot of our neighbors and New Yorkers may experience when applying for housing. And that is in partnership with the New York Public Library. And we are happy to have both of those programs that and the housing ambassadors helping New Yorkers where they are in their communities.
 
-**(01:00:56)**
+[**(01:00:56)**](https://www.youtube.com/watch?v=S4lWF_p0gwE&t=3656s)
 
 
 
 You mentioned libraries as one of the places.
 
-**(01:00:58)**
+[**(01:00:58)**](https://www.youtube.com/watch?v=S4lWF_p0gwE&t=3658s)
 
 
 
 Yes. Great. Thank you. I look forward to hearing more about how that is going. Okay. Intro 427 related to the re-rent process. Last year, HPD issued a waiver to facilitate occupancy of re-rental units, allowing owners to circumvent the usual time-consuming process that had left these affordable apartments sitting vacant for months. Our understanding is that this waiver is set to expire in April of this year. What are HPD's short-term and long-term plans for re-rental units and the process for re-renting once this waiver expires?
 
-**(01:01:30)**
+[**(01:01:30)**](https://www.youtube.com/watch?v=S4lWF_p0gwE&t=3690s)
 
 
 
 So we have spent the last several months meeting with a whole variety of stakeholders including applicants, advocate organizations, owners, developers, marketing agents. Not to mention with elected officials and teams like yours to gather input about what the best set of options could be for re-rentals for filling affordable vacancies in the future. We are actively reviewing all of the wide range of feedback that we received and we did receive a wide range. So it is very much in our it is something that we are actively reviewing and actively rethinking at this time. Great.
 
-**(01:02:23)**
+[**(01:02:23)**](https://www.youtube.com/watch?v=S4lWF_p0gwE&t=3743s)
 
 
 
 All right. Thank you. Thank you so much. That concludes my questions. Thank you so much for your testimony today and mark it. This is probably the shortest hearing we will have. Thank you.
 
-**(01:02:36)**
+[**(01:02:36)**](https://www.youtube.com/watch?v=S4lWF_p0gwE&t=3756s)
 
 
 
 Thank you chair.
 
-**(01:02:38)**
+[**(01:02:38)**](https://www.youtube.com/watch?v=S4lWF_p0gwE&t=3758s)
 
 
 
