@@ -542,3 +542,67 @@ body.desktop {
         padding: 0.75rem 1rem;
     }
 }
+
+/* ---------- Landing page (Projects list) ---------- */
+.intro-block .intro-subtitle {
+    font-family: var(--font-body);
+    font-size: 1rem;
+    color: var(--text-muted);
+    line-height: 1.4;
+    max-width: 58ch;
+    margin-top: 0.25rem;
+}
+
+.project-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.project-item + .project-item {
+    margin-top: 0.75rem;
+}
+
+.project-link {
+    display: block;
+    padding: 1rem 1.25rem;
+    background: var(--window-bg);
+    color: var(--text);
+    text-decoration: none;
+    border-top: 2px solid var(--bevel-light);
+    border-left: 2px solid var(--bevel-light);
+    border-right: 2px solid var(--bevel-darker);
+    border-bottom: 2px solid var(--bevel-darker);
+    transition: transform 60ms ease-out, filter 60ms ease-out;
+}
+
+.project-link:hover {
+    filter: brightness(0.98);
+    transform: translate(1px, 1px);
+}
+
+.project-link:active {
+    transform: translate(1px, 1px);
+    border-top: 2px solid var(--bevel-darker);
+    border-left: 2px solid var(--bevel-darker);
+    border-right: 2px solid var(--bevel-light);
+    border-bottom: 2px solid var(--bevel-light);
+}
+
+.project-title {
+    display: block;
+    font-family: var(--font-body);
+    font-size: 1.05rem;
+    font-weight: 700;
+    letter-spacing: -0.005em;
+    color: var(--link);
+}
+
+.project-desc {
+    display: block;
+    margin-top: 0.2rem;
+    font-family: var(--font-body);
+    font-size: 0.92rem;
+    color: var(--text-muted);
+    line-height: 1.4;
+}
