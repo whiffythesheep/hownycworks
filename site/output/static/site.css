@@ -1,5 +1,5 @@
 /* site.css
- * How NYC Works — shared stylesheet
+ * How NYC Works — landing page stylesheet
  * "Bureaucratic cool": Win95/XP system UI as design vocabulary,
  * paired with modern editorial typography and generous whitespace.
  */
@@ -13,42 +13,33 @@
 
 /* ---------- Tokens ---------- */
 :root {
-    /* Desktop — neutral medium-dark grey, no blue cast.
-       Lighter than before so it reads as a dim field, not a void. */
     --desktop-bg: #5e5e60;
     --desktop-bg-shadow: rgba(0, 0, 0, 0.45);
 
-    /* Window surfaces */
     --window-bg: #fbfaf6;
-    --chrome-gray: #c8c5bc;       /* classic 95-ish but slightly warmed */
+    --chrome-gray: #c8c5bc;
 
-    /* Title bar — neutral dark grey gradient, no blue cast */
     --titlebar-from: #2a2a2c;
     --titlebar-to: #131314;
     --titlebar-text: #ffffff;
 
-    /* Bevels — high contrast so they actually read */
     --bevel-light: #ffffff;
     --bevel-mid: #e3e0d6;
     --bevel-dark: #8a8678;
     --bevel-darker: #4a4740;
 
-    /* Text */
     --text: #15171a;
     --text-muted: #5a574f;
     --rule: #d6d3c8;
 
-    /* Accents */
     --accent: #b45309;
     --accent-hover: #7c3a06;
     --link: #1c4f8c;
 
-    /* Window control colors (XP-evoking traffic-light style) */
     --ctl-min: #f5c451;
     --ctl-max: #5fb35a;
     --ctl-close: #d8483a;
 
-    /* Type */
     --font-body: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
     --font-chrome: 'IBM Plex Mono', ui-monospace, 'Cascadia Mono', Consolas, 'Courier New', monospace;
 }
@@ -59,21 +50,6 @@
     border-left: 3px solid var(--bevel-light);
     border-right: 3px solid var(--bevel-darker);
     border-bottom: 3px solid var(--bevel-darker);
-}
-
-.bevel-out-inner {
-    /* secondary inner edge for that classic double-bevel look */
-    border-top: 1px solid var(--bevel-mid);
-    border-left: 1px solid var(--bevel-mid);
-    border-right: 1px solid var(--bevel-dark);
-    border-bottom: 1px solid var(--bevel-dark);
-}
-
-.bevel-in {
-    border-top: 3px solid var(--bevel-darker);
-    border-left: 3px solid var(--bevel-darker);
-    border-right: 3px solid var(--bevel-light);
-    border-bottom: 3px solid var(--bevel-light);
 }
 
 /* ---------- Desktop ---------- */
@@ -101,7 +77,6 @@ body.desktop {
     max-width: 1260px;
     margin: 0 auto;
     background: var(--chrome-gray);
-    /* Outset bevel — high contrast so it pops on the teal desktop */
     border-top: 3px solid var(--bevel-light);
     border-left: 3px solid var(--bevel-light);
     border-right: 3px solid var(--bevel-darker);
@@ -160,7 +135,6 @@ body.desktop {
     font-weight: 700;
     line-height: 1;
     text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
-    /* Outset bevel on each button */
     border-top: 2px solid var(--bevel-light);
     border-left: 2px solid var(--bevel-light);
     border-right: 2px solid var(--bevel-darker);
@@ -178,7 +152,6 @@ body.desktop {
 /* ---------- Window body ---------- */
 .window-body {
     background: var(--window-bg);
-    /* sunken inner panel */
     border-top: 2px solid var(--bevel-darker);
     border-left: 2px solid var(--bevel-darker);
     border-right: 2px solid var(--bevel-light);
@@ -186,27 +159,8 @@ body.desktop {
     padding: 2.25rem 2.75rem 2.5rem;
 }
 
-.back-link {
-    display: inline-block;
-    font-family: var(--font-chrome);
-    font-size: 12px;
-    color: var(--text-muted);
-    text-decoration: none;
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
-    margin-bottom: 2rem;
-    padding: 3px 8px;
-    margin-left: -8px;
-}
-
-.back-link:hover {
-    color: var(--accent);
-    background: #f3f1e9;
-}
-
-/* ---------- Shared section heading (mono uppercase, dashed rule) ---------- */
-.section-heading,
-.hearing-summary h3 {
+/* ---------- Section heading ---------- */
+.section-heading {
     font-family: var(--font-chrome);
     font-size: 0.95rem;
     font-weight: 600;
@@ -218,186 +172,6 @@ body.desktop {
     margin-bottom: 0.75rem;
     padding-bottom: 0.35rem;
     border-bottom: 1px dashed var(--bevel-dark);
-}
-
-/* ---------- Hearing header ---------- */
-.hearing-header {
-    margin-bottom: 2.25rem;
-    padding-bottom: 1.5rem;
-    border-bottom: 1px solid var(--rule);
-}
-
-.hearing-header h1 {
-    font-family: var(--font-body);
-    font-size: 1.55rem;
-    font-weight: 700;
-    line-height: 1.22;
-    letter-spacing: -0.012em;
-    color: var(--text);
-    margin-bottom: 0.85rem;
-    max-width: 42ch;
-}
-
-.hearing-meta {
-    font-family: var(--font-chrome);
-    font-size: 12px;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    color: var(--text-muted);
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    gap: 0.5rem;
-}
-
-.hearing-meta time,
-.hearing-meta .duration {
-    color: var(--text-muted);
-}
-
-.meta-sep {
-    color: var(--bevel-dark);
-}
-
-.youtube-link,
-.council-link {
-    color: var(--accent);
-    text-decoration: none;
-    border-bottom: 1px solid transparent;
-}
-
-.youtube-link:hover,
-.council-link:hover {
-    border-bottom-color: var(--accent);
-    color: var(--accent-hover);
-}
-
-/* ---------- Summary body ---------- */
-.hearing-summary {
-    color: var(--text);
-}
-
-/* "Summary" — top-level section title, dominant */
-.hearing-summary h2 {
-    font-family: var(--font-body);
-    font-size: 1.4rem;
-    font-weight: 700;
-    line-height: 1.22;
-    letter-spacing: -0.008em;
-    margin-top: 2.25rem;
-    margin-bottom: 0.85rem;
-    padding-bottom: 0.4rem;
-    border-bottom: 2px solid var(--text);
-    color: var(--text);
-}
-
-.hearing-summary h2:first-child {
-    margin-top: 0;
-}
-
-.hearing-summary p {
-    margin-bottom: 1rem;
-    max-width: 68ch;
-}
-
-.hearing-summary ul,
-.hearing-summary ol {
-    margin: 0 0 1rem 1.25rem;
-    max-width: 66ch;
-}
-
-.hearing-summary li {
-    margin-bottom: 0.4rem;
-}
-
-.hearing-summary a {
-    color: var(--link);
-    text-decoration: underline;
-    text-decoration-thickness: 1px;
-    text-underline-offset: 2px;
-}
-
-.hearing-summary a:hover {
-    color: var(--accent);
-}
-
-.hearing-summary strong {
-    font-weight: 600;
-}
-
-/* ---------- Transcript well (sunken bevel) ---------- */
-.hearing-transcript {
-    margin-top: 2.5rem;
-    background: transparent;
-    padding: 0;
-    border: none;
-}
-
-.hearing-transcript > summary {
-    list-style: none;
-    cursor: pointer;
-    /* match h3 subsection style */
-    font-family: var(--font-chrome);
-    font-size: 0.95rem;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.09em;
-    color: var(--text-muted);
-    padding: 0.5rem 0 0.35rem;
-    background: transparent;
-    border-bottom: 1px dashed var(--bevel-dark);
-    user-select: none;
-}
-
-.hearing-transcript > summary::-webkit-details-marker {
-    display: none;
-}
-
-.hearing-transcript > summary:hover {
-    color: var(--accent);
-}
-
-.transcript-body {
-    padding: 1.5rem 1.5rem 1.75rem;
-    font-size: 0.95rem;
-    line-height: 1.6;
-    color: var(--text);
-}
-
-.transcript-body p {
-    margin-bottom: 0.85rem;
-    max-width: 70ch;
-}
-
-.transcript-body strong {
-    display: inline-block;
-    margin-top: 0.6rem;
-    font-family: var(--font-chrome);
-    font-size: 11px;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
-    color: var(--text-muted);
-}
-
-/* Timestamp links — jump to the corresponding moment in the YouTube video.
-   At rest: a thin dotted underline hints at clickability without shouting.
-   On hover: accent color with a subtle warm-beige fill, matching .back-link. */
-.transcript-body a {
-    text-decoration: none;
-    color: inherit;
-    border-bottom: 1px solid transparent;
-    transition: color 120ms ease, background-color 120ms ease, border-bottom-color 120ms ease;
-}
-
-.transcript-body a:hover {
-    color: var(--accent);
-    background: #f3f1e9;
-    border-bottom: 1px solid var(--accent);
-}
-
-.transcript-body a:hover strong {
-    color: var(--accent);
 }
 
 /* ---------- Status bar footer ---------- */
@@ -415,7 +189,6 @@ body.desktop {
 .status-cell {
     flex: 1 1 auto;
     height: 14px;
-    /* sunken inset */
     border-top: 1px solid var(--bevel-darker);
     border-left: 1px solid var(--bevel-darker);
     border-right: 1px solid var(--bevel-light);
@@ -423,7 +196,6 @@ body.desktop {
     background: var(--chrome-gray);
 }
 
-/* fixed-width accent cells flanking a wider center cell */
 .status-cell--sm {
     flex: 0 0 64px;
 }
@@ -444,106 +216,6 @@ body.desktop {
     margin-bottom: 0.75rem;
 }
 
-.intro-block .intro {
-    font-size: 1.05rem;
-    color: var(--text-muted);
-    max-width: 58ch;
-}
-
-.index-section {
-    margin-bottom: 2.5rem;
-}
-
-.index-section:last-child { margin-bottom: 0; }
-
-/* Sunken "well" containing the listing — mirrors the window-body inset bevel */
-.listing-well {
-    background: #f3f1e9;            /* slightly cooler than window-bg */
-    border-top: 2px solid var(--bevel-darker);
-    border-left: 2px solid var(--bevel-darker);
-    border-right: 2px solid var(--bevel-light);
-    border-bottom: 2px solid var(--bevel-light);
-    padding: 0.25rem 0;
-}
-
-.hearing-index {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-}
-
-.hearing-row { margin: 0; }
-
-.hearing-row + .hearing-row {
-    border-top: 1px dashed var(--bevel-dark);
-}
-
-.hearing-row a {
-    display: grid;
-    grid-template-columns: 18ch 1fr;
-    gap: 1.25rem;
-    align-items: baseline;
-    padding: 0.7rem 1rem;
-    text-decoration: none;
-    color: var(--text);
-}
-
-.hearing-row a:hover {
-    background: #ece9de;
-}
-
-.hearing-row__date {
-    font-family: var(--font-chrome);
-    font-size: 12px;
-    font-weight: 500;
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
-    color: var(--text-muted);
-    white-space: nowrap;
-}
-
-.hearing-row__title {
-    font-family: var(--font-body);
-    font-size: 1rem;
-    font-weight: 500;
-    line-height: 1.4;
-    color: var(--text);
-}
-
-.hearing-row a:hover .hearing-row__title {
-    color: var(--accent);
-}
-
-/* ---------- Responsive ---------- */
-@media (max-width: 640px) {
-    body.desktop {
-        padding: 1rem 0.5rem 2rem;
-    }
-
-    .window-body {
-        padding: 1.5rem 1.25rem 1.75rem;
-    }
-
-    .hearing-header h1 {
-        font-size: 1.55rem;
-    }
-
-    .hearing-summary h2 {
-        font-size: 1.5rem;
-    }
-
-    .window-title {
-        font-size: 11px;
-    }
-
-    .hearing-row a {
-        grid-template-columns: 1fr;
-        gap: 0.25rem;
-        padding: 0.75rem 1rem;
-    }
-}
-
-/* ---------- Landing page (Projects list) ---------- */
 .intro-block .intro-subtitle {
     font-family: var(--font-body);
     font-size: 1rem;
@@ -553,6 +225,13 @@ body.desktop {
     margin-top: 0.25rem;
 }
 
+.index-section {
+    margin-bottom: 2.5rem;
+}
+
+.index-section:last-child { margin-bottom: 0; }
+
+/* ---------- Projects list ---------- */
 .project-list {
     list-style: none;
     margin: 0;
@@ -605,4 +284,19 @@ body.desktop {
     font-size: 0.92rem;
     color: var(--text-muted);
     line-height: 1.4;
+}
+
+/* ---------- Responsive ---------- */
+@media (max-width: 640px) {
+    body.desktop {
+        padding: 1rem 0.5rem 2rem;
+    }
+
+    .window-body {
+        padding: 1.5rem 1.25rem 1.75rem;
+    }
+
+    .window-title {
+        font-size: 11px;
+    }
 }
